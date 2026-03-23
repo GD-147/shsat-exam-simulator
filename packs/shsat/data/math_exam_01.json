@@ -1,0 +1,14 @@
+[
+  {
+    "id": "MATH-001",
+    "prompt": "Sample Math question: What is 12 + 8?",
+    "choices": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "21"
+    },
+    "correct": "C",
+    "explanation": "This is a placeholder question for initial portal testing."
+  }
+]

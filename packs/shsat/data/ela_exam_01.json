@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ELA-001",
+    "prompt": "Sample ELA question: Which sentence is written correctly?",
+    "choices": {
+      "A": "She do not like reading.",
+      "B": "She does not like reading.",
+      "C": "She does not likes reading.",
+      "D": "She not like reading."
+    },
+    "correct": "B",
+    "explanation": "This is a placeholder question for initial portal testing."
+  }
+]

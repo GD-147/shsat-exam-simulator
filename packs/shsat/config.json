@@ -1,0 +1,38 @@
+{
+  "examId": "shsat",
+  "brandName": "SHSAT Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/shsat/assets/logo.png",
+  "accessPassword": "SHSAT2026",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "ela",
+      "label": "ELA",
+      "timeMin": 90,
+      "examQuestions": 57,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": [
+        "ela_exam_01.json"
+      ]
+    },
+    {
+      "id": "math",
+      "label": "Math",
+      "timeMin": 90,
+      "examQuestions": 57,
+      "type": "mixed",
+      "choices": 4,
+      "examFiles": [
+        "math_exam_01.json"
+      ]
+    }
+  ],
+  "printables": []
+}
