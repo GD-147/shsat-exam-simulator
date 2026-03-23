@@ -2,7 +2,7 @@
   "examId": "shsat",
   "brandName": "SHSAT Exam Simulator",
   "theme": "dark",
-  "logoPath": "../packs/shsat/assets/logo.png",
+  "logoPath": "../packs/shsat/assets/logo-v2.png",
   "accessPassword": "SHSAT2026",
   "practiceChunkSize": 10,
   "nav": [
