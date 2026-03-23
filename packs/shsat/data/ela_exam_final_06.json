@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN6-001",
+    "prompt": "Read the passage and answer the question.\nWhen Leo signed up to help at the community radio station’s anniversary open house, he pictured microphones, glowing control boards, and maybe a chance to speak on the air. Instead, Ms. Chen led him into a back room lined with labeled boxes and handed him a pair of headphones. “We’re cleaning old recordings,” she said.\nAt first Leo could not understand why anyone would spend a Saturday listening to crackling tapes. The celebration was happening in the front studio, where guests laughed and pointed through the glass at the announcer. Back here, Leo sat at a narrow table, stopping and starting a decades-old interview with the town’s former mayor. Ms. Chen showed him how to note the exact second when static swallowed a word and how to trim long silences without cutting off a speaker’s breath. “People hear history differently when it sounds cared for,” she told him.\nAs the morning went on, Leo began to notice the voices themselves. A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences. The mayor’s laugh, which first seemed scratchy and distant, grew warmer and more human. By the time the cleaned recording played in the front studio for visitors, no one noticed the edits. They only listened. Leo stood in the doorway, oddly proud. He had not spoken into a microphone all day, but he had helped lost voices travel clearly again.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Working at a radio station is less exciting than Leo expected.",
+      "B": "Careful behind-the-scenes work can help people connect more clearly with the past.",
+      "C": "Old recordings should be replaced with new interviews whenever possible.",
+      "D": "Leo would have done a better job in the front studio than in the archive room."
+    },
+    "correct": "B",
+    "explanation": "Leo learns that cleaning the recordings helps listeners hear the people in them more fully. The main trap is choice A, which focuses only on his first disappointment instead of the passage’s larger idea."
+  },
+  {
+    "id": "EN6-002",
+    "prompt": "Read the passage and answer the question.\nWhen Leo signed up to help at the community radio station’s anniversary open house, he pictured microphones, glowing control boards, and maybe a chance to speak on the air. Instead, Ms. Chen led him into a back room lined with labeled boxes and handed him a pair of headphones. “We’re cleaning old recordings,” she said.\nAt first Leo could not understand why anyone would spend a Saturday listening to crackling tapes. The celebration was happening in the front studio, where guests laughed and pointed through the glass at the announcer. Back here, Leo sat at a narrow table, stopping and starting a decades-old interview with the town’s former mayor. Ms. Chen showed him how to note the exact second when static swallowed a word and how to trim long silences without cutting off a speaker’s breath. “People hear history differently when it sounds cared for,” she told him.\nAs the morning went on, Leo began to notice the voices themselves. A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences. The mayor’s laugh, which first seemed scratchy and distant, grew warmer and more human. By the time the cleaned recording played in the front studio for visitors, no one noticed the edits. They only listened. Leo stood in the doorway, oddly proud. He had not spoken into a microphone all day, but he had helped lost voices travel clearly again.\nWhat can the reader most reasonably infer about Ms. Chen?",
+    "choices": {
+      "A": "She thinks visitors care only about modern technology.",
+      "B": "She believes presentation affects how people respond to historical material.",
+      "C": "She wishes Leo would work more quickly.",
+      "D": "She is disappointed that the station kept so many old tapes."
+    },
+    "correct": "B",
+    "explanation": "Ms. Chen says people hear history differently when it sounds cared for, showing that form shapes response. The main trap is choice C, because the passage never suggests impatience."
+  },
+  {
+    "id": "EN6-003",
+    "prompt": "Read the passage and answer the question.\nWhen Leo signed up to help at the community radio station’s anniversary open house, he pictured microphones, glowing control boards, and maybe a chance to speak on the air. Instead, Ms. Chen led him into a back room lined with labeled boxes and handed him a pair of headphones. “We’re cleaning old recordings,” she said.\nAt first Leo could not understand why anyone would spend a Saturday listening to crackling tapes. The celebration was happening in the front studio, where guests laughed and pointed through the glass at the announcer. Back here, Leo sat at a narrow table, stopping and starting a decades-old interview with the town’s former mayor. Ms. Chen showed him how to note the exact second when static swallowed a word and how to trim long silences without cutting off a speaker’s breath. “People hear history differently when it sounds cared for,” she told him.\nAs the morning went on, Leo began to notice the voices themselves. A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences. The mayor’s laugh, which first seemed scratchy and distant, grew warmer and more human. By the time the cleaned recording played in the front studio for visitors, no one noticed the edits. They only listened. Leo stood in the doorway, oddly proud. He had not spoken into a microphone all day, but he had helped lost voices travel clearly again.\nHow does Leo’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from eager to angry",
+      "B": "from bored to frightened",
+      "C": "from disappointed to appreciative",
+      "D": "from confident to embarrassed"
+    },
+    "correct": "C",
+    "explanation": "Leo begins by feeling unimpressed with the task and ends feeling proud of what he contributed. The main trap is choice A, because he does not become angry."
+  },
+  {
+    "id": "EN6-004",
+    "prompt": "Read the passage and answer the question.\nWhen Leo signed up to help at the community radio station’s anniversary open house, he pictured microphones, glowing control boards, and maybe a chance to speak on the air. Instead, Ms. Chen led him into a back room lined with labeled boxes and handed him a pair of headphones. “We’re cleaning old recordings,” she said.\nAt first Leo could not understand why anyone would spend a Saturday listening to crackling tapes. The celebration was happening in the front studio, where guests laughed and pointed through the glass at the announcer. Back here, Leo sat at a narrow table, stopping and starting a decades-old interview with the town’s former mayor. Ms. Chen showed him how to note the exact second when static swallowed a word and how to trim long silences without cutting off a speaker’s breath. “People hear history differently when it sounds cared for,” she told him.\nAs the morning went on, Leo began to notice the voices themselves. A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences. The mayor’s laugh, which first seemed scratchy and distant, grew warmer and more human. By the time the cleaned recording played in the front studio for visitors, no one noticed the edits. They only listened. Leo stood in the doorway, oddly proud. He had not spoken into a microphone all day, but he had helped lost voices travel clearly again.\nAs used in the passage, the word “static” most nearly means",
+    "choices": {
+      "A": "background noise",
+      "B": "frozen movement",
+      "C": "public attention",
+      "D": "radio equipment"
+    },
+    "correct": "A",
+    "explanation": "In context, “static” is the crackling interference covering parts of the tape. The main trap is choice D, which confuses the noise with the equipment itself."
+  },
+  {
+    "id": "EN6-005",
+    "prompt": "Read the passage and answer the question.\nWhen Leo signed up to help at the community radio station’s anniversary open house, he pictured microphones, glowing control boards, and maybe a chance to speak on the air. Instead, Ms. Chen led him into a back room lined with labeled boxes and handed him a pair of headphones. “We’re cleaning old recordings,” she said.\nAt first Leo could not understand why anyone would spend a Saturday listening to crackling tapes. The celebration was happening in the front studio, where guests laughed and pointed through the glass at the announcer. Back here, Leo sat at a narrow table, stopping and starting a decades-old interview with the town’s former mayor. Ms. Chen showed him how to note the exact second when static swallowed a word and how to trim long silences without cutting off a speaker’s breath. “People hear history differently when it sounds cared for,” she told him.\nAs the morning went on, Leo began to notice the voices themselves. A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences. The mayor’s laugh, which first seemed scratchy and distant, grew warmer and more human. By the time the cleaned recording played in the front studio for visitors, no one noticed the edits. They only listened. Leo stood in the doorway, oddly proud. He had not spoken into a microphone all day, but he had helped lost voices travel clearly again.\nWhich detail best supports the idea that Leo’s work changes how listeners experience the recordings?",
+    "choices": {
+      "A": "The celebration was happening in the front studio.",
+      "B": "Ms. Chen led him into a back room lined with labeled boxes.",
+      "C": "A shop owner describing the flood of 1978 no longer sounded like a stranger once Leo had removed the hiss between her sentences.",
+      "D": "Leo pictured microphones, glowing control boards, and maybe a chance to speak on the air."
+    },
+    "correct": "C",
+    "explanation": "This detail directly shows how Leo’s work changes the listener’s experience of the voice. The main trap is choice B, which describes the setting but not the effect of the edits."
+  },
+  {
+    "id": "EN6-006",
+    "prompt": "Read the passage and answer the question.\nSome cities are painting rooftops white or covering them with reflective coatings to create what are known as cool roofs. Dark roofs absorb a large amount of sunlight and then release that heat slowly, which can make buildings and surrounding neighborhoods warmer. Cool roofs reflect more sunlight and absorb less heat. As a result, buildings may need less air-conditioning, especially during hot weather.\nCool roofs, however, are not identical in every setting. Their effectiveness can depend on local climate, building design, and how well the roof surface is maintained over time. A reflective coating that becomes dirty or damaged may work less effectively. In colder climates, planners must also consider whether reducing summer heat gain is worth possible trade-offs during winter. For that reason, cool roofs are best understood not as a single perfect solution, but as one tool among many for managing urban heat.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Cool roofs can reduce heat absorption, but their value depends on local conditions and maintenance.",
+      "B": "Cool roofs are useful only in places with extremely long summers.",
+      "C": "Reflective roof coatings eliminate the need for air-conditioning in every building.",
+      "D": "Dark roofs are preferred because they last longer than light-colored roofs."
+    },
+    "correct": "A",
+    "explanation": "The passage explains both the benefit of reflecting heat and the need to consider climate and upkeep. The main trap is choice C, which overstates the effect."
+  },
+  {
+    "id": "EN6-007",
+    "prompt": "Read the passage and answer the question.\nSome cities are painting rooftops white or covering them with reflective coatings to create what are known as cool roofs. Dark roofs absorb a large amount of sunlight and then release that heat slowly, which can make buildings and surrounding neighborhoods warmer. Cool roofs reflect more sunlight and absorb less heat. As a result, buildings may need less air-conditioning, especially during hot weather.\nCool roofs, however, are not identical in every setting. Their effectiveness can depend on local climate, building design, and how well the roof surface is maintained over time. A reflective coating that becomes dirty or damaged may work less effectively. In colder climates, planners must also consider whether reducing summer heat gain is worth possible trade-offs during winter. For that reason, cool roofs are best understood not as a single perfect solution, but as one tool among many for managing urban heat.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how cool roofs work and why they are not equally effective everywhere",
+      "B": "to argue that cities should ban all dark roof materials immediately",
+      "C": "to compare roof colors used in ancient and modern architecture",
+      "D": "to entertain readers with stories about unusual city buildings"
+    },
+    "correct": "A",
+    "explanation": "The author describes the basic idea of cool roofs and then explains their limits. The main trap is choice B, because the passage informs rather than argues for a ban."
+  },
+  {
+    "id": "EN6-008",
+    "prompt": "Read the passage and answer the question.\nSome cities are painting rooftops white or covering them with reflective coatings to create what are known as cool roofs. Dark roofs absorb a large amount of sunlight and then release that heat slowly, which can make buildings and surrounding neighborhoods warmer. Cool roofs reflect more sunlight and absorb less heat. As a result, buildings may need less air-conditioning, especially during hot weather.\nCool roofs, however, are not identical in every setting. Their effectiveness can depend on local climate, building design, and how well the roof surface is maintained over time. A reflective coating that becomes dirty or damaged may work less effectively. In colder climates, planners must also consider whether reducing summer heat gain is worth possible trade-offs during winter. For that reason, cool roofs are best understood not as a single perfect solution, but as one tool among many for managing urban heat.\nWhich sentence from the passage best supports the idea that cool roofs may lower energy use?",
+    "choices": {
+      "A": "Some cities are painting rooftops white or covering them with reflective coatings.",
+      "B": "Cool roofs reflect more sunlight and absorb less heat.",
+      "C": "As a result, buildings may need less air-conditioning, especially during hot weather.",
+      "D": "A reflective coating that becomes dirty or damaged may work less effectively."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly connects cool roofs to reduced energy use. The main trap is choice B, which describes the physical effect but not the energy result as clearly."
+  },
+  {
+    "id": "EN6-009",
+    "prompt": "Read the passage and answer the question.\nSome cities are painting rooftops white or covering them with reflective coatings to create what are known as cool roofs. Dark roofs absorb a large amount of sunlight and then release that heat slowly, which can make buildings and surrounding neighborhoods warmer. Cool roofs reflect more sunlight and absorb less heat. As a result, buildings may need less air-conditioning, especially during hot weather.\nCool roofs, however, are not identical in every setting. Their effectiveness can depend on local climate, building design, and how well the roof surface is maintained over time. A reflective coating that becomes dirty or damaged may work less effectively. In colder climates, planners must also consider whether reducing summer heat gain is worth possible trade-offs during winter. For that reason, cool roofs are best understood not as a single perfect solution, but as one tool among many for managing urban heat.\nAs used in the passage, the word “trade-offs” most nearly means",
+    "choices": {
+      "A": "exchanges involving gains and losses",
+      "B": "roofs sold at lower prices",
+      "C": "sudden weather changes",
+      "D": "repairs made to buildings"
+    },
+    "correct": "A",
+    "explanation": "“Trade-offs” means that reducing heat in one season may involve disadvantages in another. The main trap is choice B, which takes the term too literally."
+  },
+  {
+    "id": "EN6-010",
+    "prompt": "Read the passage and answer the question.\nSome cities are painting rooftops white or covering them with reflective coatings to create what are known as cool roofs. Dark roofs absorb a large amount of sunlight and then release that heat slowly, which can make buildings and surrounding neighborhoods warmer. Cool roofs reflect more sunlight and absorb less heat. As a result, buildings may need less air-conditioning, especially during hot weather.\nCool roofs, however, are not identical in every setting. Their effectiveness can depend on local climate, building design, and how well the roof surface is maintained over time. A reflective coating that becomes dirty or damaged may work less effectively. In colder climates, planners must also consider whether reducing summer heat gain is worth possible trade-offs during winter. For that reason, cool roofs are best understood not as a single perfect solution, but as one tool among many for managing urban heat.\nA city with very hot summers is choosing materials for a new school roof. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "choose a reflective roof surface and plan to maintain it regularly",
+      "B": "select the darkest roof possible to absorb the most sunlight",
+      "C": "ignore climate and choose whatever roof color is cheapest",
+      "D": "assume any reflective coating will work forever without care"
+    },
+    "correct": "A",
+    "explanation": "This answer matches the passage’s emphasis on hot climates and the importance of upkeep. The main trap is choice D, which ignores the warning that coatings work less well if not maintained."
+  },
+  {
+    "id": "EN6-011",
+    "prompt": "Read the passage and answer the question.\nNadia had always thought the museum’s fossil hall felt finished, almost permanent, as if the giant skeletons had simply existed under the lights forever. Then her science teacher arranged for the class to visit the preparation lab, where new fossils were cleaned before display.\nThe lab was quieter than she expected. No dramatic discoveries were taking place, no one was brushing sand from a complete dinosaur skull. Instead, Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread. Every few minutes, he paused to look through a magnifying lens. “Most of the work,” he told the students, “is learning what not to remove.”\nNadia watched him uncover the edge of a bone thinner than her finger. It was not impressive in the way she had imagined fossils should be. Yet the care around it made it seem valuable. By the end of the visit, she understood that the giant skeletons in the museum were not only about size or age. They were also made of patience—hours of choosing, stopping, and choosing again. When she walked back through the fossil hall, the displays seemed less like finished objects and more like questions people had taken years to answer.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Nadia learns that scientific discovery often depends on patient, careful work.",
+      "B": "Fossil halls are less interesting than preparation labs.",
+      "C": "Large fossils are more important than small ones.",
+      "D": "Museum displays should include more complete dinosaur skulls."
+    },
+    "correct": "A",
+    "explanation": "The visit teaches Nadia that the museum’s big displays come from small, deliberate choices in the lab. The main trap is choice B, which turns the passage into a simple comparison rather than a lesson."
+  },
+  {
+    "id": "EN6-012",
+    "prompt": "Read the passage and answer the question.\nNadia had always thought the museum’s fossil hall felt finished, almost permanent, as if the giant skeletons had simply existed under the lights forever. Then her science teacher arranged for the class to visit the preparation lab, where new fossils were cleaned before display.\nThe lab was quieter than she expected. No dramatic discoveries were taking place, no one was brushing sand from a complete dinosaur skull. Instead, Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread. Every few minutes, he paused to look through a magnifying lens. “Most of the work,” he told the students, “is learning what not to remove.”\nNadia watched him uncover the edge of a bone thinner than her finger. It was not impressive in the way she had imagined fossils should be. Yet the care around it made it seem valuable. By the end of the visit, she understood that the giant skeletons in the museum were not only about size or age. They were also made of patience—hours of choosing, stopping, and choosing again. When she walked back through the fossil hall, the displays seemed less like finished objects and more like questions people had taken years to answer.\nWhat can the reader most reasonably infer about Dr. Perez?",
+    "choices": {
+      "A": "He values precision more than dramatic appearances.",
+      "B": "He wishes the students had stayed in the fossil hall.",
+      "C": "He believes only large fossils are worth displaying.",
+      "D": "He is frustrated by the slow pace of fossil preparation."
+    },
+    "correct": "A",
+    "explanation": "Dr. Perez focuses on careful removal and says the work is learning what not to remove. The main trap is choice D, because he is patient rather than frustrated."
+  },
+  {
+    "id": "EN6-013",
+    "prompt": "Read the passage and answer the question.\nNadia had always thought the museum’s fossil hall felt finished, almost permanent, as if the giant skeletons had simply existed under the lights forever. Then her science teacher arranged for the class to visit the preparation lab, where new fossils were cleaned before display.\nThe lab was quieter than she expected. No dramatic discoveries were taking place, no one was brushing sand from a complete dinosaur skull. Instead, Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread. Every few minutes, he paused to look through a magnifying lens. “Most of the work,” he told the students, “is learning what not to remove.”\nNadia watched him uncover the edge of a bone thinner than her finger. It was not impressive in the way she had imagined fossils should be. Yet the care around it made it seem valuable. By the end of the visit, she understood that the giant skeletons in the museum were not only about size or age. They were also made of patience—hours of choosing, stopping, and choosing again. When she walked back through the fossil hall, the displays seemed less like finished objects and more like questions people had taken years to answer.\nHow does Nadia’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from thrilled to worried",
+      "B": "from casual admiration to deeper respect",
+      "C": "from boredom to confusion",
+      "D": "from confidence to embarrassment"
+    },
+    "correct": "B",
+    "explanation": "Nadia starts with a surface impression of the fossil hall and ends with a more thoughtful appreciation of the work behind it. The main trap is choice A, because she is not thrilled at the beginning."
+  },
+  {
+    "id": "EN6-014",
+    "prompt": "Read the passage and answer the question.\nNadia had always thought the museum’s fossil hall felt finished, almost permanent, as if the giant skeletons had simply existed under the lights forever. Then her science teacher arranged for the class to visit the preparation lab, where new fossils were cleaned before display.\nThe lab was quieter than she expected. No dramatic discoveries were taking place, no one was brushing sand from a complete dinosaur skull. Instead, Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread. Every few minutes, he paused to look through a magnifying lens. “Most of the work,” he told the students, “is learning what not to remove.”\nNadia watched him uncover the edge of a bone thinner than her finger. It was not impressive in the way she had imagined fossils should be. Yet the care around it made it seem valuable. By the end of the visit, she understood that the giant skeletons in the museum were not only about size or age. They were also made of patience—hours of choosing, stopping, and choosing again. When she walked back through the fossil hall, the displays seemed less like finished objects and more like questions people had taken years to answer.\nAs used in the passage, the word “permanent” most nearly means",
+    "choices": {
+      "A": "temporary",
+      "B": "unchanging",
+      "C": "fragile",
+      "D": "expensive"
+    },
+    "correct": "B",
+    "explanation": "“Permanent” here means that the displays seemed fixed and always there. The main trap is choice C, which describes weakness, not permanence."
+  },
+  {
+    "id": "EN6-015",
+    "prompt": "Read the passage and answer the question.\nNadia had always thought the museum’s fossil hall felt finished, almost permanent, as if the giant skeletons had simply existed under the lights forever. Then her science teacher arranged for the class to visit the preparation lab, where new fossils were cleaned before display.\nThe lab was quieter than she expected. No dramatic discoveries were taking place, no one was brushing sand from a complete dinosaur skull. Instead, Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread. Every few minutes, he paused to look through a magnifying lens. “Most of the work,” he told the students, “is learning what not to remove.”\nNadia watched him uncover the edge of a bone thinner than her finger. It was not impressive in the way she had imagined fossils should be. Yet the care around it made it seem valuable. By the end of the visit, she understood that the giant skeletons in the museum were not only about size or age. They were also made of patience—hours of choosing, stopping, and choosing again. When she walked back through the fossil hall, the displays seemed less like finished objects and more like questions people had taken years to answer.\nWhich detail best supports the idea that Nadia begins to understand the hidden work behind museum displays?",
+    "choices": {
+      "A": "The lab was quieter than she expected.",
+      "B": "Dr. Perez sat beneath a lamp, tapping gently at a block of rock no bigger than a loaf of bread.",
+      "C": "Her science teacher arranged for the class to visit the preparation lab.",
+      "D": "The giant skeletons had simply existed under the lights forever."
+    },
+    "correct": "B",
+    "explanation": "This moment reveals the slow, careful labor behind museum exhibits. The main trap is choice A, which describes atmosphere but not the hidden work itself."
+  },
+  {
+    "id": "EN6-016",
+    "prompt": "Read the passage and answer the question.\nTo help fish move past dams and other barriers, some rivers include structures called fish ladders. These systems create a series of small steps or pools that allow fish to travel upstream in stages instead of trying to leap one high wall of water. Different designs exist, but the basic idea is the same: reduce the force and height of the obstacle so migration can continue.\nFish ladders can improve access to spawning grounds, yet they are not perfect in every situation. Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult. Engineers and biologists often study how fish behave near a barrier before deciding what kind of ladder to build. In that sense, a fish ladder is not just a concrete structure. It is a design based on the movement patterns of living animals.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Fish ladders are simple structures that solve every migration problem in rivers.",
+      "B": "Fish ladders are designed to help fish pass barriers, but they must be planned carefully to work well.",
+      "C": "Fish ladders are used only by the largest fish species.",
+      "D": "Dams should always be removed instead of modified."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the purpose of fish ladders and the need to study species behavior and local conditions. The main trap is choice A, which wrongly treats them as perfect solutions."
+  },
+  {
+    "id": "EN6-017",
+    "prompt": "Read the passage and answer the question.\nTo help fish move past dams and other barriers, some rivers include structures called fish ladders. These systems create a series of small steps or pools that allow fish to travel upstream in stages instead of trying to leap one high wall of water. Different designs exist, but the basic idea is the same: reduce the force and height of the obstacle so migration can continue.\nFish ladders can improve access to spawning grounds, yet they are not perfect in every situation. Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult. Engineers and biologists often study how fish behave near a barrier before deciding what kind of ladder to build. In that sense, a fish ladder is not just a concrete structure. It is a design based on the movement patterns of living animals.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how fish ladders work and why their design requires study",
+      "B": "to argue that fish should never be kept near dams",
+      "C": "to describe the history of river travel by boat",
+      "D": "to compare fish ladders with hiking trails for people"
+    },
+    "correct": "A",
+    "explanation": "The author describes the basic structure and then emphasizes that species and placement matter. The main trap is choice D, which is only a loose comparison and not the purpose."
+  },
+  {
+    "id": "EN6-018",
+    "prompt": "Read the passage and answer the question.\nTo help fish move past dams and other barriers, some rivers include structures called fish ladders. These systems create a series of small steps or pools that allow fish to travel upstream in stages instead of trying to leap one high wall of water. Different designs exist, but the basic idea is the same: reduce the force and height of the obstacle so migration can continue.\nFish ladders can improve access to spawning grounds, yet they are not perfect in every situation. Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult. Engineers and biologists often study how fish behave near a barrier before deciding what kind of ladder to build. In that sense, a fish ladder is not just a concrete structure. It is a design based on the movement patterns of living animals.\nWhich sentence from the passage best supports the idea that fish ladders are not equally effective for all fish?",
+    "choices": {
+      "A": "Different designs exist, but the basic idea is the same.",
+      "B": "Fish ladders can improve access to spawning grounds, yet they are not perfect in every situation.",
+      "C": "Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult.",
+      "D": "It is a design based on the movement patterns of living animals."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly states that effectiveness varies. The main trap is choice B, which is true but more general."
+  },
+  {
+    "id": "EN6-019",
+    "prompt": "Read the passage and answer the question.\nTo help fish move past dams and other barriers, some rivers include structures called fish ladders. These systems create a series of small steps or pools that allow fish to travel upstream in stages instead of trying to leap one high wall of water. Different designs exist, but the basic idea is the same: reduce the force and height of the obstacle so migration can continue.\nFish ladders can improve access to spawning grounds, yet they are not perfect in every situation. Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult. Engineers and biologists often study how fish behave near a barrier before deciding what kind of ladder to build. In that sense, a fish ladder is not just a concrete structure. It is a design based on the movement patterns of living animals.\nAs used in the passage, the word “migration” most nearly means",
+    "choices": {
+      "A": "a seasonal movement from one place to another",
+      "B": "a sudden change in river depth",
+      "C": "a method for building dams",
+      "D": "an increase in fish size"
+    },
+    "correct": "A",
+    "explanation": "In context, migration refers to fish moving upstream to spawning grounds. The main trap is choice C, which has nothing to do with the word’s meaning."
+  },
+  {
+    "id": "EN6-020",
+    "prompt": "Read the passage and answer the question.\nTo help fish move past dams and other barriers, some rivers include structures called fish ladders. These systems create a series of small steps or pools that allow fish to travel upstream in stages instead of trying to leap one high wall of water. Different designs exist, but the basic idea is the same: reduce the force and height of the obstacle so migration can continue.\nFish ladders can improve access to spawning grounds, yet they are not perfect in every situation. Some species use them more successfully than others, and poor placement or fast currents can still make passage difficult. Engineers and biologists often study how fish behave near a barrier before deciding what kind of ladder to build. In that sense, a fish ladder is not just a concrete structure. It is a design based on the movement patterns of living animals.\nA river agency wants to add a fish ladder near a dam. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "build the same ladder used somewhere else without studying local fish behavior",
+      "B": "study how fish move near the barrier before choosing the ladder design",
+      "C": "focus only on making the ladder look attractive from the shore",
+      "D": "assume every fish species will use any ladder in the same way"
+    },
+    "correct": "B",
+    "explanation": "This plan matches the passage’s emphasis on behavior-based design. The main trap is choice A, which ignores the need for local study."
+  },
+  {
+    "id": "EN6-021",
+    "prompt": "Read the passage and answer the question.\nTess had expected the school newspaper office to feel urgent and noisy, full of phones ringing and reporters racing out the door. Instead, on the afternoon before publication, she found three students hunched over a single layout board, arguing quietly about the width of a headline.\nThe article itself was finished. The photographs had been chosen. Even the captions were written. Yet Mr. Duran, the faculty adviser, kept shifting boxes of text by fractions of an inch. At first Tess could not imagine why it mattered. The difference between one version and the next seemed almost invisible. But then Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it. Suddenly the story seemed easier to enter. “Readers don’t arrive all at once,” he said. “You have to show them where to begin.”\nBy the time the final page was sent to print, Tess saw the layout board differently. It was not just arranging pieces after the real work was done. It was part of the writing itself—another way of deciding what readers would notice first, what they would pause over, and what they might remember. When the papers appeared in the hallway the next morning, most students unfolded them without a second thought. Tess, however, could see the quiet decisions hidden in every page turn.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Newspaper writing is easier than Tess expected because the articles are already finished before printing.",
+      "B": "The design of a newspaper page helps shape how readers experience the stories on it.",
+      "C": "School newspapers should include more photographs than text.",
+      "D": "Tess would rather write articles than help with page layout."
+    },
+    "correct": "B",
+    "explanation": "Tess realizes layout is part of writing because it guides what readers notice and remember. The main trap is choice A, which wrongly suggests layout is separate from the real work."
+  },
+  {
+    "id": "EN6-022",
+    "prompt": "Read the passage and answer the question.\nTess had expected the school newspaper office to feel urgent and noisy, full of phones ringing and reporters racing out the door. Instead, on the afternoon before publication, she found three students hunched over a single layout board, arguing quietly about the width of a headline.\nThe article itself was finished. The photographs had been chosen. Even the captions were written. Yet Mr. Duran, the faculty adviser, kept shifting boxes of text by fractions of an inch. At first Tess could not imagine why it mattered. The difference between one version and the next seemed almost invisible. But then Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it. Suddenly the story seemed easier to enter. “Readers don’t arrive all at once,” he said. “You have to show them where to begin.”\nBy the time the final page was sent to print, Tess saw the layout board differently. It was not just arranging pieces after the real work was done. It was part of the writing itself—another way of deciding what readers would notice first, what they would pause over, and what they might remember. When the papers appeared in the hallway the next morning, most students unfolded them without a second thought. Tess, however, could see the quiet decisions hidden in every page turn.\nWhat can the reader most reasonably infer about Mr. Duran?",
+    "choices": {
+      "A": "He believes design choices can influence a reader’s attention.",
+      "B": "He thinks headlines are more important than every other part of a newspaper.",
+      "C": "He wants the newspaper to look exactly like an adult city paper.",
+      "D": "He is frustrated that students care about photographs."
+    },
+    "correct": "A",
+    "explanation": "Mr. Duran says readers need to be shown where to begin, proving he thinks layout shapes reading. The main trap is choice B, because the passage never claims headlines matter most."
+  },
+  {
+    "id": "EN6-023",
+    "prompt": "Read the passage and answer the question.\nTess had expected the school newspaper office to feel urgent and noisy, full of phones ringing and reporters racing out the door. Instead, on the afternoon before publication, she found three students hunched over a single layout board, arguing quietly about the width of a headline.\nThe article itself was finished. The photographs had been chosen. Even the captions were written. Yet Mr. Duran, the faculty adviser, kept shifting boxes of text by fractions of an inch. At first Tess could not imagine why it mattered. The difference between one version and the next seemed almost invisible. But then Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it. Suddenly the story seemed easier to enter. “Readers don’t arrive all at once,” he said. “You have to show them where to begin.”\nBy the time the final page was sent to print, Tess saw the layout board differently. It was not just arranging pieces after the real work was done. It was part of the writing itself—another way of deciding what readers would notice first, what they would pause over, and what they might remember. When the papers appeared in the hallway the next morning, most students unfolded them without a second thought. Tess, however, could see the quiet decisions hidden in every page turn.\nHow does Tess’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from curiosity to boredom",
+      "B": "from impatience to respect",
+      "C": "from confidence to shame",
+      "D": "from excitement to fear"
+    },
+    "correct": "B",
+    "explanation": "Tess begins by thinking the changes barely matter and ends seeing them as meaningful decisions. The main trap is choice A, because she does not become bored."
+  },
+  {
+    "id": "EN6-024",
+    "prompt": "Read the passage and answer the question.\nTess had expected the school newspaper office to feel urgent and noisy, full of phones ringing and reporters racing out the door. Instead, on the afternoon before publication, she found three students hunched over a single layout board, arguing quietly about the width of a headline.\nThe article itself was finished. The photographs had been chosen. Even the captions were written. Yet Mr. Duran, the faculty adviser, kept shifting boxes of text by fractions of an inch. At first Tess could not imagine why it mattered. The difference between one version and the next seemed almost invisible. But then Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it. Suddenly the story seemed easier to enter. “Readers don’t arrive all at once,” he said. “You have to show them where to begin.”\nBy the time the final page was sent to print, Tess saw the layout board differently. It was not just arranging pieces after the real work was done. It was part of the writing itself—another way of deciding what readers would notice first, what they would pause over, and what they might remember. When the papers appeared in the hallway the next morning, most students unfolded them without a second thought. Tess, however, could see the quiet decisions hidden in every page turn.\nAs used in the passage, the phrase “easier to enter” most nearly means",
+    "choices": {
+      "A": "easier to fold correctly",
+      "B": "easier to begin reading and understanding",
+      "C": "easier to print by machine",
+      "D": "easier to photograph for the paper"
+    },
+    "correct": "B",
+    "explanation": "The story became easier to enter because the layout helped readers know where to start. The main trap is choice A, which misreads the phrase literally."
+  },
+  {
+    "id": "EN6-025",
+    "prompt": "Read the passage and answer the question.\nTess had expected the school newspaper office to feel urgent and noisy, full of phones ringing and reporters racing out the door. Instead, on the afternoon before publication, she found three students hunched over a single layout board, arguing quietly about the width of a headline.\nThe article itself was finished. The photographs had been chosen. Even the captions were written. Yet Mr. Duran, the faculty adviser, kept shifting boxes of text by fractions of an inch. At first Tess could not imagine why it mattered. The difference between one version and the next seemed almost invisible. But then Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it. Suddenly the story seemed easier to enter. “Readers don’t arrive all at once,” he said. “You have to show them where to begin.”\nBy the time the final page was sent to print, Tess saw the layout board differently. It was not just arranging pieces after the real work was done. It was part of the writing itself—another way of deciding what readers would notice first, what they would pause over, and what they might remember. When the papers appeared in the hallway the next morning, most students unfolded them without a second thought. Tess, however, could see the quiet decisions hidden in every page turn.\nWhich detail best supports the idea that layout affects reading experience?",
+    "choices": {
+      "A": "The article itself was finished.",
+      "B": "Mr. Duran moved a photograph of the robotics team higher on the page, leaving room for a longer quote beneath it.",
+      "C": "Three students were arguing quietly about the width of a headline.",
+      "D": "The papers appeared in the hallway the next morning."
+    },
+    "correct": "B",
+    "explanation": "This detail shows a layout choice directly changing how the story is read. The main trap is choice C, which describes a discussion but not its effect on readers."
+  },
+  {
+    "id": "EN6-026",
+    "prompt": "Read the passage and answer the question.\nSome airports and office buildings are using indoor green walls, panels covered with living plants that grow vertically instead of spreading across the ground. These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity. In places where outdoor green space is limited, a vertical wall of plants can bring natural elements into areas otherwise dominated by concrete, glass, and metal.\nStill, green walls are not as simple as hanging flowerpots on a surface. They require irrigation systems, careful plant selection, and regular maintenance. Lighting matters too, especially in windowless spaces where plants cannot rely on sunlight alone. If designers ignore those needs, a green wall may decline quickly and become expensive to repair. For that reason, successful green walls combine beauty with planning and long-term care.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Indoor green walls are attractive, but they also require planning and upkeep to succeed.",
+      "B": "Indoor green walls are mainly useful because they are cheaper than painted walls.",
+      "C": "All indoor spaces should replace ordinary walls with plants.",
+      "D": "Green walls can grow anywhere without special equipment."
+    },
+    "correct": "A",
+    "explanation": "The passage balances the benefits of green walls with the maintenance and design they require. The main trap is choice C, which is too extreme."
+  },
+  {
+    "id": "EN6-027",
+    "prompt": "Read the passage and answer the question.\nSome airports and office buildings are using indoor green walls, panels covered with living plants that grow vertically instead of spreading across the ground. These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity. In places where outdoor green space is limited, a vertical wall of plants can bring natural elements into areas otherwise dominated by concrete, glass, and metal.\nStill, green walls are not as simple as hanging flowerpots on a surface. They require irrigation systems, careful plant selection, and regular maintenance. Lighting matters too, especially in windowless spaces where plants cannot rely on sunlight alone. If designers ignore those needs, a green wall may decline quickly and become expensive to repair. For that reason, successful green walls combine beauty with planning and long-term care.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what indoor green walls can offer and why they must be maintained carefully",
+      "B": "to argue that office buildings should contain more windows than plants",
+      "C": "to describe the invention of irrigation systems",
+      "D": "to compare airports with botanical gardens"
+    },
+    "correct": "A",
+    "explanation": "The author describes benefits like sound softening and humidity control, then explains why lighting, irrigation, and upkeep matter. The main trap is choice D, because the passage is not a broad comparison."
+  },
+  {
+    "id": "EN6-028",
+    "prompt": "Read the passage and answer the question.\nSome airports and office buildings are using indoor green walls, panels covered with living plants that grow vertically instead of spreading across the ground. These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity. In places where outdoor green space is limited, a vertical wall of plants can bring natural elements into areas otherwise dominated by concrete, glass, and metal.\nStill, green walls are not as simple as hanging flowerpots on a surface. They require irrigation systems, careful plant selection, and regular maintenance. Lighting matters too, especially in windowless spaces where plants cannot rely on sunlight alone. If designers ignore those needs, a green wall may decline quickly and become expensive to repair. For that reason, successful green walls combine beauty with planning and long-term care.\nWhich sentence from the passage best supports the idea that green walls can improve indoor environments in more than one way?",
+    "choices": {
+      "A": "Some airports and office buildings are using indoor green walls.",
+      "B": "These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity.",
+      "C": "They require irrigation systems, careful plant selection, and regular maintenance.",
+      "D": "Lighting matters too, especially in windowless spaces."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly lists multiple benefits to indoor environments. The main trap is choice C, which focuses on requirements rather than benefits."
+  },
+  {
+    "id": "EN6-029",
+    "prompt": "Read the passage and answer the question.\nSome airports and office buildings are using indoor green walls, panels covered with living plants that grow vertically instead of spreading across the ground. These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity. In places where outdoor green space is limited, a vertical wall of plants can bring natural elements into areas otherwise dominated by concrete, glass, and metal.\nStill, green walls are not as simple as hanging flowerpots on a surface. They require irrigation systems, careful plant selection, and regular maintenance. Lighting matters too, especially in windowless spaces where plants cannot rely on sunlight alone. If designers ignore those needs, a green wall may decline quickly and become expensive to repair. For that reason, successful green walls combine beauty with planning and long-term care.\nAs used in the passage, the word “decline” most nearly means",
+    "choices": {
+      "A": "grow upward",
+      "B": "become weaker or worse",
+      "C": "spread rapidly",
+      "D": "cost less over time"
+    },
+    "correct": "B",
+    "explanation": "In context, a neglected green wall may decline by losing health and quality. The main trap is choice D, which describes cost, not condition."
+  },
+  {
+    "id": "EN6-030",
+    "prompt": "Read the passage and answer the question.\nSome airports and office buildings are using indoor green walls, panels covered with living plants that grow vertically instead of spreading across the ground. These walls can soften noise, improve the appearance of large interiors, and sometimes help regulate humidity. In places where outdoor green space is limited, a vertical wall of plants can bring natural elements into areas otherwise dominated by concrete, glass, and metal.\nStill, green walls are not as simple as hanging flowerpots on a surface. They require irrigation systems, careful plant selection, and regular maintenance. Lighting matters too, especially in windowless spaces where plants cannot rely on sunlight alone. If designers ignore those needs, a green wall may decline quickly and become expensive to repair. For that reason, successful green walls combine beauty with planning and long-term care.\nAn office lobby with no direct sunlight wants a green wall. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "install the wall with no special lighting because all plants adapt easily indoors",
+      "B": "choose plants carefully and include lighting and maintenance plans from the start",
+      "C": "focus only on appearance and ignore irrigation systems",
+      "D": "place ordinary potted plants on the floor instead of considering wall design at all"
+    },
+    "correct": "B",
+    "explanation": "This answer follows the passage’s emphasis on plant selection, lighting, and long-term care. The main trap is choice A, which ignores the need for special lighting in windowless spaces."
+  },
+  {
+    "id": "EN6-031",
+    "prompt": "Read the passage and answer the question.\nThe debate team plans to host a workshop for younger students. Team members outlined the topics they wanted to cover they also asked last year’s participants which practice activities had been most helpful.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Team members outlined the topics they wanted to cover, they also asked last year’s participants which practice activities had been most helpful.",
+      "B": "Team members outlined the topics they wanted to cover and also asked last year’s participants which practice activities had been most helpful.",
+      "C": "Team members outlined the topics they wanted to cover; also asking last year’s participants which practice activities had been most helpful.",
+      "D": "Team members outlined the topics they wanted to cover because also asked last year’s participants which practice activities had been most helpful."
+    },
+    "correct": "B",
+    "explanation": "This revision fixes the comma splice by creating a correct compound predicate. The main trap is choice A, which joins two complete ideas with only a comma."
+  },
+  {
+    "id": "EN6-032",
+    "prompt": "Read the passage and answer the question.\nBefore the final schedule was shared, each coach and student speakers were asked to review the workshop plan.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each coach and student speakers was asked to review the workshop plan",
+      "B": "each coach and student speakers were being asked to review the workshop plan",
+      "C": "each coach and student speakers were asked to review the workshop plan",
+      "D": "each coach and student speakers ask to review the workshop plan"
+    },
+    "correct": "C",
+    "explanation": "Because the subject joins “coach” and “student speakers,” the plural verb “were” is correct. The main trap is choice A, which uses the singular “was” with a compound subject."
+  },
+  {
+    "id": "EN6-033",
+    "prompt": "Read the passage and answer the question.\nThe first plan included too many activities for one afternoon. As a result, the team shortened the agenda and added more time for questions.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence gives the effect of the first sentence’s problem. The main trap is choice B, which introduces an example rather than a consequence."
+  },
+  {
+    "id": "EN6-034",
+    "prompt": "Read the passage and answer the question.\nThe debate team plans to host a workshop for younger students. Team members outlined the topics they wanted to cover and also asked last year’s participants which practice activities had been most helpful. Before the final schedule was shared, each coach and student speakers were asked to review the workshop plan. The first plan included too many activities for one afternoon. As a result, the team shortened the agenda and added more time for questions. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Debates can be held on many different topics.",
+      "B": "Now the team feels better prepared to offer a workshop that is clear, useful, and manageable for younger students.",
+      "C": "Schedules can be printed on paper or posted online.",
+      "D": "Many students enjoy joining clubs after school."
+    },
+    "correct": "B",
+    "explanation": "This sentence concludes the paragraph by showing the benefit of the revisions. The main trap is choice C, which is unrelated to the main point."
+  },
+  {
+    "id": "EN6-035",
+    "prompt": "Read the passage and answer the question.\nThe orchestra gathered in the rehearsal room before the concert. Holding a wooden flute, the opening melody was played by Elena near the front row.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Holding a wooden flute, Elena played the opening melody near the front row.",
+      "B": "The opening melody, holding a wooden flute, was played by Elena near the front row.",
+      "C": "Holding a wooden flute, the front row heard Elena play the opening melody.",
+      "D": "Elena, the opening melody was played near the front row holding a wooden flute."
+    },
+    "correct": "A",
+    "explanation": "The revision places the modifier next to Elena, who is holding the flute. The main trap is choice B, which mistakenly suggests the melody is holding it."
+  },
+  {
+    "id": "EN6-036",
+    "prompt": "Read the passage and answer the question.\nGuests attending the exhibit should arrive early enough to check in at the front desk. They should also silence phones before the tour begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Guests attending the exhibit should also silence phones before the tour begins.",
+      "B": "Phones should also silence before the tour begins.",
+      "C": "It should also silence phones before the tour begins.",
+      "D": "They should also do so before the tour begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly identifies who should take the action. The main trap is choice D, which is grammatically possible but less clear because it relies on a vague pronoun."
+  },
+  {
+    "id": "EN6-037",
+    "prompt": "Read the passage and answer the question.\n(1) The nature center will offer a free birdwatching walk on Sunday morning. (2) Participants will learn how to use binoculars, identify common calls, and record sightings in a notebook. (3) The walk begins at 8:00 a.m. near the visitor center porch. (4) Advance registration is recommended because group size is limited.\nThe writer wants to add the following sentence:\nChildren should attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The sentence about children attending with an adult fits best right after the event is introduced. The main trap is choice D, which delays important participation information until after the logistics."
+  },
+  {
+    "id": "EN6-038",
+    "prompt": "Read the passage and answer the question.\nPlease bring three items binoculars, a notebook, and a water bottle for the walk.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, binoculars, a notebook, and a water bottle",
+      "B": "items: binoculars, a notebook, and a water bottle",
+      "C": "items; binoculars, a notebook, and a water bottle",
+      "D": "items binoculars, a notebook, and a water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list after a complete thought. The main trap is choice A, which uses only a comma and creates faulty punctuation."
+  },
+  {
+    "id": "EN6-039",
+    "prompt": "Read the passage and answer the question.\nLast month our class visited the local weather station. One meteorologist explain how forecasters compare satellite images with ground reports before predicting a storm.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Last month” places the action in the past, so the verb should be past tense. The main trap is choice A, which incorrectly shifts the sentence to present tense."
+  },
+  {
+    "id": "EN6-040",
+    "prompt": "Read the passage and answer the question.\nThe great horned owl a patient hunter of the night can wait silently for the right moment to strike.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The great horned owl, a patient hunter of the night, can wait silently for the right moment to strike.",
+      "B": "The great horned owl a patient hunter of the night can wait silently for the right moment to strike.",
+      "C": "The great horned owl, a patient hunter of the night can wait, silently for the right moment to strike.",
+      "D": "The great horned owl a patient hunter of the night, can wait silently for the right moment to strike."
+    },
+    "correct": "A",
+    "explanation": "The phrase “a patient hunter of the night” is nonessential and should be set off with commas. The main trap is choice B, which omits the needed punctuation."
+  },
+  {
+    "id": "EN6-041",
+    "prompt": "Read the passage and answer the question.\nTo survive long dry periods, certain desert lizards can do moisture in their bodies efficiently.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "erase",
+      "C": "flatten",
+      "D": "borrow"
+    },
+    "correct": "A",
+    "explanation": "The sentence means the lizards can keep moisture in their bodies. The main trap is choice D, which does not fit the context."
+  },
+  {
+    "id": "EN6-042",
+    "prompt": "Read the passage and answer the question.\nOriginal sentences:\nThe library program started late. The audience remained attentive throughout the presentation.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the library program started late, the audience remained attentive throughout the presentation.",
+      "B": "The library program started late, the audience remained attentive throughout the presentation.",
+      "C": "The audience remained attentive throughout the presentation, the library program started late.",
+      "D": "Started late, the library program and the audience remained attentive throughout the presentation."
+    },
+    "correct": "A",
+    "explanation": "This version correctly shows contrast between the delay and the audience’s attention. The main trap is choice B, which is a comma splice."
+  },
+  {
+    "id": "EN6-043",
+    "prompt": "Read the passage and answer the question.\nThe media lab allows students to edit podcasts, designing posters, and to create short documentaries.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "edit podcasts, design posters, and create short documentaries",
+      "B": "edit podcasts, designing posters, and creating short documentaries",
+      "C": "to edit podcasts, design posters, and creating short documentaries",
+      "D": "edit podcasts, to design posters, and create short documentaries"
+    },
+    "correct": "A",
+    "explanation": "The list needs parallel verb forms. The main trap is choice B, which mixes verb patterns."
+  },
+  {
+    "id": "EN6-044",
+    "prompt": "Read the passage and answer the question.\nSome students believe strong science writing is mostly about including facts. However, effective explanations also depend on clear organization and precise language.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the belief that facts alone make science writing strong. The main trap is choice C, which suggests similarity rather than contrast."
+  },
+  {
+    "id": "EN6-045",
+    "prompt": "Read the passage and answer the question.\nAfter reviewing parent feedback for several weeks, a revised pick-up plan was proposed by the principal and office staff.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and office staff proposed a revised pick-up plan",
+      "B": "a revised pick-up plan, proposed by the principal and office staff",
+      "C": "the proposal of a revised pick-up plan by the principal and office staff",
+      "D": "a revised pick-up plan was being proposed by the principal and office staff"
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the misplaced modifier by putting the doers directly after the introductory phrase. The main trap is choice B, which is just a fragment."
+  },
+  {
+    "id": "EN6-046",
+    "prompt": "Read the passage and answer the question.\nA student is ending a speech that argues for adding more bike racks near the school entrance. The final sentence currently reads: “More bike racks would be useful.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Bike racks can be made from different materials.",
+      "B": "Adding more bike racks near the school entrance would make commuting easier, reduce clutter, and give students a secure place to leave their bicycles.",
+      "C": "The school entrance is busy before classes begin.",
+      "D": "More bike racks would be placed there."
+    },
+    "correct": "B",
+    "explanation": "This sentence is persuasive because it names several concrete benefits. The main trap is choice C, which states a fact without making a strong argument."
+  },
+  {
+    "id": "EN6-047",
+    "prompt": "Read the passage and answer the question.\nMs. Farrow handed the permission slips to Daniel and I before the field trip.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective form “me” is correct. The main trap is choice C, which is a common but incorrect overcorrection."
+  },
+  {
+    "id": "EN6-048",
+    "prompt": "Read the passage and answer the question.\nJordan shouted \"Behind you!\" when the soccer ball bounced toward the sideline.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "shouted, \"Behind you!\"",
+      "B": "shouted \"Behind you\"!",
+      "C": "shouted; \"Behind you!\"",
+      "D": "shouted: \"Behind you\","
+    },
+    "correct": "A",
+    "explanation": "A comma should introduce the quotation, and the exclamation point belongs inside the quotation marks. The main trap is choice B, which puts the exclamation point outside the quotation."
+  },
+  {
+    "id": "EN6-049",
+    "prompt": "Read the passage and answer the question.\nWe searched the costume shelves for several minutes. Finally, Amira found the missing lantern prop behind a stack of hats.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "This transition shows that the lantern prop was found after some time spent searching. The main trap is choice C, which would signal contrast instead of sequence."
+  },
+  {
+    "id": "EN6-050",
+    "prompt": "Read the passage and answer the question.\nBy the end of the service project, the basketball court had been swept, the benches had been scrubbed, and the trash bins along the fence had been emptied.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Basketball courts are often painted in bright colors.",
+      "B": "The fence runs along the edge of the playground.",
+      "C": "As the volunteers folded their gloves and headed home, the whole park looked ready for an afternoon of games again.",
+      "D": "Trash bins need regular attention in public spaces."
+    },
+    "correct": "C",
+    "explanation": "This sentence gives the paragraph a strong conclusion by reflecting on the result of the work. The main trap is choice B, which adds background detail instead of ending the scene."
+  }
+]

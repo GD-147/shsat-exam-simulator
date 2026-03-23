@@ -291,6 +291,7 @@ if (metaEl) metaEl.textContent = metaText;
 
     const box = qs("choices");
     box.innerHTML = "";
+
     ["A","B","C","D"].forEach(letter => {
       const row = document.createElement("label");
       row.className = "choice";

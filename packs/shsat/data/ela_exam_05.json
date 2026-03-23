@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN5-001",
+    "prompt": "Read the passage and answer the question.\nWhen June signed up to help at the neighborhood history fair, she imagined standing at the entrance in a bright volunteer badge, handing out maps and answering questions. Instead, Mr. Alvarez led her behind the exhibit tables to a narrow workbench covered with labels, pins, and old black-and-white photographs. “You’ll be mounting captions,” he said.\nAt first June felt cheated. The fair outside the storage room sounded lively—chairs scraping, people laughing, someone testing a microphone. Her own task seemed too quiet to matter. Mr. Alvarez, however, handled each photograph as if it were a small window. He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners until the whole display looked balanced. “People notice stories more easily when nothing distracts them,” he said.\nAs the morning passed, June began to see how the labels changed the room. A photograph of a trolley no longer looked like just an old vehicle once its caption explained the route it had taken past the town library and bakery. A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it. By the time visitors began drifting through the exhibit, June no longer wished to be at the front door. She had helped the past speak in a clear voice.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "History fairs are more exciting for volunteers than for visitors.",
+      "B": "Quiet behind-the-scenes work can help make stories meaningful to an audience.",
+      "C": "June learns that old photographs are less interesting than she expected.",
+      "D": "Mr. Alvarez should have assigned June a more visible job."
+    },
+    "correct": "B",
+    "explanation": "June learns that careful caption work helps visitors understand the exhibit more fully. The main trap is choice D, which focuses only on her initial disappointment instead of the passage’s larger idea."
+  },
+  {
+    "id": "EN5-002",
+    "prompt": "Read the passage and answer the question.\nWhen June signed up to help at the neighborhood history fair, she imagined standing at the entrance in a bright volunteer badge, handing out maps and answering questions. Instead, Mr. Alvarez led her behind the exhibit tables to a narrow workbench covered with labels, pins, and old black-and-white photographs. “You’ll be mounting captions,” he said.\nAt first June felt cheated. The fair outside the storage room sounded lively—chairs scraping, people laughing, someone testing a microphone. Her own task seemed too quiet to matter. Mr. Alvarez, however, handled each photograph as if it were a small window. He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners until the whole display looked balanced. “People notice stories more easily when nothing distracts them,” he said.\nAs the morning passed, June began to see how the labels changed the room. A photograph of a trolley no longer looked like just an old vehicle once its caption explained the route it had taken past the town library and bakery. A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it. By the time visitors began drifting through the exhibit, June no longer wished to be at the front door. She had helped the past speak in a clear voice.\nWhat can the reader most reasonably infer about Mr. Alvarez?",
+    "choices": {
+      "A": "He believes presentation and context help people understand history.",
+      "B": "He dislikes letting students interact with visitors.",
+      "C": "He wants the fair to remain as quiet as possible.",
+      "D": "He is worried that the old photographs are too damaged to display."
+    },
+    "correct": "A",
+    "explanation": "Mr. Alvarez carefully places captions and explains that people notice stories better when distractions are removed. The main trap is choice B, because nothing suggests he dislikes visitor interaction."
+  },
+  {
+    "id": "EN5-003",
+    "prompt": "Read the passage and answer the question.\nWhen June signed up to help at the neighborhood history fair, she imagined standing at the entrance in a bright volunteer badge, handing out maps and answering questions. Instead, Mr. Alvarez led her behind the exhibit tables to a narrow workbench covered with labels, pins, and old black-and-white photographs. “You’ll be mounting captions,” he said.\nAt first June felt cheated. The fair outside the storage room sounded lively—chairs scraping, people laughing, someone testing a microphone. Her own task seemed too quiet to matter. Mr. Alvarez, however, handled each photograph as if it were a small window. He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners until the whole display looked balanced. “People notice stories more easily when nothing distracts them,” he said.\nAs the morning passed, June began to see how the labels changed the room. A photograph of a trolley no longer looked like just an old vehicle once its caption explained the route it had taken past the town library and bakery. A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it. By the time visitors began drifting through the exhibit, June no longer wished to be at the front door. She had helped the past speak in a clear voice.\nHow does June’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from confused to nervous",
+      "B": "from disappointed to appreciative",
+      "C": "from cheerful to angry",
+      "D": "from proud to embarrassed"
+    },
+    "correct": "B",
+    "explanation": "June starts out feeling cheated by the assignment and ends by valuing what she contributed. The main trap is choice A, since she is not mainly confused or nervous."
+  },
+  {
+    "id": "EN5-004",
+    "prompt": "Read the passage and answer the question.\nWhen June signed up to help at the neighborhood history fair, she imagined standing at the entrance in a bright volunteer badge, handing out maps and answering questions. Instead, Mr. Alvarez led her behind the exhibit tables to a narrow workbench covered with labels, pins, and old black-and-white photographs. “You’ll be mounting captions,” he said.\nAt first June felt cheated. The fair outside the storage room sounded lively—chairs scraping, people laughing, someone testing a microphone. Her own task seemed too quiet to matter. Mr. Alvarez, however, handled each photograph as if it were a small window. He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners until the whole display looked balanced. “People notice stories more easily when nothing distracts them,” he said.\nAs the morning passed, June began to see how the labels changed the room. A photograph of a trolley no longer looked like just an old vehicle once its caption explained the route it had taken past the town library and bakery. A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it. By the time visitors began drifting through the exhibit, June no longer wished to be at the front door. She had helped the past speak in a clear voice.\nAs used in the passage, the phrase “a small window” most nearly suggests that each photograph",
+    "choices": {
+      "A": "was easy to break",
+      "B": "showed only outdoor scenes",
+      "C": "offered a view into another time",
+      "D": "needed more light around it"
+    },
+    "correct": "C",
+    "explanation": "Comparing each photograph to a “small window” suggests it gives access to the past. The main trap is choice D, which takes the image too literally."
+  },
+  {
+    "id": "EN5-005",
+    "prompt": "Read the passage and answer the question.\nWhen June signed up to help at the neighborhood history fair, she imagined standing at the entrance in a bright volunteer badge, handing out maps and answering questions. Instead, Mr. Alvarez led her behind the exhibit tables to a narrow workbench covered with labels, pins, and old black-and-white photographs. “You’ll be mounting captions,” he said.\nAt first June felt cheated. The fair outside the storage room sounded lively—chairs scraping, people laughing, someone testing a microphone. Her own task seemed too quiet to matter. Mr. Alvarez, however, handled each photograph as if it were a small window. He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners until the whole display looked balanced. “People notice stories more easily when nothing distracts them,” he said.\nAs the morning passed, June began to see how the labels changed the room. A photograph of a trolley no longer looked like just an old vehicle once its caption explained the route it had taken past the town library and bakery. A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it. By the time visitors began drifting through the exhibit, June no longer wished to be at the front door. She had helped the past speak in a clear voice.\nWhich detail best supports the idea that the captions make the photographs more meaningful?",
+    "choices": {
+      "A": "The fair outside the storage room sounded lively.",
+      "B": "He checked dates, lined up captions carefully beneath the images, and adjusted crooked corners.",
+      "C": "A portrait of three women in work aprons became more than a posed image when June pinned the words “Night shift, 1944” beneath it.",
+      "D": "June imagined standing at the entrance in a bright volunteer badge."
+    },
+    "correct": "C",
+    "explanation": "This detail directly shows how the caption adds meaning to the photograph. The main trap is choice B, which describes careful work but not the result as clearly."
+  },
+  {
+    "id": "EN5-006",
+    "prompt": "Read the passage and answer the question.\nIn many cities, heavy rainwater rushes from roofs and pavement into street drains so quickly that the system can become overwhelmed. One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff. Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly. The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.\nRain gardens are not simply flower beds placed at random. Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions. If built well, rain gardens can reduce local flooding and support birds and insects at the same time. If placed poorly, however, they may drain too slowly or allow water to collect where it is not wanted. For that reason, successful rain gardens combine attractive planting with careful engineering.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Rain gardens are decorative spaces that mainly improve the look of neighborhoods.",
+      "B": "Rain gardens can help manage stormwater, but they must be designed thoughtfully to work well.",
+      "C": "Rain gardens should replace all street drains in crowded cities.",
+      "D": "Only professional gardeners can understand how rain gardens function."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the benefits of rain gardens and the conditions needed for them to function properly. The main trap is choice A, which reduces them to decoration."
+  },
+  {
+    "id": "EN5-007",
+    "prompt": "Read the passage and answer the question.\nIn many cities, heavy rainwater rushes from roofs and pavement into street drains so quickly that the system can become overwhelmed. One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff. Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly. The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.\nRain gardens are not simply flower beds placed at random. Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions. If built well, rain gardens can reduce local flooding and support birds and insects at the same time. If placed poorly, however, they may drain too slowly or allow water to collect where it is not wanted. For that reason, successful rain gardens combine attractive planting with careful engineering.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what rain gardens do and why their design matters",
+      "B": "to argue that cities should eliminate all paved surfaces",
+      "C": "to describe the history of public gardens in urban neighborhoods",
+      "D": "to compare rain gardens with rooftop greenhouses"
+    },
+    "correct": "A",
+    "explanation": "The author describes how rain gardens absorb runoff and why factors like soil and slope are important. The main trap is choice B, which turns the passage into an argument it does not make."
+  },
+  {
+    "id": "EN5-008",
+    "prompt": "Read the passage and answer the question.\nIn many cities, heavy rainwater rushes from roofs and pavement into street drains so quickly that the system can become overwhelmed. One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff. Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly. The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.\nRain gardens are not simply flower beds placed at random. Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions. If built well, rain gardens can reduce local flooding and support birds and insects at the same time. If placed poorly, however, they may drain too slowly or allow water to collect where it is not wanted. For that reason, successful rain gardens combine attractive planting with careful engineering.\nWhich sentence from the passage best supports the claim that rain gardens can improve water quality?",
+    "choices": {
+      "A": "One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff.",
+      "B": "Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly.",
+      "C": "The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.",
+      "D": "Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly supports the claim that rain gardens can improve water quality. The main trap is choice B, which explains drainage but not filtering as clearly."
+  },
+  {
+    "id": "EN5-009",
+    "prompt": "Read the passage and answer the question.\nIn many cities, heavy rainwater rushes from roofs and pavement into street drains so quickly that the system can become overwhelmed. One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff. Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly. The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.\nRain gardens are not simply flower beds placed at random. Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions. If built well, rain gardens can reduce local flooding and support birds and insects at the same time. If placed poorly, however, they may drain too slowly or allow water to collect where it is not wanted. For that reason, successful rain gardens combine attractive planting with careful engineering.\nAs used in the passage, the word “runoff” most nearly means",
+    "choices": {
+      "A": "water flowing over surfaces after rain",
+      "B": "soil washed away by wind",
+      "C": "plants growing around a drain",
+      "D": "underground pipes carrying clean water"
+    },
+    "correct": "A",
+    "explanation": "In context, runoff is rainwater moving across pavement and roofs instead of soaking in. The main trap is choice D, which describes storm drains, not runoff itself."
+  },
+  {
+    "id": "EN5-010",
+    "prompt": "Read the passage and answer the question.\nIn many cities, heavy rainwater rushes from roofs and pavement into street drains so quickly that the system can become overwhelmed. One response is the use of rain gardens, shallow planted areas designed to collect and absorb runoff. Instead of sending water directly into pipes, a rain garden allows it to soak into the ground more slowly. The soil and plant roots help filter out some pollutants, and the temporary pool of water usually disappears after it drains underground.\nRain gardens are not simply flower beds placed at random. Designers must consider slope, soil type, drainage speed, and the kinds of plants that can tolerate both wet and dry conditions. If built well, rain gardens can reduce local flooding and support birds and insects at the same time. If placed poorly, however, they may drain too slowly or allow water to collect where it is not wanted. For that reason, successful rain gardens combine attractive planting with careful engineering.\nA city block often floods after sudden storms. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "install a rain garden after studying the soil, slope, and drainage needs of the site",
+      "B": "plant flowers in a low spot without testing whether the water can drain properly",
+      "C": "cover more ground with pavement so runoff moves faster into the street",
+      "D": "avoid using plants because they cannot help control stormwater"
+    },
+    "correct": "A",
+    "explanation": "This plan matches the passage’s emphasis on careful design and placement. The main trap is choice B, which ignores the warning that poor placement can cause problems."
+  },
+  {
+    "id": "EN5-011",
+    "prompt": "Read the passage and answer the question.\nMina’s violin teacher had warned her that the recital hall would sound different when it was empty, but Mina did not expect the room itself to seem like another instrument. In rehearsal, every note she played came back to her with a faint shimmer, as if the walls were answering politely from far away.\nShe had spent weeks worrying about speed. Her fingers practiced the quickest passages until they almost moved on their own. Yet when the pianist stopped midway through rehearsal, Ms. Horowitz said, “The fast parts are fine. Now give the quiet notes somewhere to land.” Mina frowned. Quiet notes, to her, had always seemed like the spaces between the real music.\nThat evening, under the stage lights, Mina tried what her teacher meant. She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading. Something changed. The piece no longer felt like a string of difficult sections she had managed to survive. It felt shaped, almost architectural. After the final note, the applause surprised her less than the silence just before it. For the first time, she understood that music was not built only from sound, but also from how sound was allowed to disappear.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Mina learns that musical expression depends on more than playing quickly and correctly.",
+      "B": "Recital halls are better places to rehearse than classrooms.",
+      "C": "Violin recitals are more stressful than students expect.",
+      "D": "The audience appreciates silence more than music."
+    },
+    "correct": "A",
+    "explanation": "Mina realizes that quiet notes, resonance, and disappearance of sound shape the music too. The main trap is choice B, which is a side detail rather than the main idea."
+  },
+  {
+    "id": "EN5-012",
+    "prompt": "Read the passage and answer the question.\nMina’s violin teacher had warned her that the recital hall would sound different when it was empty, but Mina did not expect the room itself to seem like another instrument. In rehearsal, every note she played came back to her with a faint shimmer, as if the walls were answering politely from far away.\nShe had spent weeks worrying about speed. Her fingers practiced the quickest passages until they almost moved on their own. Yet when the pianist stopped midway through rehearsal, Ms. Horowitz said, “The fast parts are fine. Now give the quiet notes somewhere to land.” Mina frowned. Quiet notes, to her, had always seemed like the spaces between the real music.\nThat evening, under the stage lights, Mina tried what her teacher meant. She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading. Something changed. The piece no longer felt like a string of difficult sections she had managed to survive. It felt shaped, almost architectural. After the final note, the applause surprised her less than the silence just before it. For the first time, she understood that music was not built only from sound, but also from how sound was allowed to disappear.\nWhat can the reader most reasonably infer about Ms. Horowitz?",
+    "choices": {
+      "A": "She believes musical skill includes shaping tone and silence, not just technical speed.",
+      "B": "She thinks rehearsal time should focus only on the loudest parts of a piece.",
+      "C": "She is disappointed that Mina practiced too much.",
+      "D": "She prefers empty halls because audiences are distracting."
+    },
+    "correct": "A",
+    "explanation": "Ms. Horowitz tells Mina to “give the quiet notes somewhere to land,” showing that expression matters beyond speed. The main trap is choice C, because the teacher is guiding Mina, not criticizing effort itself."
+  },
+  {
+    "id": "EN5-013",
+    "prompt": "Read the passage and answer the question.\nMina’s violin teacher had warned her that the recital hall would sound different when it was empty, but Mina did not expect the room itself to seem like another instrument. In rehearsal, every note she played came back to her with a faint shimmer, as if the walls were answering politely from far away.\nShe had spent weeks worrying about speed. Her fingers practiced the quickest passages until they almost moved on their own. Yet when the pianist stopped midway through rehearsal, Ms. Horowitz said, “The fast parts are fine. Now give the quiet notes somewhere to land.” Mina frowned. Quiet notes, to her, had always seemed like the spaces between the real music.\nThat evening, under the stage lights, Mina tried what her teacher meant. She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading. Something changed. The piece no longer felt like a string of difficult sections she had managed to survive. It felt shaped, almost architectural. After the final note, the applause surprised her less than the silence just before it. For the first time, she understood that music was not built only from sound, but also from how sound was allowed to disappear.\nHow does Mina’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from relaxed to impatient",
+      "B": "from narrowly focused on speed to aware of musical shape and resonance",
+      "C": "from excited to ashamed",
+      "D": "from certain to terrified"
+    },
+    "correct": "B",
+    "explanation": "Mina begins by caring mostly about fast passages and ends by understanding how softer notes and fading sound matter. The main trap is choice A, because she is not relaxed at the beginning."
+  },
+  {
+    "id": "EN5-014",
+    "prompt": "Read the passage and answer the question.\nMina’s violin teacher had warned her that the recital hall would sound different when it was empty, but Mina did not expect the room itself to seem like another instrument. In rehearsal, every note she played came back to her with a faint shimmer, as if the walls were answering politely from far away.\nShe had spent weeks worrying about speed. Her fingers practiced the quickest passages until they almost moved on their own. Yet when the pianist stopped midway through rehearsal, Ms. Horowitz said, “The fast parts are fine. Now give the quiet notes somewhere to land.” Mina frowned. Quiet notes, to her, had always seemed like the spaces between the real music.\nThat evening, under the stage lights, Mina tried what her teacher meant. She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading. Something changed. The piece no longer felt like a string of difficult sections she had managed to survive. It felt shaped, almost architectural. After the final note, the applause surprised her less than the silence just before it. For the first time, she understood that music was not built only from sound, but also from how sound was allowed to disappear.\nAs used in the passage, the word “architectural” most nearly means",
+    "choices": {
+      "A": "built with a clear structure",
+      "B": "decorated in bright colors",
+      "C": "louder than expected",
+      "D": "difficult to explain"
+    },
+    "correct": "A",
+    "explanation": "“Architectural” suggests the piece now feels shaped and constructed with intention. The main trap is choice C, which misses the structural meaning of the comparison."
+  },
+  {
+    "id": "EN5-015",
+    "prompt": "Read the passage and answer the question.\nMina’s violin teacher had warned her that the recital hall would sound different when it was empty, but Mina did not expect the room itself to seem like another instrument. In rehearsal, every note she played came back to her with a faint shimmer, as if the walls were answering politely from far away.\nShe had spent weeks worrying about speed. Her fingers practiced the quickest passages until they almost moved on their own. Yet when the pianist stopped midway through rehearsal, Ms. Horowitz said, “The fast parts are fine. Now give the quiet notes somewhere to land.” Mina frowned. Quiet notes, to her, had always seemed like the spaces between the real music.\nThat evening, under the stage lights, Mina tried what her teacher meant. She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading. Something changed. The piece no longer felt like a string of difficult sections she had managed to survive. It felt shaped, almost architectural. After the final note, the applause surprised her less than the silence just before it. For the first time, she understood that music was not built only from sound, but also from how sound was allowed to disappear.\nWhich detail best supports the idea that Mina’s understanding of music deepens?",
+    "choices": {
+      "A": "Her fingers practiced the quickest passages until they almost moved on their own.",
+      "B": "Mina’s violin teacher had warned her that the recital hall would sound different.",
+      "C": "She let the softer phrases stretch for a breath longer and listened to how they drifted into the hall before fading.",
+      "D": "The applause surprised her less than the silence just before it."
+    },
+    "correct": "C",
+    "explanation": "This moment directly shows Mina applying her teacher’s advice and hearing music differently. The main trap is choice D, which reflects her reaction after the performance but not the change in technique as clearly."
+  },
+  {
+    "id": "EN5-016",
+    "prompt": "Read the passage and answer the question.\nSome city sidewalks and parking areas are made with pervious pavement, a surface designed to let water pass through it rather than run off immediately. At first glance, this pavement may look ordinary, but spaces within the material allow rainwater to seep downward into layers of stone and soil below. This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once. In places where streets flood easily after heavy rain, that difference can matter.\nPervious pavement is useful, but it is not suited to every location. It can clog if dirt and debris fill its openings, so regular maintenance is important. Engineers must also consider soil type, climate, and how much weight the surface will need to support. A busy highway, for example, may require different materials than a pedestrian plaza. Like many urban design tools, pervious pavement works best when it is matched carefully to the job it is meant to do.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Pervious pavement helps manage stormwater, but it must be maintained and used in appropriate places.",
+      "B": "Pervious pavement is mainly valuable because it looks different from ordinary sidewalks.",
+      "C": "Cities should use pervious pavement on every road and parking lot.",
+      "D": "Storm drains are no longer necessary where pervious pavement exists."
+    },
+    "correct": "A",
+    "explanation": "The passage balances the benefits of reducing runoff with the need for maintenance and careful site choice. The main trap is choice C, which ignores the passage’s clear limits."
+  },
+  {
+    "id": "EN5-017",
+    "prompt": "Read the passage and answer the question.\nSome city sidewalks and parking areas are made with pervious pavement, a surface designed to let water pass through it rather than run off immediately. At first glance, this pavement may look ordinary, but spaces within the material allow rainwater to seep downward into layers of stone and soil below. This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once. In places where streets flood easily after heavy rain, that difference can matter.\nPervious pavement is useful, but it is not suited to every location. It can clog if dirt and debris fill its openings, so regular maintenance is important. Engineers must also consider soil type, climate, and how much weight the surface will need to support. A busy highway, for example, may require different materials than a pedestrian plaza. Like many urban design tools, pervious pavement works best when it is matched carefully to the job it is meant to do.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how pervious pavement works and why it has limits",
+      "B": "to persuade readers to avoid walking on wet sidewalks",
+      "C": "to compare concrete with brick in historic cities",
+      "D": "to describe the history of road building in North America"
+    },
+    "correct": "A",
+    "explanation": "The author explains how water moves through the surface and why not every location is suitable. The main trap is choice B, which is unrelated to the passage’s focus."
+  },
+  {
+    "id": "EN5-018",
+    "prompt": "Read the passage and answer the question.\nSome city sidewalks and parking areas are made with pervious pavement, a surface designed to let water pass through it rather than run off immediately. At first glance, this pavement may look ordinary, but spaces within the material allow rainwater to seep downward into layers of stone and soil below. This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once. In places where streets flood easily after heavy rain, that difference can matter.\nPervious pavement is useful, but it is not suited to every location. It can clog if dirt and debris fill its openings, so regular maintenance is important. Engineers must also consider soil type, climate, and how much weight the surface will need to support. A busy highway, for example, may require different materials than a pedestrian plaza. Like many urban design tools, pervious pavement works best when it is matched carefully to the job it is meant to do.\nWhich sentence from the passage best supports the idea that pervious pavement can help with flooding?",
+    "choices": {
+      "A": "At first glance, this pavement may look ordinary.",
+      "B": "This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once.",
+      "C": "It can clog if dirt and debris fill its openings.",
+      "D": "Engineers must also consider soil type, climate, and how much weight the surface will need to support."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly links pervious pavement to reduced flooding pressure. The main trap is choice A, which introduces the material without showing its effect."
+  },
+  {
+    "id": "EN5-019",
+    "prompt": "Read the passage and answer the question.\nSome city sidewalks and parking areas are made with pervious pavement, a surface designed to let water pass through it rather than run off immediately. At first glance, this pavement may look ordinary, but spaces within the material allow rainwater to seep downward into layers of stone and soil below. This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once. In places where streets flood easily after heavy rain, that difference can matter.\nPervious pavement is useful, but it is not suited to every location. It can clog if dirt and debris fill its openings, so regular maintenance is important. Engineers must also consider soil type, climate, and how much weight the surface will need to support. A busy highway, for example, may require different materials than a pedestrian plaza. Like many urban design tools, pervious pavement works best when it is matched carefully to the job it is meant to do.\nAs used in the passage, the word “clog” most nearly means",
+    "choices": {
+      "A": "decorate",
+      "B": "block",
+      "C": "strengthen",
+      "D": "measure"
+    },
+    "correct": "B",
+    "explanation": "In context, debris can clog openings by blocking water from passing through them. The main trap is choice C, which is the opposite of what clogging does."
+  },
+  {
+    "id": "EN5-020",
+    "prompt": "Read the passage and answer the question.\nSome city sidewalks and parking areas are made with pervious pavement, a surface designed to let water pass through it rather than run off immediately. At first glance, this pavement may look ordinary, but spaces within the material allow rainwater to seep downward into layers of stone and soil below. This can reduce puddles and decrease the amount of runoff that reaches storm drains all at once. In places where streets flood easily after heavy rain, that difference can matter.\nPervious pavement is useful, but it is not suited to every location. It can clog if dirt and debris fill its openings, so regular maintenance is important. Engineers must also consider soil type, climate, and how much weight the surface will need to support. A busy highway, for example, may require different materials than a pedestrian plaza. Like many urban design tools, pervious pavement works best when it is matched carefully to the job it is meant to do.\nWhich project would best apply the ideas in the passage?",
+    "choices": {
+      "A": "using pervious pavement in a pedestrian plaza and planning regular cleaning to keep it from clogging",
+      "B": "installing pervious pavement on a highway without considering traffic weight",
+      "C": "pouring more solid concrete wherever flooding happens, with no drainage study",
+      "D": "using pervious pavement only because it looks unusual"
+    },
+    "correct": "A",
+    "explanation": "This answer matches both the appropriate setting and the need for maintenance described in the passage. The main trap is choice B, which ignores the warning that weight and location matter."
+  },
+  {
+    "id": "EN5-021",
+    "prompt": "Read the passage and answer the question.\nTheo agreed to help his older cousin pack orders at her small online pottery shop because he imagined bubble wrap, shipping labels, and towers of cardboard boxes. Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs. “Check the glaze in daylight,” she said. “Tiny changes matter.”\nTheo held the first mug near the window and saw nothing special. It was blue, round, and shiny—exactly like the others. His cousin turned it slowly in his hands until a thin pale streak near the handle flashed into view. “That line won’t crack the mug,” she said, “but it changes the piece.” For the next hour, Theo examined bowls and cups one by one. Some had small drips on the underside, and one teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.\nAt first the work felt slow. Then it began to feel like learning a new language. The differences were small, but not meaningless. When his cousin set aside three mugs for a discounted shelf and wrapped the others for shipping, Theo understood that she was not being picky for no reason. She was protecting the promise each box carried. By afternoon, the rows of pottery looked less identical than before, and far more interesting.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Theo learns that quality depends on noticing small differences that first seem unimportant.",
+      "B": "Packing pottery for shipping is mostly repetitive and boring work.",
+      "C": "Damaged mugs should always be thrown away instead of sold at a discount.",
+      "D": "Pottery shops are harder to manage than online bookstores."
+    },
+    "correct": "A",
+    "explanation": "The passage shows Theo developing an eye for subtle details that affect what customers receive. The main trap is choice B, which ignores his growing interest and understanding."
+  },
+  {
+    "id": "EN5-022",
+    "prompt": "Read the passage and answer the question.\nTheo agreed to help his older cousin pack orders at her small online pottery shop because he imagined bubble wrap, shipping labels, and towers of cardboard boxes. Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs. “Check the glaze in daylight,” she said. “Tiny changes matter.”\nTheo held the first mug near the window and saw nothing special. It was blue, round, and shiny—exactly like the others. His cousin turned it slowly in his hands until a thin pale streak near the handle flashed into view. “That line won’t crack the mug,” she said, “but it changes the piece.” For the next hour, Theo examined bowls and cups one by one. Some had small drips on the underside, and one teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.\nAt first the work felt slow. Then it began to feel like learning a new language. The differences were small, but not meaningless. When his cousin set aside three mugs for a discounted shelf and wrapped the others for shipping, Theo understood that she was not being picky for no reason. She was protecting the promise each box carried. By afternoon, the rows of pottery looked less identical than before, and far more interesting.\nWhat can the reader most reasonably infer about Theo’s cousin?",
+    "choices": {
+      "A": "She cares about meeting customer expectations through careful inspection.",
+      "B": "She prefers making bowls instead of mugs.",
+      "C": "She believes pottery should look exactly machine-made.",
+      "D": "She is trying to finish packing as quickly as possible."
+    },
+    "correct": "A",
+    "explanation": "Theo realizes his cousin is “protecting the promise each box carried,” which means she values quality for customers. The main trap is choice C, because she is not aiming for machine-like sameness."
+  },
+  {
+    "id": "EN5-023",
+    "prompt": "Read the passage and answer the question.\nTheo agreed to help his older cousin pack orders at her small online pottery shop because he imagined bubble wrap, shipping labels, and towers of cardboard boxes. Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs. “Check the glaze in daylight,” she said. “Tiny changes matter.”\nTheo held the first mug near the window and saw nothing special. It was blue, round, and shiny—exactly like the others. His cousin turned it slowly in his hands until a thin pale streak near the handle flashed into view. “That line won’t crack the mug,” she said, “but it changes the piece.” For the next hour, Theo examined bowls and cups one by one. Some had small drips on the underside, and one teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.\nAt first the work felt slow. Then it began to feel like learning a new language. The differences were small, but not meaningless. When his cousin set aside three mugs for a discounted shelf and wrapped the others for shipping, Theo understood that she was not being picky for no reason. She was protecting the promise each box carried. By afternoon, the rows of pottery looked less identical than before, and far more interesting.\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "It compares factory-made pottery with handmade pottery and then chooses one.",
+      "B": "It presents Theo’s first impression, shows how he notices more over time, and ends with a new understanding.",
+      "C": "It explains the steps of pottery making from wet clay to fired glaze.",
+      "D": "It lists the reasons customers prefer handmade mugs."
+    },
+    "correct": "B",
+    "explanation": "The structure moves from assumption to observation to insight. The main trap is choice A, because the passage does not compare factory and handmade pottery directly."
+  },
+  {
+    "id": "EN5-024",
+    "prompt": "Read the passage and answer the question.\nTheo agreed to help his older cousin pack orders at her small online pottery shop because he imagined bubble wrap, shipping labels, and towers of cardboard boxes. Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs. “Check the glaze in daylight,” she said. “Tiny changes matter.”\nTheo held the first mug near the window and saw nothing special. It was blue, round, and shiny—exactly like the others. His cousin turned it slowly in his hands until a thin pale streak near the handle flashed into view. “That line won’t crack the mug,” she said, “but it changes the piece.” For the next hour, Theo examined bowls and cups one by one. Some had small drips on the underside, and one teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.\nAt first the work felt slow. Then it began to feel like learning a new language. The differences were small, but not meaningless. When his cousin set aside three mugs for a discounted shelf and wrapped the others for shipping, Theo understood that she was not being picky for no reason. She was protecting the promise each box carried. By afternoon, the rows of pottery looked less identical than before, and far more interesting.\nAs used in the passage, the word “glaze” most nearly means",
+    "choices": {
+      "A": "a shiny surface coating on pottery",
+      "B": "a clay tool used for shaping mugs",
+      "C": "a cardboard divider inside a shipping box",
+      "D": "a crack that appears after firing"
+    },
+    "correct": "A",
+    "explanation": "The mugs are described as blue, round, and shiny, making clear that glaze is the finished coating. The main trap is choice D, which confuses a surface feature with damage."
+  },
+  {
+    "id": "EN5-025",
+    "prompt": "Read the passage and answer the question.\nTheo agreed to help his older cousin pack orders at her small online pottery shop because he imagined bubble wrap, shipping labels, and towers of cardboard boxes. Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs. “Check the glaze in daylight,” she said. “Tiny changes matter.”\nTheo held the first mug near the window and saw nothing special. It was blue, round, and shiny—exactly like the others. His cousin turned it slowly in his hands until a thin pale streak near the handle flashed into view. “That line won’t crack the mug,” she said, “but it changes the piece.” For the next hour, Theo examined bowls and cups one by one. Some had small drips on the underside, and one teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.\nAt first the work felt slow. Then it began to feel like learning a new language. The differences were small, but not meaningless. When his cousin set aside three mugs for a discounted shelf and wrapped the others for shipping, Theo understood that she was not being picky for no reason. She was protecting the promise each box carried. By afternoon, the rows of pottery looked less identical than before, and far more interesting.\nWhich detail best supports the idea that Theo grows more observant?",
+    "choices": {
+      "A": "Those things were there, but the first job she handed him was a soft brush and a tray of finished mugs.",
+      "B": "Theo held the first mug near the window and saw nothing special.",
+      "C": "One teacup had a rim so slightly uneven that he noticed it only after tilting it against the light.",
+      "D": "By afternoon, the rows of pottery looked less identical than before."
+    },
+    "correct": "C",
+    "explanation": "This shows Theo becoming more observant and able to spot subtle differences. The main trap is choice D, which shows his overall conclusion but not the specific evidence of sharper observation."
+  },
+  {
+    "id": "EN5-026",
+    "prompt": "Read the passage and answer the question.\nMany modern buildings use low-emissivity, or low-e, windows to help control indoor temperature. These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass. In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building. Because of this, they can lower the amount of energy needed for heating and cooling.\nHowever, not every low-e coating is the same. Different climates and building designs may call for different types of glass, depending on how much sunlight and heat a building should gain or block. Cost, window placement, and even the direction the building faces can matter. For that reason, choosing energy-efficient windows is not simply a matter of buying the most advanced option. It requires matching the glass to the job the building needs it to do.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Low-e windows are useful because they help manage heat, but the best choice depends on the building’s needs.",
+      "B": "Low-e windows are always the most expensive part of a building project.",
+      "C": "Buildings with ordinary windows cannot be comfortable in any climate.",
+      "D": "Window coatings are mainly designed to make glass look darker."
+    },
+    "correct": "A",
+    "explanation": "The passage explains both the benefit of controlling heat transfer and the need to match the window type to the climate and design. The main trap is choice D, which misstates their purpose."
+  },
+  {
+    "id": "EN5-027",
+    "prompt": "Read the passage and answer the question.\nMany modern buildings use low-emissivity, or low-e, windows to help control indoor temperature. These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass. In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building. Because of this, they can lower the amount of energy needed for heating and cooling.\nHowever, not every low-e coating is the same. Different climates and building designs may call for different types of glass, depending on how much sunlight and heat a building should gain or block. Cost, window placement, and even the direction the building faces can matter. For that reason, choosing energy-efficient windows is not simply a matter of buying the most advanced option. It requires matching the glass to the job the building needs it to do.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what low-e windows do and why selecting them requires careful planning",
+      "B": "to persuade readers to replace every window in their homes immediately",
+      "C": "to describe the invention of the first glass windows",
+      "D": "to compare windows with solar panels"
+    },
+    "correct": "A",
+    "explanation": "The author describes the coating’s effect on heat and then explains why climate, direction, and design matter. The main trap is choice B, which is too forceful and not supported by the passage."
+  },
+  {
+    "id": "EN5-028",
+    "prompt": "Read the passage and answer the question.\nMany modern buildings use low-emissivity, or low-e, windows to help control indoor temperature. These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass. In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building. Because of this, they can lower the amount of energy needed for heating and cooling.\nHowever, not every low-e coating is the same. Different climates and building designs may call for different types of glass, depending on how much sunlight and heat a building should gain or block. Cost, window placement, and even the direction the building faces can matter. For that reason, choosing energy-efficient windows is not simply a matter of buying the most advanced option. It requires matching the glass to the job the building needs it to do.\nWhich sentence from the passage best supports the claim that low-e windows can reduce energy use?",
+    "choices": {
+      "A": "These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass.",
+      "B": "In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building.",
+      "C": "Cost, window placement, and even the direction the building faces can matter.",
+      "D": "It requires matching the glass to the job the building needs it to do."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly shows how low-e windows can reduce heating and cooling needs. The main trap is choice A, which explains the coating generally but not the energy-saving effect as clearly."
+  },
+  {
+    "id": "EN5-029",
+    "prompt": "Read the passage and answer the question.\nMany modern buildings use low-emissivity, or low-e, windows to help control indoor temperature. These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass. In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building. Because of this, they can lower the amount of energy needed for heating and cooling.\nHowever, not every low-e coating is the same. Different climates and building designs may call for different types of glass, depending on how much sunlight and heat a building should gain or block. Cost, window placement, and even the direction the building faces can matter. For that reason, choosing energy-efficient windows is not simply a matter of buying the most advanced option. It requires matching the glass to the job the building needs it to do.\nAs used in the passage, the word “placement” most nearly means",
+    "choices": {
+      "A": "the price of installation",
+      "B": "the location of something",
+      "C": "the thickness of the frame",
+      "D": "the color of the glass"
+    },
+    "correct": "B",
+    "explanation": "“Window placement” refers to where windows are positioned in a building. The main trap is choice A, which relates to cost, not placement."
+  },
+  {
+    "id": "EN5-030",
+    "prompt": "Read the passage and answer the question.\nMany modern buildings use low-emissivity, or low-e, windows to help control indoor temperature. These windows are coated with an extremely thin layer of material that affects how heat energy moves through the glass. In winter, low-e windows can help keep indoor heat from escaping; in summer, they can reduce some of the sun’s heat entering the building. Because of this, they can lower the amount of energy needed for heating and cooling.\nHowever, not every low-e coating is the same. Different climates and building designs may call for different types of glass, depending on how much sunlight and heat a building should gain or block. Cost, window placement, and even the direction the building faces can matter. For that reason, choosing energy-efficient windows is not simply a matter of buying the most advanced option. It requires matching the glass to the job the building needs it to do.\nA designer is planning windows for a building in a very sunny climate. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "choose any low-e glass without considering sunlight or building orientation",
+      "B": "select low-e windows after considering how much heat and sunlight should be blocked",
+      "C": "avoid using glass entirely because it always wastes energy",
+      "D": "buy the most advanced window available even if it does not fit the building’s needs"
+    },
+    "correct": "B",
+    "explanation": "This answer fits the passage’s emphasis on matching the glass to climate and building needs. The main trap is choice D, which ignores the warning that the “most advanced” choice is not always the right one."
+  },
+  {
+    "id": "EN5-031",
+    "prompt": "Read the passage and answer the question.\nThe environmental club wants to create signs for the school garden. Members discussed what visitors might want to know they also walked through the garden to see which areas needed clearer labels.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Members discussed what visitors might want to know, they also walked through the garden to see which areas needed clearer labels.",
+      "B": "Members discussed what visitors might want to know and also walked through the garden to see which areas needed clearer labels.",
+      "C": "Members discussed what visitors might want to know; also walking through the garden to see which areas needed clearer labels.",
+      "D": "Members discussed what visitors might want to know because also walked through the garden to see which areas needed clearer labels."
+    },
+    "correct": "B",
+    "explanation": "This revision fixes the comma splice by making a correct compound predicate. The main trap is choice A, which leaves two complete thoughts joined only by a comma."
+  },
+  {
+    "id": "EN5-032",
+    "prompt": "Read the passage and answer the question.\nBefore the final designs were printed, each artist and writers were asked to review the signs carefully.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each artist and writers was asked to review the signs carefully",
+      "B": "each artist and writers were being asked to review the signs carefully",
+      "C": "each artist and writers were asked to review the signs carefully",
+      "D": "each artist and writers ask to review the signs carefully"
+    },
+    "correct": "C",
+    "explanation": "Because the subject combines “artist” and “writers,” the plural verb “were” is correct. The main trap is choice A, which incorrectly uses the singular verb “was.”"
+  },
+  {
+    "id": "EN5-033",
+    "prompt": "Read the passage and answer the question.\nThe first draft of the signs looked crowded and hard to read. As a result, the team shortened the text and increased the size of the headings.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence shows the effect of the problem described in the first sentence. The main trap is choice B, which introduces an example rather than a result."
+  },
+  {
+    "id": "EN5-034",
+    "prompt": "Read the passage and answer the question.\nThe environmental club wants to create signs for the school garden. Members discussed what visitors might want to know and also walked through the garden to see which areas needed clearer labels. Before the final designs were printed, each artist and writers were asked to review the signs carefully. The first draft of the signs looked crowded and hard to read. As a result, the team shortened the text and increased the size of the headings. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Many gardens include flowers, vegetables, and herbs.",
+      "B": "Now the club is confident that the signs will help visitors understand the garden more easily.",
+      "C": "Printed signs can be made from wood, plastic, or metal.",
+      "D": "School clubs often meet after classes end."
+    },
+    "correct": "B",
+    "explanation": "This sentence logically concludes the paragraph by connecting the revisions to the project’s goal. The main trap is choice C, which is true in general but does not conclude the paragraph’s main idea."
+  },
+  {
+    "id": "EN5-035",
+    "prompt": "Read the passage and answer the question.\nThe dance group lined up backstage before the performance. Wearing silver ankle bells, the first movement was led by Priya across the stage.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Wearing silver ankle bells, Priya led the first movement across the stage.",
+      "B": "The first movement, wearing silver ankle bells, was led by Priya across the stage.",
+      "C": "Wearing silver ankle bells, the stage was crossed by Priya in the first movement.",
+      "D": "Priya, the first movement was led across the stage wearing silver ankle bells."
+    },
+    "correct": "A",
+    "explanation": "The revision places the modifier next to Priya, who is actually wearing the bells. The main trap is choice B, which incorrectly suggests the movement itself is wearing them."
+  },
+  {
+    "id": "EN5-036",
+    "prompt": "Read the passage and answer the question.\nGuests attending the lecture should arrive a few minutes early to find their seats. They should also silence phones before the speaker begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Guests attending the lecture should also silence phones before the speaker begins.",
+      "B": "Phones should also silence before the speaker begins.",
+      "C": "It should also silence phones before the speaker begins.",
+      "D": "They should also do that before the speaker begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly identifies who should take the action. The main trap is choice D, which is vague and unclear."
+  },
+  {
+    "id": "EN5-037",
+    "prompt": "Read the passage and answer the question.\n(1) The local science center will host a free workshop about animal tracks this Saturday. (2) Participants will learn how to compare prints, identify claw marks, and record observations in a field notebook. (3) The workshop begins at 1:00 p.m. near the woodland trail entrance. (4) Registration is recommended because space is limited.\nThe writer wants to add the following sentence:\nChildren should attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The new sentence reassures families right after the workshop is introduced, which is the most useful placement. The main trap is choice D, which delays that important information until after all the logistics."
+  },
+  {
+    "id": "EN5-038",
+    "prompt": "Read the passage and answer the question.\nPlease bring three items a pencil, sturdy shoes, and a small water bottle to the workshop.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a pencil, sturdy shoes, and a small water bottle",
+      "B": "items: a pencil, sturdy shoes, and a small water bottle",
+      "C": "items; a pencil, sturdy shoes, and a small water bottle",
+      "D": "items a pencil, sturdy shoes, and a small water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces a list after a complete thought. The main trap is choice A, which uses only a comma and creates faulty punctuation."
+  },
+  {
+    "id": "EN5-039",
+    "prompt": "Read the passage and answer the question.\nLast Friday our class visited the marine rescue center. One volunteer describe how injured seabirds are treated before they can return to the wild.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "describes",
+      "B": "described",
+      "C": "describing",
+      "D": "has describe"
+    },
+    "correct": "B",
+    "explanation": "“Last Friday” sets the sentence in the past, so the verb must be past tense. The main trap is choice A, which incorrectly shifts the sentence into present tense."
+  },
+  {
+    "id": "EN5-040",
+    "prompt": "Read the passage and answer the question.\nThe red fox a skillful hunter at dusk can hear small animals moving under leaves and snow.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The red fox, a skillful hunter at dusk, can hear small animals moving under leaves and snow.",
+      "B": "The red fox a skillful hunter at dusk can hear small animals moving under leaves and snow.",
+      "C": "The red fox, a skillful hunter at dusk can hear, small animals moving under leaves and snow.",
+      "D": "The red fox a skillful hunter at dusk, can hear small animals moving under leaves and snow."
+    },
+    "correct": "A",
+    "explanation": "The phrase “a skillful hunter at dusk” is nonessential and should be set off with commas. The main trap is choice B, which omits needed punctuation."
+  },
+  {
+    "id": "EN5-041",
+    "prompt": "Read the passage and answer the question.\nDuring the hottest months, cacti can do water inside their thick stems for long periods.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "flatten",
+      "C": "invent",
+      "D": "scatter"
+    },
+    "correct": "A",
+    "explanation": "Cacti can store water in their thick stems during dry periods. The main trap is choice D, which does not fit the meaning of the sentence."
+  },
+  {
+    "id": "EN5-042",
+    "prompt": "Read the passage and answer the question.\nOriginal sentences:\nThe rehearsal ended late. The cast still finished the costume check before leaving.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the rehearsal ended late, the cast still finished the costume check before leaving.",
+      "B": "The rehearsal ended late, the cast still finished the costume check before leaving.",
+      "C": "The cast still finished the costume check before leaving, the rehearsal ended late.",
+      "D": "Ended late, the rehearsal and the cast still finished the costume check before leaving."
+    },
+    "correct": "A",
+    "explanation": "This version clearly shows the contrast between the late ending and the completed task. The main trap is choice B, which creates a comma splice."
+  },
+  {
+    "id": "EN5-043",
+    "prompt": "Read the passage and answer the question.\nThe community lab allows visitors to test water samples, building simple circuits, and to examine insects under microscopes.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "test water samples, build simple circuits, and examine insects under microscopes",
+      "B": "test water samples, building simple circuits, and examining insects under microscopes",
+      "C": "to test water samples, build simple circuits, and examining insects under microscopes",
+      "D": "test water samples, to build simple circuits, and examine insects under microscopes"
+    },
+    "correct": "A",
+    "explanation": "The list needs parallel verb forms. The main trap is choice B, which mixes verb patterns."
+  },
+  {
+    "id": "EN5-044",
+    "prompt": "Read the passage and answer the question.\nSome students think public speaking is mainly about sounding confident. However, strong speeches also depend on clear organization and specific evidence.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the idea that confidence alone makes a good speech. The main trap is choice C, which suggests similarity instead of contrast."
+  },
+  {
+    "id": "EN5-045",
+    "prompt": "Read the passage and answer the question.\nAfter reviewing family surveys for several weeks, a new after-school schedule was proposed by the principal and staff.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and staff proposed a new after-school schedule",
+      "B": "a new after-school schedule, proposed by the principal and staff",
+      "C": "the proposal of a new after-school schedule by the principal and staff",
+      "D": "a new after-school schedule was being proposed by the principal and staff"
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the misplaced modifier by putting the doers of the action right after the introductory phrase. The main trap is choice B, which is just a fragment."
+  },
+  {
+    "id": "EN5-046",
+    "prompt": "Read the passage and answer the question.\nA student is ending a speech that argues for adding more shade near the soccer field. The final sentence currently reads: “More shade would be nice.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Trees and shade structures come in many shapes.",
+      "B": "Adding more shade near the soccer field would keep players and families cooler and make the area more comfortable during games and practices.",
+      "C": "The soccer field is used during warm weather.",
+      "D": "More shade would be in that area."
+    },
+    "correct": "B",
+    "explanation": "This sentence is persuasive because it names specific benefits for the people using the field. The main trap is choice C, which states a fact without making a strong argument."
+  },
+  {
+    "id": "EN5-047",
+    "prompt": "Read the passage and answer the question.\nMs. Benton gave the research folders to Luis and I before the science fair began.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective case “me” is correct. The main trap is choice C, which is a common but incorrect overcorrection."
+  },
+  {
+    "id": "EN5-048",
+    "prompt": "Read the passage and answer the question.\nAvery called \"Look out!\" when the stack of paint cans tipped toward the door.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "called, \"Look out!\"",
+      "B": "called \"Look out\"!",
+      "C": "called; \"Look out!\"",
+      "D": "called: \"Look out\","
+    },
+    "correct": "A",
+    "explanation": "A comma should introduce the quotation, and the exclamation point belongs inside the quotation marks. The main trap is choice B, which places the exclamation point outside the quotation."
+  },
+  {
+    "id": "EN5-049",
+    "prompt": "Read the passage and answer the question.\nWe searched the prop table for several minutes. Finally, Mateo found the missing compass inside a costume pocket.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "This transition shows that Mateo found the compass after some time had passed. The main trap is choice C, which indicates contrast rather than sequence."
+  },
+  {
+    "id": "EN5-050",
+    "prompt": "Read the passage and answer the question.\nBy the end of the cleanup, the stream bank had been cleared of litter, the trail signs had been straightened, and the picnic area looked far brighter than it had that morning.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Picnic tables are often made of wood or metal.",
+      "B": "The trail follows the edge of the water for nearly a mile.",
+      "C": "As the volunteers loaded the last trash bags into the truck, the park already felt more welcoming to the families who would use it.",
+      "D": "Litter can collect quickly after windy weather."
+    },
+    "correct": "C",
+    "explanation": "This sentence reflects on the result of the cleanup and gives the paragraph a strong conclusion. The main trap is choice B, which adds background information instead of closing the scene."
+  }
+]

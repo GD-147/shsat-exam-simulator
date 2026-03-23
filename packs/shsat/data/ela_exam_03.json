@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN3-001",
+    "prompt": "Read the passage and answer the question.\nWhen Nora signed up to volunteer at the city museum, she pictured herself greeting visitors in the tall front hall. Instead, she was sent to the restoration room in the basement, where a faded theater poster lay beneath a sheet of glass. Mr. Levin, the conservator, handed her a soft brush and asked her to remove dust from the poster’s edges one speck at a time.\nAt first Nora thought the assignment felt too delicate to matter. The poster’s colors were so washed out that its grand red lettering looked pink, and one corner was torn nearly in half. But Mr. Levin worked with a patience that made the room feel important. He mixed thin pastes, tested tiny patches of paper, and paused often to study the poster from several angles. “We are not making it new again,” he told Nora. “We are helping it keep telling its story.”\nBy the end of the afternoon, the poster still looked old, but not forgotten. Its gold border had reappeared, and the torn corner no longer curled inward like a dry leaf. Nora stepped back and imagined the crowd that might once have gathered beneath it, reading the bold names of singers and actors. On her way out, she no longer wished she had spent the day upstairs. She had helped rescue something quiet from disappearing.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Working in a museum is less exciting than Nora expected.",
+      "B": "Careful restoration can preserve the meaning of something old.",
+      "C": "Basement rooms are better places to work than front halls.",
+      "D": "Theater posters are more valuable than other museum items."
+    },
+    "correct": "B",
+    "explanation": "The passage shows Nora learning that restoration is not about making the poster new, but about helping it continue to tell its story. The main trap is choice A, which focuses only on her first impression and misses the larger lesson."
+  },
+  {
+    "id": "EN3-002",
+    "prompt": "Read the passage and answer the question.\nWhen Nora signed up to volunteer at the city museum, she pictured herself greeting visitors in the tall front hall. Instead, she was sent to the restoration room in the basement, where a faded theater poster lay beneath a sheet of glass. Mr. Levin, the conservator, handed her a soft brush and asked her to remove dust from the poster’s edges one speck at a time.\nAt first Nora thought the assignment felt too delicate to matter. The poster’s colors were so washed out that its grand red lettering looked pink, and one corner was torn nearly in half. But Mr. Levin worked with a patience that made the room feel important. He mixed thin pastes, tested tiny patches of paper, and paused often to study the poster from several angles. “We are not making it new again,” he told Nora. “We are helping it keep telling its story.”\nBy the end of the afternoon, the poster still looked old, but not forgotten. Its gold border had reappeared, and the torn corner no longer curled inward like a dry leaf. Nora stepped back and imagined the crowd that might once have gathered beneath it, reading the bold names of singers and actors. On her way out, she no longer wished she had spent the day upstairs. She had helped rescue something quiet from disappearing.\nWhat can the reader most reasonably infer about Mr. Levin?",
+    "choices": {
+      "A": "He values preserving history more than making objects look brand-new.",
+      "B": "He believes only famous paintings belong in museums.",
+      "C": "He wishes Nora would work faster.",
+      "D": "He is nervous about working in the basement."
+    },
+    "correct": "A",
+    "explanation": "Mr. Levin says, “We are not making it new again,” which shows his goal is preservation, not replacement. The main trap is choice C, because nothing suggests he is impatient with Nora."
+  },
+  {
+    "id": "EN3-003",
+    "prompt": "Read the passage and answer the question.\nWhen Nora signed up to volunteer at the city museum, she pictured herself greeting visitors in the tall front hall. Instead, she was sent to the restoration room in the basement, where a faded theater poster lay beneath a sheet of glass. Mr. Levin, the conservator, handed her a soft brush and asked her to remove dust from the poster’s edges one speck at a time.\nAt first Nora thought the assignment felt too delicate to matter. The poster’s colors were so washed out that its grand red lettering looked pink, and one corner was torn nearly in half. But Mr. Levin worked with a patience that made the room feel important. He mixed thin pastes, tested tiny patches of paper, and paused often to study the poster from several angles. “We are not making it new again,” he told Nora. “We are helping it keep telling its story.”\nBy the end of the afternoon, the poster still looked old, but not forgotten. Its gold border had reappeared, and the torn corner no longer curled inward like a dry leaf. Nora stepped back and imagined the crowd that might once have gathered beneath it, reading the bold names of singers and actors. On her way out, she no longer wished she had spent the day upstairs. She had helped rescue something quiet from disappearing.\nWhich word best describes the narrator’s tone toward the restoration work?",
+    "choices": {
+      "A": "playful",
+      "B": "respectful",
+      "C": "suspicious",
+      "D": "annoyed"
+    },
+    "correct": "B",
+    "explanation": "The restoration work is described as careful, meaningful, and important. The main trap is choice A, because the passage is serious rather than playful."
+  },
+  {
+    "id": "EN3-004",
+    "prompt": "Read the passage and answer the question.\nWhen Nora signed up to volunteer at the city museum, she pictured herself greeting visitors in the tall front hall. Instead, she was sent to the restoration room in the basement, where a faded theater poster lay beneath a sheet of glass. Mr. Levin, the conservator, handed her a soft brush and asked her to remove dust from the poster’s edges one speck at a time.\nAt first Nora thought the assignment felt too delicate to matter. The poster’s colors were so washed out that its grand red lettering looked pink, and one corner was torn nearly in half. But Mr. Levin worked with a patience that made the room feel important. He mixed thin pastes, tested tiny patches of paper, and paused often to study the poster from several angles. “We are not making it new again,” he told Nora. “We are helping it keep telling its story.”\nBy the end of the afternoon, the poster still looked old, but not forgotten. Its gold border had reappeared, and the torn corner no longer curled inward like a dry leaf. Nora stepped back and imagined the crowd that might once have gathered beneath it, reading the bold names of singers and actors. On her way out, she no longer wished she had spent the day upstairs. She had helped rescue something quiet from disappearing.\nAs used in the passage, the word “washed out” most nearly means",
+    "choices": {
+      "A": "cleaned with water",
+      "B": "faded and pale",
+      "C": "hidden by dust",
+      "D": "painted too recently"
+    },
+    "correct": "B",
+    "explanation": "“Washed out” describes the poster’s colors as weak and no longer bright. The main trap is choice A, which takes the phrase too literally."
+  },
+  {
+    "id": "EN3-005",
+    "prompt": "Read the passage and answer the question.\nWhen Nora signed up to volunteer at the city museum, she pictured herself greeting visitors in the tall front hall. Instead, she was sent to the restoration room in the basement, where a faded theater poster lay beneath a sheet of glass. Mr. Levin, the conservator, handed her a soft brush and asked her to remove dust from the poster’s edges one speck at a time.\nAt first Nora thought the assignment felt too delicate to matter. The poster’s colors were so washed out that its grand red lettering looked pink, and one corner was torn nearly in half. But Mr. Levin worked with a patience that made the room feel important. He mixed thin pastes, tested tiny patches of paper, and paused often to study the poster from several angles. “We are not making it new again,” he told Nora. “We are helping it keep telling its story.”\nBy the end of the afternoon, the poster still looked old, but not forgotten. Its gold border had reappeared, and the torn corner no longer curled inward like a dry leaf. Nora stepped back and imagined the crowd that might once have gathered beneath it, reading the bold names of singers and actors. On her way out, she no longer wished she had spent the day upstairs. She had helped rescue something quiet from disappearing.\nWhich detail best supports the idea that Nora begins to value the work she was given?",
+    "choices": {
+      "A": "she pictured herself greeting visitors in the tall front hall",
+      "B": "the theater poster lay beneath a sheet of glass",
+      "C": "Mr. Levin handed her a soft brush",
+      "D": "On her way out, she no longer wished she had spent the day upstairs."
+    },
+    "correct": "D",
+    "explanation": "This line directly shows Nora’s changed attitude toward the assignment. The main trap is choice C, which only states what she was asked to do."
+  },
+  {
+    "id": "EN3-006",
+    "prompt": "Read the passage and answer the question.\nIn some dry regions, farmers spread mulch—layers of straw, leaves, wood chips, or other material—over the soil between plants. At first glance, mulch may seem too simple to matter much. However, covering bare ground can reduce the amount of water lost to evaporation. Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat. As the material breaks down, it may add nutrients to the soil and improve its structure.\nStill, mulch is not a perfect solution in every setting. Some materials can blow away in strong wind, and layers that are too thick may keep water from reaching the soil efficiently. Gardeners must also watch for pests that may hide under damp organic matter. For these reasons, growers choose different types and depths of mulch depending on the crop, climate, and season. Used thoughtfully, mulch is less like decoration and more like a tool for managing the ground itself.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Mulch is mainly used to make farms look neat and attractive.",
+      "B": "Mulch can help soil and plants, but it works best when matched carefully to conditions.",
+      "C": "Only straw can be used effectively as mulch in dry regions.",
+      "D": "Farmers should avoid mulch because it always creates pest problems."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both benefits and limits, emphasizing thoughtful use. The main trap is choice D, which turns one possible drawback into an absolute rule."
+  },
+  {
+    "id": "EN3-007",
+    "prompt": "Read the passage and answer the question.\nIn some dry regions, farmers spread mulch—layers of straw, leaves, wood chips, or other material—over the soil between plants. At first glance, mulch may seem too simple to matter much. However, covering bare ground can reduce the amount of water lost to evaporation. Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat. As the material breaks down, it may add nutrients to the soil and improve its structure.\nStill, mulch is not a perfect solution in every setting. Some materials can blow away in strong wind, and layers that are too thick may keep water from reaching the soil efficiently. Gardeners must also watch for pests that may hide under damp organic matter. For these reasons, growers choose different types and depths of mulch depending on the crop, climate, and season. Used thoughtfully, mulch is less like decoration and more like a tool for managing the ground itself.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain the advantages and limits of using mulch",
+      "B": "to prove that mulch is better than irrigation systems",
+      "C": "to entertain readers with a story about a farm",
+      "D": "to compare vegetables grown in different countries"
+    },
+    "correct": "A",
+    "explanation": "The author informs readers about how mulch works and when it may not work as well. The main trap is choice B, because the passage does not argue that mulch is always better than other methods."
+  },
+  {
+    "id": "EN3-008",
+    "prompt": "Read the passage and answer the question.\nIn some dry regions, farmers spread mulch—layers of straw, leaves, wood chips, or other material—over the soil between plants. At first glance, mulch may seem too simple to matter much. However, covering bare ground can reduce the amount of water lost to evaporation. Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat. As the material breaks down, it may add nutrients to the soil and improve its structure.\nStill, mulch is not a perfect solution in every setting. Some materials can blow away in strong wind, and layers that are too thick may keep water from reaching the soil efficiently. Gardeners must also watch for pests that may hide under damp organic matter. For these reasons, growers choose different types and depths of mulch depending on the crop, climate, and season. Used thoughtfully, mulch is less like decoration and more like a tool for managing the ground itself.\nWhich sentence from the passage best supports the claim that mulch can help plants survive hot weather?",
+    "choices": {
+      "A": "In some dry regions, farmers spread mulch over the soil between plants.",
+      "B": "Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat.",
+      "C": "Some materials can blow away in strong wind.",
+      "D": "Gardeners must also watch for pests that may hide under damp organic matter."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly links mulch to protection during hot weather. The main trap is choice A, which introduces the topic but does not provide the supporting evidence."
+  },
+  {
+    "id": "EN3-009",
+    "prompt": "Read the passage and answer the question.\nIn some dry regions, farmers spread mulch—layers of straw, leaves, wood chips, or other material—over the soil between plants. At first glance, mulch may seem too simple to matter much. However, covering bare ground can reduce the amount of water lost to evaporation. Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat. As the material breaks down, it may add nutrients to the soil and improve its structure.\nStill, mulch is not a perfect solution in every setting. Some materials can blow away in strong wind, and layers that are too thick may keep water from reaching the soil efficiently. Gardeners must also watch for pests that may hide under damp organic matter. For these reasons, growers choose different types and depths of mulch depending on the crop, climate, and season. Used thoughtfully, mulch is less like decoration and more like a tool for managing the ground itself.\nAs used in the passage, the word “evaporation” most nearly means",
+    "choices": {
+      "A": "water soaking deeper into the ground",
+      "B": "water freezing at the surface",
+      "C": "water changing into vapor and leaving the soil",
+      "D": "water flowing quickly into streams"
+    },
+    "correct": "C",
+    "explanation": "In context, evaporation is the process that makes soil lose water to the air. The main trap is choice A, which describes the opposite movement of water."
+  },
+  {
+    "id": "EN3-010",
+    "prompt": "Read the passage and answer the question.\nIn some dry regions, farmers spread mulch—layers of straw, leaves, wood chips, or other material—over the soil between plants. At first glance, mulch may seem too simple to matter much. However, covering bare ground can reduce the amount of water lost to evaporation. Mulch also helps keep soil temperatures more stable, which can protect roots during sudden heat. As the material breaks down, it may add nutrients to the soil and improve its structure.\nStill, mulch is not a perfect solution in every setting. Some materials can blow away in strong wind, and layers that are too thick may keep water from reaching the soil efficiently. Gardeners must also watch for pests that may hide under damp organic matter. For these reasons, growers choose different types and depths of mulch depending on the crop, climate, and season. Used thoughtfully, mulch is less like decoration and more like a tool for managing the ground itself.\nA gardener in a windy area wants to use mulch on tomato plants. Based on the passage, which plan would be best?",
+    "choices": {
+      "A": "Spread a very thick layer of mulch without checking how water moves through it.",
+      "B": "Choose a type and depth of mulch carefully for the local conditions.",
+      "C": "Avoid mulch completely because it cannot help in dry regions.",
+      "D": "Use mulch only for its decorative appearance."
+    },
+    "correct": "B",
+    "explanation": "The passage says growers select mulch based on crop, climate, and season, especially where wind matters. The main trap is choice A, which ignores the warning about layers that are too thick."
+  },
+  {
+    "id": "EN3-011",
+    "prompt": "Read the passage and answer the question.\nEvery Tuesday afternoon, Eli’s grandfather set up the old wooden chessboard in the park, even when only pigeons seemed likely to watch. Eli had learned the rules years earlier, but he still disliked the long silences between moves. His grandfather, however, studied the board as if each position were a landscape with hidden paths.\nOne windy afternoon, a stranger in a green cap paused beside the table and asked whether the seat across from Eli’s grandfather was taken. The game that followed did not look dramatic to Eli. Nobody spoke much. No one pounded the table or announced checkmate with triumph. Yet the silence felt different from usual—denser, almost musical. Pieces disappeared from the board one by one. Eli began to notice how each move seemed to prepare the next three.\nAt last the man in the green cap leaned back and laughed softly. “I walked into that one twenty minutes ago,” he said. Eli looked down and finally saw the trap his grandfather had been building with two pawns and a bishop. On the trip home, the park seemed less ordinary than before. Eli had not just watched a game. He had watched patience turn into strategy.\nHow does Eli’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from bored to impressed",
+      "B": "from angry to forgiving",
+      "C": "from confident to embarrassed",
+      "D": "from confused to frightened"
+    },
+    "correct": "A",
+    "explanation": "Eli begins by disliking the silences in chess but ends by recognizing the strategy behind them. The main trap is choice C, because he is not embarrassed at the end."
+  },
+  {
+    "id": "EN3-012",
+    "prompt": "Read the passage and answer the question.\nEvery Tuesday afternoon, Eli’s grandfather set up the old wooden chessboard in the park, even when only pigeons seemed likely to watch. Eli had learned the rules years earlier, but he still disliked the long silences between moves. His grandfather, however, studied the board as if each position were a landscape with hidden paths.\nOne windy afternoon, a stranger in a green cap paused beside the table and asked whether the seat across from Eli’s grandfather was taken. The game that followed did not look dramatic to Eli. Nobody spoke much. No one pounded the table or announced checkmate with triumph. Yet the silence felt different from usual—denser, almost musical. Pieces disappeared from the board one by one. Eli began to notice how each move seemed to prepare the next three.\nAt last the man in the green cap leaned back and laughed softly. “I walked into that one twenty minutes ago,” he said. Eli looked down and finally saw the trap his grandfather had been building with two pawns and a bishop. On the trip home, the park seemed less ordinary than before. Eli had not just watched a game. He had watched patience turn into strategy.\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "It lists the official rules of chess in the order Eli learned them.",
+      "B": "It compares two different chess matches played in the park.",
+      "C": "It moves from Eli’s impatience to his understanding of what makes the game interesting.",
+      "D": "It explains why Eli’s grandfather prefers pigeons to people."
+    },
+    "correct": "C",
+    "explanation": "The passage starts with Eli’s boredom and ends with his appreciation of patience and strategy. The main trap is choice A, because no rules are listed."
+  },
+  {
+    "id": "EN3-013",
+    "prompt": "Read the passage and answer the question.\nEvery Tuesday afternoon, Eli’s grandfather set up the old wooden chessboard in the park, even when only pigeons seemed likely to watch. Eli had learned the rules years earlier, but he still disliked the long silences between moves. His grandfather, however, studied the board as if each position were a landscape with hidden paths.\nOne windy afternoon, a stranger in a green cap paused beside the table and asked whether the seat across from Eli’s grandfather was taken. The game that followed did not look dramatic to Eli. Nobody spoke much. No one pounded the table or announced checkmate with triumph. Yet the silence felt different from usual—denser, almost musical. Pieces disappeared from the board one by one. Eli began to notice how each move seemed to prepare the next three.\nAt last the man in the green cap leaned back and laughed softly. “I walked into that one twenty minutes ago,” he said. Eli looked down and finally saw the trap his grandfather had been building with two pawns and a bishop. On the trip home, the park seemed less ordinary than before. Eli had not just watched a game. He had watched patience turn into strategy.\nWhat can the reader most reasonably infer about Eli’s grandfather?",
+    "choices": {
+      "A": "He cares more about winning quickly than about planning.",
+      "B": "He enjoys teaching Eli through observation rather than long explanations.",
+      "C": "He is surprised to see anyone visit the park.",
+      "D": "He has never played against a strong opponent before."
+    },
+    "correct": "B",
+    "explanation": "The grandfather’s quiet play allows Eli to discover the strategy for himself. The main trap is choice A, which contradicts the careful planning shown in the game."
+  },
+  {
+    "id": "EN3-014",
+    "prompt": "Read the passage and answer the question.\nEvery Tuesday afternoon, Eli’s grandfather set up the old wooden chessboard in the park, even when only pigeons seemed likely to watch. Eli had learned the rules years earlier, but he still disliked the long silences between moves. His grandfather, however, studied the board as if each position were a landscape with hidden paths.\nOne windy afternoon, a stranger in a green cap paused beside the table and asked whether the seat across from Eli’s grandfather was taken. The game that followed did not look dramatic to Eli. Nobody spoke much. No one pounded the table or announced checkmate with triumph. Yet the silence felt different from usual—denser, almost musical. Pieces disappeared from the board one by one. Eli began to notice how each move seemed to prepare the next three.\nAt last the man in the green cap leaned back and laughed softly. “I walked into that one twenty minutes ago,” he said. Eli looked down and finally saw the trap his grandfather had been building with two pawns and a bishop. On the trip home, the park seemed less ordinary than before. Eli had not just watched a game. He had watched patience turn into strategy.\nAs used in the passage, the phrase “hidden paths” most nearly suggests moves that are",
+    "choices": {
+      "A": "impossible to predict at all",
+      "B": "carefully planned but not obvious at first",
+      "C": "against the rules of the game",
+      "D": "made only by expert judges"
+    },
+    "correct": "B",
+    "explanation": "“Hidden paths” suggests strategic possibilities that are there, but not immediately visible to Eli. The main trap is choice A, because the moves are not random or impossible to predict."
+  },
+  {
+    "id": "EN3-015",
+    "prompt": "Read the passage and answer the question.\nEvery Tuesday afternoon, Eli’s grandfather set up the old wooden chessboard in the park, even when only pigeons seemed likely to watch. Eli had learned the rules years earlier, but he still disliked the long silences between moves. His grandfather, however, studied the board as if each position were a landscape with hidden paths.\nOne windy afternoon, a stranger in a green cap paused beside the table and asked whether the seat across from Eli’s grandfather was taken. The game that followed did not look dramatic to Eli. Nobody spoke much. No one pounded the table or announced checkmate with triumph. Yet the silence felt different from usual—denser, almost musical. Pieces disappeared from the board one by one. Eli began to notice how each move seemed to prepare the next three.\nAt last the man in the green cap leaned back and laughed softly. “I walked into that one twenty minutes ago,” he said. Eli looked down and finally saw the trap his grandfather had been building with two pawns and a bishop. On the trip home, the park seemed less ordinary than before. Eli had not just watched a game. He had watched patience turn into strategy.\nWhich detail best supports the idea that the game becomes more meaningful to Eli as he watches?",
+    "choices": {
+      "A": "only pigeons seemed likely to watch",
+      "B": "Nobody spoke much.",
+      "C": "Eli began to notice how each move seemed to prepare the next three.",
+      "D": "The seat across from Eli’s grandfather was taken."
+    },
+    "correct": "C",
+    "explanation": "This detail shows Eli starting to see the deeper strategy of the game. The main trap is choice B, which describes the silence but not Eli’s new understanding."
+  },
+  {
+    "id": "EN3-016",
+    "prompt": "Read the passage and answer the question.\nMany people imagine that city trees grow on their own once they are planted. In reality, the small patches of soil around street trees are difficult places to survive. Sidewalks reflect heat, rainwater may run off too quickly, and the soil can become packed tightly by foot traffic. To help trees in these settings, some cities are redesigning tree pits, the ground-level spaces around trunks. Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.\nThese designs can do more than improve appearance. Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures. However, successful tree pits must also leave room for pedestrians and protect trunks from bicycles, pets, and snowplows. For that reason, tree pit designs vary from block to block. The best ones are not simply pretty. They solve several small urban problems at once.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Street trees are weak because cities plant the wrong species.",
+      "B": "Tree pits are redesigned mainly to make sidewalks more colorful.",
+      "C": "Well-designed tree pits can help city trees survive while meeting other urban needs.",
+      "D": "Cities should remove sidewalks wherever trees are planted."
+    },
+    "correct": "C",
+    "explanation": "The passage emphasizes that tree pits can support trees and also address issues like pedestrians and runoff. The main trap is choice B, which reduces the purpose to appearance alone."
+  },
+  {
+    "id": "EN3-017",
+    "prompt": "Read the passage and answer the question.\nMany people imagine that city trees grow on their own once they are planted. In reality, the small patches of soil around street trees are difficult places to survive. Sidewalks reflect heat, rainwater may run off too quickly, and the soil can become packed tightly by foot traffic. To help trees in these settings, some cities are redesigning tree pits, the ground-level spaces around trunks. Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.\nThese designs can do more than improve appearance. Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures. However, successful tree pits must also leave room for pedestrians and protect trunks from bicycles, pets, and snowplows. For that reason, tree pit designs vary from block to block. The best ones are not simply pretty. They solve several small urban problems at once.\nHow does the author mainly develop the passage?",
+    "choices": {
+      "A": "by telling a story about one tree that survived a drought",
+      "B": "by describing a problem and explaining several design responses to it",
+      "C": "by listing different kinds of forests around the world",
+      "D": "by arguing that trees should replace all city parking spaces"
+    },
+    "correct": "B",
+    "explanation": "The author first explains why street trees struggle, then shows how tree pit redesign can help. The main trap is choice D, which goes far beyond the passage."
+  },
+  {
+    "id": "EN3-018",
+    "prompt": "Read the passage and answer the question.\nMany people imagine that city trees grow on their own once they are planted. In reality, the small patches of soil around street trees are difficult places to survive. Sidewalks reflect heat, rainwater may run off too quickly, and the soil can become packed tightly by foot traffic. To help trees in these settings, some cities are redesigning tree pits, the ground-level spaces around trunks. Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.\nThese designs can do more than improve appearance. Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures. However, successful tree pits must also leave room for pedestrians and protect trunks from bicycles, pets, and snowplows. For that reason, tree pit designs vary from block to block. The best ones are not simply pretty. They solve several small urban problems at once.\nAs used in the passage, the word “packed” most nearly means",
+    "choices": {
+      "A": "crowded together tightly",
+      "B": "wrapped for shipping",
+      "C": "broken into pieces",
+      "D": "arranged by size"
+    },
+    "correct": "A",
+    "explanation": "The soil becomes “packed” by foot traffic, meaning compressed and tight. The main trap is choice B, which uses a different meaning of the same word."
+  },
+  {
+    "id": "EN3-019",
+    "prompt": "Read the passage and answer the question.\nMany people imagine that city trees grow on their own once they are planted. In reality, the small patches of soil around street trees are difficult places to survive. Sidewalks reflect heat, rainwater may run off too quickly, and the soil can become packed tightly by foot traffic. To help trees in these settings, some cities are redesigning tree pits, the ground-level spaces around trunks. Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.\nThese designs can do more than improve appearance. Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures. However, successful tree pits must also leave room for pedestrians and protect trunks from bicycles, pets, and snowplows. For that reason, tree pit designs vary from block to block. The best ones are not simply pretty. They solve several small urban problems at once.\nWhich sentence from the passage best supports the claim that tree pit design affects more than just looks?",
+    "choices": {
+      "A": "In reality, the small patches of soil around street trees are difficult places to survive.",
+      "B": "Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.",
+      "C": "These designs can do more than improve appearance.",
+      "D": "Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures."
+    },
+    "correct": "D",
+    "explanation": "This sentence gives concrete evidence that the designs provide functional benefits beyond appearance. The main trap is choice C, which is a general claim but not the strongest support."
+  },
+  {
+    "id": "EN3-020",
+    "prompt": "Read the passage and answer the question.\nMany people imagine that city trees grow on their own once they are planted. In reality, the small patches of soil around street trees are difficult places to survive. Sidewalks reflect heat, rainwater may run off too quickly, and the soil can become packed tightly by foot traffic. To help trees in these settings, some cities are redesigning tree pits, the ground-level spaces around trunks. Instead of leaving bare dirt exposed, planners may add mulch, low plants, or specially shaped borders that guide rainwater inward.\nThese designs can do more than improve appearance. Looser soil allows roots to take in water and oxygen more easily, while added plants can reduce erosion and lower surface temperatures. However, successful tree pits must also leave room for pedestrians and protect trunks from bicycles, pets, and snowplows. For that reason, tree pit designs vary from block to block. The best ones are not simply pretty. They solve several small urban problems at once.\nA city block has narrow sidewalks, frequent foot traffic, and young street trees that dry out quickly. Based on the passage, which plan would best fit the situation?",
+    "choices": {
+      "A": "add a tree pit design that directs rainwater inward while still leaving room for pedestrians",
+      "B": "cover the entire sidewalk with low plants and remove the walking path",
+      "C": "leave bare dirt around the trees because simple designs always work best",
+      "D": "plant trees only in parks, since tree pits cannot help street trees"
+    },
+    "correct": "A",
+    "explanation": "This plan matches the passage’s emphasis on helping trees while respecting crowded sidewalks. The main trap is choice B, which ignores the need to leave space for walkers."
+  },
+  {
+    "id": "EN3-021",
+    "prompt": "Read the passage and answer the question.\nLena’s uncle owned a small bakery famous for its plum cake, though few customers knew that the recipe card was stained with so much butter and sugar that some words had nearly vanished. One Saturday morning, he asked Lena to help him copy the old card into a clean notebook before it became unreadable.\nLena expected the task to be mechanical. Instead, her uncle paused over every line. Next to “mix well,” he added, “but do not beat the batter flat.” Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.” He even changed “plums” to “firm, tart plums—sweet ones disappear.” “A recipe isn’t just ingredients,” he said. “It’s judgment.”\nAs they worked, Lena realized that the messy old card had never truly contained the whole cake. It held only the outline, while years of practice filled in the rest. By noon, the new notebook page looked precise and generous, as if it were trying to welcome a future baker into the kitchen. When Lena slid it into a plastic sleeve, she felt she had preserved more than directions. She had preserved a way of noticing.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Old recipe cards should always be replaced with printed cookbooks.",
+      "B": "Good baking depends only on carefully measuring ingredients.",
+      "C": "Writing down a recipe can also preserve experience and judgment.",
+      "D": "Plum cake is the most difficult dessert to make correctly."
+    },
+    "correct": "C",
+    "explanation": "The uncle adds observations and choices that go beyond a simple list of ingredients. The main trap is choice B, because the passage shows that measuring alone is not enough."
+  },
+  {
+    "id": "EN3-022",
+    "prompt": "Read the passage and answer the question.\nLena’s uncle owned a small bakery famous for its plum cake, though few customers knew that the recipe card was stained with so much butter and sugar that some words had nearly vanished. One Saturday morning, he asked Lena to help him copy the old card into a clean notebook before it became unreadable.\nLena expected the task to be mechanical. Instead, her uncle paused over every line. Next to “mix well,” he added, “but do not beat the batter flat.” Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.” He even changed “plums” to “firm, tart plums—sweet ones disappear.” “A recipe isn’t just ingredients,” he said. “It’s judgment.”\nAs they worked, Lena realized that the messy old card had never truly contained the whole cake. It held only the outline, while years of practice filled in the rest. By noon, the new notebook page looked precise and generous, as if it were trying to welcome a future baker into the kitchen. When Lena slid it into a plastic sleeve, she felt she had preserved more than directions. She had preserved a way of noticing.\nWhat can the reader most reasonably infer about Lena’s uncle?",
+    "choices": {
+      "A": "He wants to keep his methods secret from everyone else.",
+      "B": "He believes skill includes details that are not obvious in a brief recipe.",
+      "C": "He plans to stop baking plum cake soon.",
+      "D": "He dislikes written recipes and avoids using them."
+    },
+    "correct": "B",
+    "explanation": "His added notes show that experience fills in what the original card left unsaid. The main trap is choice D, because he clearly values written recipes enough to preserve one carefully."
+  },
+  {
+    "id": "EN3-023",
+    "prompt": "Read the passage and answer the question.\nLena’s uncle owned a small bakery famous for its plum cake, though few customers knew that the recipe card was stained with so much butter and sugar that some words had nearly vanished. One Saturday morning, he asked Lena to help him copy the old card into a clean notebook before it became unreadable.\nLena expected the task to be mechanical. Instead, her uncle paused over every line. Next to “mix well,” he added, “but do not beat the batter flat.” Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.” He even changed “plums” to “firm, tart plums—sweet ones disappear.” “A recipe isn’t just ingredients,” he said. “It’s judgment.”\nAs they worked, Lena realized that the messy old card had never truly contained the whole cake. It held only the outline, while years of practice filled in the rest. By noon, the new notebook page looked precise and generous, as if it were trying to welcome a future baker into the kitchen. When Lena slid it into a plastic sleeve, she felt she had preserved more than directions. She had preserved a way of noticing.\nWhich pair of words best describes the passage’s tone?",
+    "choices": {
+      "A": "hurried and anxious",
+      "B": "warm and thoughtful",
+      "C": "gloomy and regretful",
+      "D": "sharp and critical"
+    },
+    "correct": "B",
+    "explanation": "The passage treats the baking process and the shared task with affection and reflection. The main trap is choice A, because nothing in the scene feels rushed."
+  },
+  {
+    "id": "EN3-024",
+    "prompt": "Read the passage and answer the question.\nLena’s uncle owned a small bakery famous for its plum cake, though few customers knew that the recipe card was stained with so much butter and sugar that some words had nearly vanished. One Saturday morning, he asked Lena to help him copy the old card into a clean notebook before it became unreadable.\nLena expected the task to be mechanical. Instead, her uncle paused over every line. Next to “mix well,” he added, “but do not beat the batter flat.” Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.” He even changed “plums” to “firm, tart plums—sweet ones disappear.” “A recipe isn’t just ingredients,” he said. “It’s judgment.”\nAs they worked, Lena realized that the messy old card had never truly contained the whole cake. It held only the outline, while years of practice filled in the rest. By noon, the new notebook page looked precise and generous, as if it were trying to welcome a future baker into the kitchen. When Lena slid it into a plastic sleeve, she felt she had preserved more than directions. She had preserved a way of noticing.\nAs used in the passage, the word “mechanical” most nearly means",
+    "choices": {
+      "A": "done without much thought",
+      "B": "related to machines",
+      "C": "impossible to complete",
+      "D": "carefully organized"
+    },
+    "correct": "A",
+    "explanation": "Lena expects the copying task to be simple and automatic, but it turns out to require careful thinking. The main trap is choice B, which mistakes the figurative meaning for a literal one."
+  },
+  {
+    "id": "EN3-025",
+    "prompt": "Read the passage and answer the question.\nLena’s uncle owned a small bakery famous for its plum cake, though few customers knew that the recipe card was stained with so much butter and sugar that some words had nearly vanished. One Saturday morning, he asked Lena to help him copy the old card into a clean notebook before it became unreadable.\nLena expected the task to be mechanical. Instead, her uncle paused over every line. Next to “mix well,” he added, “but do not beat the batter flat.” Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.” He even changed “plums” to “firm, tart plums—sweet ones disappear.” “A recipe isn’t just ingredients,” he said. “It’s judgment.”\nAs they worked, Lena realized that the messy old card had never truly contained the whole cake. It held only the outline, while years of practice filled in the rest. By noon, the new notebook page looked precise and generous, as if it were trying to welcome a future baker into the kitchen. When Lena slid it into a plastic sleeve, she felt she had preserved more than directions. She had preserved a way of noticing.\nWhich detail best supports the idea that the original recipe card did not include all of the uncle’s knowledge?",
+    "choices": {
+      "A": "the bakery was famous for its plum cake",
+      "B": "some words had nearly vanished",
+      "C": "Beside “bake until ready,” he wrote, “edges brown first; center should still tremble slightly.”",
+      "D": "Lena slid the new page into a plastic sleeve"
+    },
+    "correct": "C",
+    "explanation": "This added detail shows knowledge not contained in the short original instruction. The main trap is choice B, which shows the card is damaged but not that it lacked fuller judgment."
+  },
+  {
+    "id": "EN3-026",
+    "prompt": "Read the passage and answer the question.\nEarthquake early warning systems do not predict earthquakes days or weeks in advance. Instead, they detect an earthquake just after it begins and send alerts before the strongest shaking reaches places farther away. This works because earthquakes produce different kinds of waves. The fastest waves arrive first and usually cause less damage, while slower waves often produce the strongest shaking. Sensitive instruments can detect the first waves and allow computers to estimate where stronger shaking is headed.\nThe warning time may last only a few seconds, but even that can matter. Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs. Early warning is not useful in every situation; people very close to the earthquake may receive little or no notice. Still, these systems can reduce harm by turning a tiny amount of time into a chance to act.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Earthquake early warning systems can forecast earthquakes long before they start.",
+      "B": "Earthquake early warning systems give people time to escape buildings completely.",
+      "C": "Earthquake early warning systems detect quakes after they begin and may provide a short but useful alert.",
+      "D": "Earthquake early warning systems are mainly designed for scientists studying wave speed."
+    },
+    "correct": "C",
+    "explanation": "The passage makes clear that the systems do not predict quakes in advance, but can still help through brief warnings. The main trap is choice A, which directly contradicts the first sentence."
+  },
+  {
+    "id": "EN3-027",
+    "prompt": "Read the passage and answer the question.\nEarthquake early warning systems do not predict earthquakes days or weeks in advance. Instead, they detect an earthquake just after it begins and send alerts before the strongest shaking reaches places farther away. This works because earthquakes produce different kinds of waves. The fastest waves arrive first and usually cause less damage, while slower waves often produce the strongest shaking. Sensitive instruments can detect the first waves and allow computers to estimate where stronger shaking is headed.\nThe warning time may last only a few seconds, but even that can matter. Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs. Early warning is not useful in every situation; people very close to the earthquake may receive little or no notice. Still, these systems can reduce harm by turning a tiny amount of time into a chance to act.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how earthquake early warning systems work and why brief alerts can help",
+      "B": "to argue that earthquakes can be prevented with better technology",
+      "C": "to compare famous earthquakes from different countries",
+      "D": "to entertain readers with dramatic survival stories"
+    },
+    "correct": "A",
+    "explanation": "The author explains the science of wave detection and the practical value of seconds of warning. The main trap is choice B, because the passage never says technology can prevent earthquakes."
+  },
+  {
+    "id": "EN3-028",
+    "prompt": "Read the passage and answer the question.\nEarthquake early warning systems do not predict earthquakes days or weeks in advance. Instead, they detect an earthquake just after it begins and send alerts before the strongest shaking reaches places farther away. This works because earthquakes produce different kinds of waves. The fastest waves arrive first and usually cause less damage, while slower waves often produce the strongest shaking. Sensitive instruments can detect the first waves and allow computers to estimate where stronger shaking is headed.\nThe warning time may last only a few seconds, but even that can matter. Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs. Early warning is not useful in every situation; people very close to the earthquake may receive little or no notice. Still, these systems can reduce harm by turning a tiny amount of time into a chance to act.\nWhich sentence from the passage best supports the idea that even a very short warning can be useful?",
+    "choices": {
+      "A": "This works because earthquakes produce different kinds of waves.",
+      "B": "The fastest waves arrive first and usually cause less damage.",
+      "C": "Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs.",
+      "D": "Early warning is not useful in every situation."
+    },
+    "correct": "C",
+    "explanation": "This sentence provides specific examples of how a short warning can lead to useful action. The main trap is choice B, which explains the system’s basis but not its practical value."
+  },
+  {
+    "id": "EN3-029",
+    "prompt": "Read the passage and answer the question.\nEarthquake early warning systems do not predict earthquakes days or weeks in advance. Instead, they detect an earthquake just after it begins and send alerts before the strongest shaking reaches places farther away. This works because earthquakes produce different kinds of waves. The fastest waves arrive first and usually cause less damage, while slower waves often produce the strongest shaking. Sensitive instruments can detect the first waves and allow computers to estimate where stronger shaking is headed.\nThe warning time may last only a few seconds, but even that can matter. Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs. Early warning is not useful in every situation; people very close to the earthquake may receive little or no notice. Still, these systems can reduce harm by turning a tiny amount of time into a chance to act.\nAs used in the passage, the word “sensitive” most nearly means",
+    "choices": {
+      "A": "able to detect small changes",
+      "B": "easily offended by criticism",
+      "C": "expensive to replace",
+      "D": "difficult to understand"
+    },
+    "correct": "A",
+    "explanation": "Sensitive instruments are able to notice the first waves quickly. The main trap is choice B, which uses an unrelated meaning of “sensitive.”"
+  },
+  {
+    "id": "EN3-030",
+    "prompt": "Read the passage and answer the question.\nEarthquake early warning systems do not predict earthquakes days or weeks in advance. Instead, they detect an earthquake just after it begins and send alerts before the strongest shaking reaches places farther away. This works because earthquakes produce different kinds of waves. The fastest waves arrive first and usually cause less damage, while slower waves often produce the strongest shaking. Sensitive instruments can detect the first waves and allow computers to estimate where stronger shaking is headed.\nThe warning time may last only a few seconds, but even that can matter. Trains may slow down, surgeons may pause delicate procedures, and people may move away from windows or stop climbing stairs. Early warning is not useful in every situation; people very close to the earthquake may receive little or no notice. Still, these systems can reduce harm by turning a tiny amount of time into a chance to act.\nA subway system in an earthquake-prone city wants to use the ideas in the passage. Which plan would best fit the passage?",
+    "choices": {
+      "A": "wait to respond until all shaking has completely stopped",
+      "B": "use early alerts to slow trains as soon as possible after a quake begins",
+      "C": "ask passengers to predict where the next earthquake will happen",
+      "D": "ignore the first waves because they are less damaging"
+    },
+    "correct": "B",
+    "explanation": "The passage specifically names slowing trains as one useful action after an alert. The main trap is choice A, which wastes the small amount of warning time the system provides."
+  },
+  {
+    "id": "EN3-031",
+    "prompt": "Read the passage and answer the question.\nThe robotics club met after school to prepare for the regional competition. The students reviewed their designs they also tested the wheels, sensors, and turning speed of the robot.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "The students reviewed their designs, they also tested the wheels, sensors, and turning speed of the robot.",
+      "B": "The students reviewed their designs and also tested the wheels, sensors, and turning speed of the robot.",
+      "C": "The students reviewed their designs; also testing the wheels, sensors, and turning speed of the robot.",
+      "D": "The students reviewed their designs because also testing the wheels, sensors, and turning speed of the robot."
+    },
+    "correct": "B",
+    "explanation": "This revision fixes the comma splice and creates a clear compound verb structure. The main trap is choice A, which leaves two complete thoughts joined only by a comma."
+  },
+  {
+    "id": "EN3-032",
+    "prompt": "Read the passage and answer the question.\nBefore the final practice run, each programmer and driver were asked to check one part of the machine.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each programmer and driver was asked to check one part of the machine",
+      "B": "each programmer and driver were being asked to check one part of the machine",
+      "C": "each programmer and driver are asked to check one part of the machine",
+      "D": "each programmer and driver ask to check one part of the machine"
+    },
+    "correct": "A",
+    "explanation": "The subject begins with “each,” so it takes the singular verb “was.” The main trap is choice B, which keeps the incorrect plural agreement."
+  },
+  {
+    "id": "EN3-033",
+    "prompt": "Read the passage and answer the question.\nThe team struggled during its first trial. However, by the second trial, the robot completed the course without hitting a single barrier.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the poor first trial with the successful second trial. The main trap is choice D, which suggests simultaneous events rather than contrast."
+  },
+  {
+    "id": "EN3-034",
+    "prompt": "Read the passage and answer the question.\nThe robotics club met after school to prepare for the regional competition. The students reviewed their designs and also tested the wheels, sensors, and turning speed of the robot. Before the final practice run, each programmer and driver was asked to check one part of the machine. The team struggled during its first trial. However, by the second trial, the robot completed the course without hitting a single barrier. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Many schools offer clubs in sports, music, and art.",
+      "B": "Now the team feels more prepared to compete because its practice revealed what needed improvement.",
+      "C": "Regional competitions are often held in large gymnasiums.",
+      "D": "Robots can be built from metal, plastic, and rubber."
+    },
+    "correct": "B",
+    "explanation": "This sentence logically concludes the paragraph by showing the benefit of the practice sessions. The main trap is choice C, which adds a detail unrelated to the team’s progress."
+  },
+  {
+    "id": "EN3-035",
+    "prompt": "Read the passage and answer the question.\nThe drama class gathered onstage for rehearsal. Wearing a long velvet cape, the spotlight followed the lead actor across the floor.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Wearing a long velvet cape, the lead actor crossed the floor as the spotlight followed.",
+      "B": "The spotlight, wearing a long velvet cape, followed the lead actor across the floor.",
+      "C": "Wearing a long velvet cape, the floor was crossed by the lead actor under the spotlight.",
+      "D": "The lead actor was crossing the floor, wearing a long velvet cape, by the spotlight followed."
+    },
+    "correct": "A",
+    "explanation": "The revision places the modifier next to the actor, the one actually wearing the cape. The main trap is choice B, which incorrectly suggests the spotlight is wearing the cape."
+  },
+  {
+    "id": "EN3-036",
+    "prompt": "Read the passage and answer the question.\nAudience members should arrive by 6:45 p.m. so there is enough time to be seated. They should also silence phones before the curtain rises.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Phones should also silence before the curtain rises.",
+      "B": "Audience members should also silence phones before the curtain rises.",
+      "C": "The curtain should also silence phones before it rises.",
+      "D": "They should also silence it before the curtain rises."
+    },
+    "correct": "B",
+    "explanation": "This version clearly identifies who should silence phones. The main trap is choice D, which uses an unclear pronoun."
+  },
+  {
+    "id": "EN3-037",
+    "prompt": "Read the passage and answer the question.\n(1) The science museum will host a free workshop on weather instruments this Saturday. (2) Visitors will learn how to read thermometers, barometers, and rain gauges. (3) The session begins at 11:00 a.m. in the east classroom. (4) Registration is recommended because space is limited.\nThe writer wants to add the following sentence:\nChildren must attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "D",
+    "explanation": "“Children must attend with an adult” is a practical attendance note, so it fits best after the other logistical information. The main trap is choice A, which places the rule too early before key event details are given."
+  },
+  {
+    "id": "EN3-038",
+    "prompt": "Read the passage and answer the question.\nPlease bring three items a notebook, a pencil, and a refillable water bottle to the workshop.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a notebook, a pencil, and a refillable water bottle",
+      "B": "items: a notebook, a pencil, and a refillable water bottle",
+      "C": "items; a notebook, a pencil, and a refillable water bottle",
+      "D": "items a notebook, a pencil, and a refillable water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list after an independent clause. The main trap is choice A, which uses a comma where a colon is needed."
+  },
+  {
+    "id": "EN3-039",
+    "prompt": "Read the passage and answer the question.\nLast week our class visited the local newspaper office. One editor describe how headlines are chosen to fit both the story and the page layout.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "describes",
+      "B": "described",
+      "C": "describing",
+      "D": "has describe"
+    },
+    "correct": "B",
+    "explanation": "“Last week” sets the sentence in the past, so the verb should be past tense. The main trap is choice A, which incorrectly shifts to present tense."
+  },
+  {
+    "id": "EN3-040",
+    "prompt": "Read the passage and answer the question.\nThe harbor seal a graceful swimmer can dive for several minutes at a time.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The harbor seal, a graceful swimmer, can dive for several minutes at a time.",
+      "B": "The harbor seal a graceful swimmer can dive for several minutes at a time.",
+      "C": "The harbor seal, a graceful swimmer can dive, for several minutes at a time.",
+      "D": "The harbor seal a graceful swimmer, can dive for several minutes at a time."
+    },
+    "correct": "A",
+    "explanation": "The phrase “a graceful swimmer” is nonessential and should be set off with commas. The main trap is choice B, which omits necessary punctuation."
+  },
+  {
+    "id": "EN3-041",
+    "prompt": "Read the passage and answer the question.\nThe guide explained that the desert plants can do water for long periods after rainfall.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "erase",
+      "C": "flatten",
+      "D": "borrow"
+    },
+    "correct": "A",
+    "explanation": "Desert plants can store water after rainfall for later use. The main trap is choice D, which does not make sense in the sentence."
+  },
+  {
+    "id": "EN3-042",
+    "prompt": "Read the passage and answer the question.\nOriginal sentences:\nThe bus arrived late. The students still made it to the debate tournament on time.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the bus arrived late, the students still made it to the debate tournament on time.",
+      "B": "The bus arrived late, the students still made it to the debate tournament on time.",
+      "C": "The students still made it to the debate tournament on time, the bus arrived late.",
+      "D": "Arrived late, the bus and the students still made it to the debate tournament on time."
+    },
+    "correct": "A",
+    "explanation": "This version correctly combines the ideas using a contrast relationship. The main trap is choice B, which creates a comma splice."
+  },
+  {
+    "id": "EN3-043",
+    "prompt": "Read the passage and answer the question.\nThe art room allows students to sketch portraits, mixing paint colors, and to carve small stamps.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "sketch portraits, mix paint colors, and carve small stamps",
+      "B": "sketch portraits, mixing paint colors, and carving small stamps",
+      "C": "to sketch portraits, mix paint colors, and carving small stamps",
+      "D": "sketch portraits, to mix paint colors, and carve small stamps"
+    },
+    "correct": "A",
+    "explanation": "The items in the series must have parallel verb forms. The main trap is choice B, which mixes verb patterns."
+  },
+  {
+    "id": "EN3-044",
+    "prompt": "Read the passage and answer the question.\nMany people think astronomy requires expensive equipment. In reality, beginners can learn a great deal just by observing the moon and brighter planets.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "In reality",
+      "B": "Meanwhile",
+      "C": "Otherwise",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "The second sentence corrects a common assumption, so “In reality” fits best. The main trap is choice D, which suggests similarity rather than correction."
+  },
+  {
+    "id": "EN3-045",
+    "prompt": "Read the passage and answer the question.\nAfter examining the survey results for several days, a new lunch schedule was proposed by the principal’s committee.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal’s committee proposed a new lunch schedule",
+      "B": "a new lunch schedule, proposed by the principal’s committee",
+      "C": "the proposal of a new lunch schedule by the principal’s committee",
+      "D": "a new lunch schedule was being proposed by the principal’s committee"
+    },
+    "correct": "A",
+    "explanation": "This revision places the actor right after the introductory phrase, fixing the misplaced modifier. The main trap is choice B, which is only a fragment."
+  },
+  {
+    "id": "EN3-046",
+    "prompt": "Read the passage and answer the question.\nA student is ending a speech that argues for adding more benches to the school courtyard. The final sentence currently reads: “More benches would be a nice change.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Benches are usually made of wood or metal.",
+      "B": "Adding more benches would give students a place to read, talk, and wait comfortably before and after school.",
+      "C": "The courtyard is outside the school building.",
+      "D": "More benches would exist in the courtyard."
+    },
+    "correct": "B",
+    "explanation": "This sentence is persuasive because it names clear benefits for students. The main trap is choice A, which gives a fact but no reason to support the proposal."
+  },
+  {
+    "id": "EN3-047",
+    "prompt": "Read the passage and answer the question.\nMs. Ortiz gave the field guide to Sam and I before the hiking trip began.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective case “me” is correct. The main trap is choice C, which is a common but incorrect overcorrection."
+  },
+  {
+    "id": "EN3-048",
+    "prompt": "Read the passage and answer the question.\nJules called \"Careful!\" when the stack of boxes began to wobble.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "called, \"Careful!\"",
+      "B": "called \"Careful\"!",
+      "C": "called; \"Careful!\"",
+      "D": "called: \"Careful\","
+    },
+    "correct": "A",
+    "explanation": "A comma properly introduces the quotation, and the exclamation point belongs inside the quotation marks. The main trap is choice B, which places the exclamation point outside the quotation."
+  },
+  {
+    "id": "EN3-049",
+    "prompt": "Read the passage and answer the question.\nWe checked the lost-and-found bin twice. Finally, Aria spotted her jacket hanging behind the gym door.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "The word shows that Aria found the jacket after continued searching. The main trap is choice C, which signals contrast rather than sequence."
+  },
+  {
+    "id": "EN3-050",
+    "prompt": "Read the passage and answer the question.\nBy sunset, the volunteers had planted rows of young trees along the trail, and the empty hill looked greener than it had that morning.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Trees can grow at different speeds in different climates.",
+      "B": "The trail curves behind the old baseball field.",
+      "C": "As they packed the shovels into the truck, the group could already picture the hillside shaded in summers to come.",
+      "D": "Some volunteers wore work gloves during the project."
+    },
+    "correct": "C",
+    "explanation": "This ending reflects on the lasting result of the volunteers’ work and closes the paragraph naturally. The main trap is choice A, which adds a general fact instead of concluding the scene."
+  }
+]

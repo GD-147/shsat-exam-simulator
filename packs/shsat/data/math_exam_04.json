@@ -1,0 +1,686 @@
+[
+  {
+    "id": "MA4-001",
+    "prompt": "The ratio 18:30 is equal to which ratio in simplest form?",
+    "choices": {
+      "A": "3:5",
+      "B": "5:3",
+      "C": "6:10",
+      "D": "9:10"
+    },
+    "correct": "A",
+    "explanation": "Divide both terms of 18:30 by 6 to simplify the ratio. The main trap is 6:10, which is equivalent but not in simplest form."
+  },
+  {
+    "id": "MA4-002",
+    "prompt": "On a map, 1.5 inches represents 9 miles. If two towns are 5 inches apart on the map, how far apart are the towns in real life?",
+    "choices": {
+      "A": "24 miles",
+      "B": "27 miles",
+      "C": "30 miles",
+      "D": "45 miles"
+    },
+    "correct": "C",
+    "explanation": "If 1.5 inches represents 9 miles, then 1 inch represents 6 miles, so 5 inches represents 30 miles. The main trap is 27 miles, which comes from multiplying 9 by 3 instead of scaling correctly."
+  },
+  {
+    "id": "MA4-003",
+    "prompt": "What is 45% of 220?",
+    "choices": {
+      "A": "88",
+      "B": "90",
+      "C": "99",
+      "D": "110"
+    },
+    "correct": "C",
+    "explanation": "45% of 220 is 0.45 × 220 = 99. The main trap is 110, which is 50% of 220, not 45%."
+  },
+  {
+    "id": "MA4-004",
+    "prompt": "A jacket originally costs $80 and is on sale for 15% off. What is the sale price?",
+    "choices": {
+      "A": "$65",
+      "B": "$68",
+      "C": "$72",
+      "D": "$74"
+    },
+    "correct": "B",
+    "explanation": "Fifteen percent of $80 is $12, so the sale price is $80 - $12 = $68. The main trap is $72, which comes from subtracting only 10%."
+  },
+  {
+    "id": "MA4-005",
+    "prompt": "The price of a bicycle increases from $60 to $78. What is the percent increase?",
+    "choices": {
+      "A": "18%",
+      "B": "25%",
+      "C": "30%",
+      "D": "35%"
+    },
+    "correct": "C",
+    "explanation": "The increase is $18, and 18/60 = 0.30 = 30%. The main trap is 18%, which uses the increase amount instead of the percent."
+  },
+  {
+    "id": "MA4-006",
+    "prompt": "Red and blue marbles are in the ratio 2:7. If there are 25 more blue marbles than red marbles, how many marbles are there in all?",
+    "choices": {
+      "A": "35",
+      "B": "40",
+      "C": "45",
+      "D": "63"
+    },
+    "correct": "C",
+    "explanation": "The ratio difference is 7 - 2 = 5 parts, and those 5 parts equal 25, so 1 part is 5. The total is 9 parts, so 9 × 5 = 45. The main trap is 35, which uses only the blue marbles."
+  },
+  {
+    "id": "MA4-007",
+    "prompt": "What is 5/8 of 72?",
+    "choices": {
+      "A": "40",
+      "B": "45",
+      "C": "48",
+      "D": "56"
+    },
+    "correct": "B",
+    "explanation": "5/8 of 72 is 72 ÷ 8 × 5 = 9 × 5 = 45. The main trap is 48, which comes from multiplying before dividing incorrectly."
+  },
+  {
+    "id": "MA4-008",
+    "prompt": "A car travels 42 miles in 1.5 hours. What is its speed in miles per hour?",
+    "choices": {
+      "A": "24",
+      "B": "26",
+      "C": "28",
+      "D": "31"
+    },
+    "correct": "C",
+    "explanation": "Speed equals distance divided by time: 42 ÷ 1.5 = 28 miles per hour. The main trap is 24, which comes from a division error."
+  },
+  {
+    "id": "MA4-009",
+    "prompt": "A price increases by 20% and becomes $84. What was the original price?",
+    "choices": {
+      "A": "$64",
+      "B": "$68",
+      "C": "$70",
+      "D": "$72"
+    },
+    "correct": "C",
+    "explanation": "If the price after a 20% increase is $84, then 120% of the original is 84, so the original is 84 ÷ 1.2 = 70. The main trap is $72, which comes from subtracting 20% of 84."
+  },
+  {
+    "id": "MA4-010",
+    "prompt": "An item costs $35 before tax. If the sales tax is 6%, what is the total cost?",
+    "choices": {
+      "A": "$36.10",
+      "B": "$37.10",
+      "C": "$38.50",
+      "D": "$41.00"
+    },
+    "correct": "B",
+    "explanation": "Sales tax is 0.06 × 35 = $2.10, so the total cost is $37.10. The main trap is $36.10, which adds only $1.10."
+  },
+  {
+    "id": "MA4-011",
+    "prompt": "Simplify: 6x - 4 + 3x + 7",
+    "choices": {
+      "A": "9x + 3",
+      "B": "9x - 3",
+      "C": "18x + 3",
+      "D": "18x - 11"
+    },
+    "correct": "A",
+    "explanation": "Combine like terms: 6x + 3x = 9x and -4 + 7 = 3. The main trap is 9x - 3, which subtracts the constants incorrectly."
+  },
+  {
+    "id": "MA4-012",
+    "prompt": "Evaluate 2a² - 3b when a = 4 and b = 5.",
+    "choices": {
+      "A": "2",
+      "B": "10",
+      "C": "17",
+      "D": "22"
+    },
+    "correct": "C",
+    "explanation": "2a² - 3b = 2(4²) - 3(5) = 2(16) - 15 = 17. The main trap is 22, which comes from subtracting only 10 instead of 15."
+  },
+  {
+    "id": "MA4-013",
+    "prompt": "Solve: x/4 - 3 = 5",
+    "choices": {
+      "A": "8",
+      "B": "20",
+      "C": "24",
+      "D": "32"
+    },
+    "correct": "D",
+    "explanation": "Add 3 to both sides to get x/4 = 8, then multiply by 4. The main trap is 24, which comes from multiplying before isolating x."
+  },
+  {
+    "id": "MA4-014",
+    "prompt": "Solve: 3(x + 2) = 21",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "A",
+    "explanation": "Divide both sides by 3 to get x + 2 = 7, then subtract 2. The main trap is 7, which stops before finishing the equation."
+  },
+  {
+    "id": "MA4-015",
+    "prompt": "Solve: 5x - 7 = 3x + 9",
+    "choices": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "16"
+    },
+    "correct": "B",
+    "explanation": "Subtract 3x from both sides and add 7 to both sides: 2x = 16, so x = 8. The main trap is 16, which forgets to divide by 2."
+  },
+  {
+    "id": "MA4-016",
+    "prompt": "The sum of three consecutive even integers is 66. What is the smallest integer?",
+    "choices": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": "Three consecutive even integers centered at n have sum 3n, so 3n = 66 gives n = 22. The numbers are 20, 22, and 24, so the smallest is 20. The main trap is 22, which is the middle integer."
+  },
+  {
+    "id": "MA4-017",
+    "prompt": "Seven less than twice a number n is 19. What is the value of n?",
+    "choices": {
+      "A": "6",
+      "B": "12",
+      "C": "13",
+      "D": "26"
+    },
+    "correct": "C",
+    "explanation": "“Seven less than twice n” means 2n - 7 = 19. Solving gives 2n = 26 and n = 13. The main trap is 12, which comes from subtracting 7 from 19 before doubling."
+  },
+  {
+    "id": "MA4-018",
+    "prompt": "If y = 4 - 3x, what is the value of y when x = -2?",
+    "choices": {
+      "A": "-10",
+      "B": "-2",
+      "C": "6",
+      "D": "10"
+    },
+    "correct": "D",
+    "explanation": "Substitute x = -2 into y = 4 - 3x: y = 4 - 3(-2) = 4 + 6 = 10. The main trap is -10, which comes from mishandling the negative sign."
+  },
+  {
+    "id": "MA4-019",
+    "prompt": "A rectangle has width x and length x + 1. If its perimeter is 26, what is the value of x?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": "Perimeter is 2x + 2(x + 1) = 26, so 4x + 2 = 26 and 4x = 24, giving x = 6. The main trap is 7, which comes from dividing before subtracting 2."
+  },
+  {
+    "id": "MA4-020",
+    "prompt": "A phone plan charges a monthly fee of $12 plus $0.25 per text message. Which expression represents the total monthly cost for m text messages?",
+    "choices": {
+      "A": "0.25m",
+      "B": "12m + 0.25",
+      "C": "0.25m + 12",
+      "D": "12.25m"
+    },
+    "correct": "C",
+    "explanation": "The monthly cost is the text-message cost plus the flat fee. The main trap is 12m + 0.25, which reverses the meaning of the numbers."
+  },
+  {
+    "id": "MA4-021",
+    "prompt": "What is the value of 2⁴ × 2³ ÷ 2²?",
+    "choices": {
+      "A": "2³",
+      "B": "2⁴",
+      "C": "2⁵",
+      "D": "2⁹"
+    },
+    "correct": "C",
+    "explanation": "Add exponents when multiplying like bases and subtract when dividing: 4 + 3 - 2 = 5. The main trap is 2⁹, which adds all exponents without accounting for division."
+  },
+  {
+    "id": "MA4-022",
+    "prompt": "What is the value of (18 - 3²) ÷ 3?",
+    "choices": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Compute the exponent first: 3² = 9, then (18 - 9) ÷ 3 = 9 ÷ 3 = 3. The main trap is 9, which ignores the subtraction."
+  },
+  {
+    "id": "MA4-023",
+    "prompt": "What is the value of √196 + √49?",
+    "choices": {
+      "A": "14",
+      "B": "19",
+      "C": "21",
+      "D": "245"
+    },
+    "correct": "C",
+    "explanation": "√196 = 14 and √49 = 7, so their sum is 21. The main trap is 19, which confuses addition with subtraction."
+  },
+  {
+    "id": "MA4-024",
+    "prompt": "What is the greatest common factor of 42 and 56?",
+    "choices": {
+      "A": "7",
+      "B": "12",
+      "C": "14",
+      "D": "28"
+    },
+    "correct": "C",
+    "explanation": "The greatest common factor of 42 and 56 is 14. The main trap is 28, which is not a factor of 42."
+  },
+  {
+    "id": "MA4-025",
+    "prompt": "What is the least common multiple of 15 and 18?",
+    "choices": {
+      "A": "30",
+      "B": "45",
+      "C": "72",
+      "D": "90"
+    },
+    "correct": "D",
+    "explanation": "The least common multiple of 15 and 18 is 90. The main trap is 45, which is a multiple of 15 but not 18."
+  },
+  {
+    "id": "MA4-026",
+    "prompt": "Which of the following numbers is divisible by both 3 and 4?",
+    "choices": {
+      "A": "126",
+      "B": "130",
+      "C": "132",
+      "D": "138"
+    },
+    "correct": "C",
+    "explanation": "A number divisible by both 3 and 4 must have a digit sum divisible by 3 and last two digits divisible by 4. Only 132 fits both rules. The main trap is 138, which is divisible by 3 but not by 4."
+  },
+  {
+    "id": "MA4-027",
+    "prompt": "What is the value of 5/6 + 1/4?",
+    "choices": {
+      "A": "7/10",
+      "B": "11/12",
+      "C": "13/12",
+      "D": "3/2"
+    },
+    "correct": "C",
+    "explanation": "Use a common denominator of 12: 5/6 = 10/12 and 1/4 = 3/12, so the sum is 13/12. The main trap is 11/12, which adds incorrectly."
+  },
+  {
+    "id": "MA4-028",
+    "prompt": "What is the value of 3/5 ÷ 9/20?",
+    "choices": {
+      "A": "2/3",
+      "B": "3/4",
+      "C": "4/3",
+      "D": "27/100"
+    },
+    "correct": "C",
+    "explanation": "Divide by multiplying by the reciprocal: 3/5 × 20/9 = 60/45 = 4/3. The main trap is 2/3, which simplifies incorrectly."
+  },
+  {
+    "id": "MA4-029",
+    "prompt": "A bag contains 4 red marbles, 5 blue marbles, and 1 green marble. What is the probability of choosing a marble that is not blue?",
+    "choices": {
+      "A": "1/2",
+      "B": "3/5",
+      "C": "2/5",
+      "D": "4/5"
+    },
+    "correct": "A",
+    "explanation": "There are 10 marbles total, and 5 of them are not blue, so the probability is 5/10 = 1/2. The main trap is 3/5, which uses the wrong denominator."
+  },
+  {
+    "id": "MA4-030",
+    "prompt": "A fair coin is tossed twice. What is the probability of getting exactly one head?",
+    "choices": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "3/4",
+      "D": "1"
+    },
+    "correct": "B",
+    "explanation": "The outcomes with exactly one head are HT and TH, which are 2 out of 4 equally likely outcomes. The main trap is 1/4, which counts only one favorable outcome."
+  },
+  {
+    "id": "MA4-031",
+    "prompt": "What is the mean of 7, 9, 10, and 14?",
+    "choices": {
+      "A": "9",
+      "B": "10",
+      "C": "10.5",
+      "D": "11"
+    },
+    "correct": "B",
+    "explanation": "Add the numbers and divide by 4: (7 + 9 + 10 + 14) ÷ 4 = 40 ÷ 4 = 10. The main trap is 10.5, which comes from an addition error."
+  },
+  {
+    "id": "MA4-032",
+    "prompt": "The data set is 2, 4, 6, 8, 12, 13. What is the median?",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "For an even number of data values, the median is the average of the two middle values: (6 + 8) ÷ 2 = 7. The main trap is 8, which uses only one middle value."
+  },
+  {
+    "id": "MA4-033",
+    "prompt": "The data set is 3, 5, 5, 8, 9, 9, 9, 11. What is the mode?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "9",
+      "D": "11"
+    },
+    "correct": "C",
+    "explanation": "The mode is the number that appears most often; 9 appears three times. The main trap is 5, which appears only twice."
+  },
+  {
+    "id": "MA4-034",
+    "prompt": "What is the area of a rectangle with length 15 cm and width 7 cm?",
+    "choices": {
+      "A": "22 cm²",
+      "B": "75 cm²",
+      "C": "98 cm²",
+      "D": "105 cm²"
+    },
+    "correct": "D",
+    "explanation": "Area of a rectangle is length × width = 15 × 7 = 105. The main trap is 98 cm², which comes from a multiplication error."
+  },
+  {
+    "id": "MA4-035",
+    "prompt": "A triangle has a base of 12 units and a height of 9 units. What is its area?",
+    "choices": {
+      "A": "21 square units",
+      "B": "54 square units",
+      "C": "108 square units",
+      "D": "216 square units"
+    },
+    "correct": "B",
+    "explanation": "Area of a triangle is 1/2 × base × height = 1/2 × 12 × 9 = 54. The main trap is 108 square units, which forgets to divide by 2."
+  },
+  {
+    "id": "MA4-036",
+    "prompt": "A circle has radius 5. What is its circumference?",
+    "choices": {
+      "A": "5π",
+      "B": "10π",
+      "C": "25π",
+      "D": "50π"
+    },
+    "correct": "B",
+    "explanation": "Circumference is 2πr, so 2π × 5 = 10π. The main trap is 25π, which confuses circumference with area."
+  },
+  {
+    "id": "MA4-037",
+    "prompt": "Two angles are supplementary. One angle measures 127°. What is the measure of the other angle?",
+    "choices": {
+      "A": "43°",
+      "B": "53°",
+      "C": "63°",
+      "D": "73°"
+    },
+    "correct": "B",
+    "explanation": "Supplementary angles sum to 180°, so 180 - 127 = 53. The main trap is 43°, which subtracts incorrectly."
+  },
+  {
+    "id": "MA4-038",
+    "prompt": "The angles of a triangle measure 2x, 5x, and 8x degrees. What is the measure of the largest angle?",
+    "choices": {
+      "A": "72°",
+      "B": "80°",
+      "C": "90°",
+      "D": "96°"
+    },
+    "correct": "D",
+    "explanation": "2x + 5x + 8x = 180 gives 15x = 180, so x = 12 and the largest angle is 8x = 96°. The main trap is 80°, which comes from using the wrong x-value."
+  },
+  {
+    "id": "MA4-039",
+    "prompt": "A rectangular prism has length 8, width 3, and height 5. What is its volume?",
+    "choices": {
+      "A": "16",
+      "B": "24",
+      "C": "40",
+      "D": "120"
+    },
+    "correct": "D",
+    "explanation": "Volume of a rectangular prism is length × width × height = 8 × 3 × 5 = 120. The main trap is 40, which uses only two dimensions."
+  },
+  {
+    "id": "MA4-040",
+    "prompt": "A cube has side length 4. What is its total surface area?",
+    "choices": {
+      "A": "16",
+      "B": "64",
+      "C": "96",
+      "D": "128"
+    },
+    "correct": "C",
+    "explanation": "Surface area of a cube is 6s² = 6(4²) = 6(16) = 96. The main trap is 64, which is the area of only four faces or 4³."
+  },
+  {
+    "id": "MA4-041",
+    "prompt": "A right triangle has legs of length 7 and 24. What is the length of its hypotenuse?",
+    "choices": {
+      "A": "23",
+      "B": "24",
+      "C": "25",
+      "D": "31"
+    },
+    "correct": "C",
+    "explanation": "A 7-24-25 triangle is a Pythagorean triple, so the hypotenuse is 25. The main trap is 24, which is one of the legs."
+  },
+  {
+    "id": "MA4-042",
+    "prompt": "Point P is at (-3, 6). What is the y-coordinate of point P?",
+    "choices": {
+      "A": "-6",
+      "B": "-3",
+      "C": "3",
+      "D": "6"
+    },
+    "correct": "D",
+    "explanation": "In the point (-3, 6), the y-coordinate is the second number. The main trap is -3, which is the x-coordinate."
+  },
+  {
+    "id": "MA4-043",
+    "prompt": "A line segment has endpoints at (4, 1) and (4, 9). What is the length of the segment?",
+    "choices": {
+      "A": "5",
+      "B": "8",
+      "C": "9",
+      "D": "13"
+    },
+    "correct": "B",
+    "explanation": "The segment is vertical because the x-coordinates are the same, so its length is 9 - 1 = 8. The main trap is 13, which adds the endpoints instead of subtracting."
+  },
+  {
+    "id": "MA4-044",
+    "prompt": "A $50 shirt is discounted by 10%, and then 8% sales tax is added to the discounted price. What is the final cost?",
+    "choices": {
+      "A": "$45.90",
+      "B": "$47.70",
+      "C": "$48.60",
+      "D": "$49.50"
+    },
+    "correct": "C",
+    "explanation": "First discount the shirt: 10% of $50 is $5, so the sale price is $45. Then add 8% tax: 45 × 1.08 = $48.60. The main trap is $45.90, which adds only 2% tax."
+  },
+  {
+    "id": "MA4-045",
+    "prompt": "If 7 workers can make 84 chairs in 6 days, how many chairs can 5 workers make in 8 days at the same rate?",
+    "choices": {
+      "A": "70",
+      "B": "75",
+      "C": "80",
+      "D": "84"
+    },
+    "correct": "C",
+    "explanation": "7 workers in 6 days give 42 worker-days to make 84 chairs, so the rate is 2 chairs per worker-day. Then 5 workers for 8 days give 40 worker-days, making 80 chairs. The main trap is 84, which repeats the original output without scaling."
+  },
+  {
+    "id": "MA4-046",
+    "prompt": "Solve: x/3 + x/6 = 12",
+    "choices": {
+      "A": "12",
+      "B": "18",
+      "C": "24",
+      "D": "36"
+    },
+    "correct": "C",
+    "explanation": "x/3 + x/6 = 2x/6 + x/6 = 3x/6 = x/2, so x/2 = 12 and x = 24. The main trap is 36, which adds the denominators incorrectly."
+  },
+  {
+    "id": "MA4-047",
+    "prompt": "A phone bill is $14 plus $0.08 per text message. If the total bill is $20.40, how many text messages were sent?",
+    "choices": {
+      "A": "72",
+      "B": "75",
+      "C": "80",
+      "D": "90"
+    },
+    "correct": "C",
+    "explanation": "Subtract the flat fee: $20.40 - $14 = $6.40, then divide by $0.08 per text to get 80 texts. The main trap is 75, which comes from a decimal-place mistake."
+  },
+  {
+    "id": "MA4-048",
+    "prompt": "A rectangular garden is 10 feet long and 6 feet wide. A path 1 foot wide is built all around the outside of the garden. What is the area of the path only?",
+    "choices": {
+      "A": "24 square feet",
+      "B": "30 square feet",
+      "C": "36 square feet",
+      "D": "48 square feet"
+    },
+    "correct": "C",
+    "explanation": "The outside dimensions are 12 by 8, so the total area is 96. The garden area is 10 × 6 = 60, so the path area is 96 - 60 = 36. The main trap is 30 square feet, which miscalculates the outside dimensions."
+  },
+  {
+    "id": "MA4-049",
+    "prompt": "A cylinder has radius 3 and height 10. What is its volume?",
+    "choices": {
+      "A": "30π",
+      "B": "60π",
+      "C": "90π",
+      "D": "180π"
+    },
+    "correct": "C",
+    "explanation": "Volume of a cylinder is πr²h = π(3²)(10) = 90π. The main trap is 60π, which forgets to square the radius."
+  },
+  {
+    "id": "MA4-050",
+    "prompt": "A rectangular prism has dimensions 5, 4, and 3. What is its total surface area?",
+    "choices": {
+      "A": "47",
+      "B": "70",
+      "C": "94",
+      "D": "120"
+    },
+    "correct": "C",
+    "explanation": "Surface area is 2(lw + lh + wh) = 2(20 + 15 + 12) = 94. The main trap is 70, which omits one pair of faces."
+  },
+  {
+    "id": "MA4-051",
+    "prompt": "A bag contains 3 red marbles and 2 blue marbles. Two marbles are chosen at random without replacement. What is the probability that both marbles are blue?",
+    "choices": {
+      "A": "1/10",
+      "B": "1/5",
+      "C": "2/5",
+      "D": "1/2"
+    },
+    "correct": "A",
+    "explanation": "Without replacement, the probability is 2/5 × 1/4 = 2/20 = 1/10. The main trap is 1/5, which treats the events as if they were independent with the same denominator."
+  },
+  {
+    "id": "MA4-052",
+    "prompt": "Point Q is at (7, -3). If point Q is reflected across the y-axis, what are the coordinates of the image?",
+    "choices": {
+      "A": "(-7, -3)",
+      "B": "(-7, 3)",
+      "C": "(7, 3)",
+      "D": "(3, -7)"
+    },
+    "correct": "A",
+    "explanation": "Reflecting across the y-axis changes the sign of the x-coordinate only. The main trap is (-7, 3), which changes both signs."
+  },
+  {
+    "id": "MA4-053",
+    "prompt": "65 is what percent of 250?",
+    "choices": {
+      "A": "24%",
+      "B": "25%",
+      "C": "26%",
+      "D": "28%"
+    },
+    "correct": "C",
+    "explanation": "65/250 = 0.26 = 26%. The main trap is 25%, which comes from confusing 65 with one fourth of 250."
+  },
+  {
+    "id": "MA4-054",
+    "prompt": "The sum of four consecutive odd integers is 72. What is the smallest integer?",
+    "choices": {
+      "A": "13",
+      "B": "15",
+      "C": "17",
+      "D": "19"
+    },
+    "correct": "B",
+    "explanation": "Four consecutive odd integers with sum 72 are 15, 17, 19, and 21. The main trap is 17, which is the second integer, not the smallest."
+  },
+  {
+    "id": "MA4-055",
+    "prompt": "A circle has diameter 10. What is its area?",
+    "choices": {
+      "A": "10π",
+      "B": "20π",
+      "C": "25π",
+      "D": "100π"
+    },
+    "correct": "C",
+    "explanation": "A diameter of 10 gives a radius of 5, and the area is πr² = π(5²) = 25π. The main trap is 10π, which uses the diameter as if it were the radius."
+  },
+  {
+    "id": "MA4-056",
+    "prompt": "The length of a rectangle is 3 more than its width. If the area of the rectangle is 54 square units, what is the width?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Let the width be x, so the length is x + 3. Then x(x + 3) = 54, which gives x = 6 as the positive solution. The main trap is 9, which is the length, not the width."
+  },
+  {
+    "id": "MA4-057",
+    "prompt": "A square playground has side length 18 feet. A border of uniform width is built around it, making the total area 484 square feet. What is the width of the border?",
+    "choices": {
+      "A": "1 foot",
+      "B": "2 feet",
+      "C": "3 feet",
+      "D": "4 feet"
+    },
+    "correct": "B",
+    "explanation": "The total area is 484, so the outside square has side length 22. Since the playground side is 18, the border adds 4 feet total, or 2 feet on each side. The main trap is 4 feet, which uses the full increase instead of half on each side."
+  }
+]

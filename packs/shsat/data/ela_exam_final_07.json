@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN9-001",
+    "prompt": "Read the passage and answer the question.\nWhen Mira signed up to help with the neighborhood lantern parade, she imagined dipping brushes into bright paint and dusting wet paper with glitter. Instead, Ms. Alvarez led her to a long table crowded with bamboo strips and thin coils of wire. “Today,” she said, handing Mira pliers, “we make the parts no one notices.”\nAt first the work seemed stubbornly dull. Across the room, other volunteers painted moons, fish, and stars onto silk panels that would later glow from within. Mira, meanwhile, bent wire around bamboo joints and checked whether each small frame sat level on the table. Whenever one tilted, Ms. Alvarez loosened a twist, adjusted it, and tried again. “If the skeleton leans,” she said, “the light will lean too.”\nBy late afternoon, Mira began to understand. A lantern shaped like a whale looked graceful only after its ribs curved evenly. A lantern with one lopsided corner cast shadows that made the painted design seem cramped and wrong. That evening, when the parade began, the finished lanterns rose on poles above the crowd and swayed like a slow-moving constellation. No one cheered for the wire joints. They cheered for the light. Yet as Mira watched the whale float past, balanced and shining, she felt proud of the invisible work holding it together.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Mira decides that painting lanterns is more difficult than building them.",
+      "B": "Careful unseen work can shape the beauty of what people eventually admire.",
+      "C": "The neighborhood lantern parade is more popular than Mira expected.",
+      "D": "Ms. Alvarez would rather fix mistakes herself than trust volunteers."
+    },
+    "correct": "B",
+    "explanation": "Mira learns that the hidden bamboo and wire structure determines how beautiful the lanterns look in public. The main trap is “Mira decides that painting lanterns is more difficult than building them.” because the passage is about invisible support work, not comparing which task is harder."
+  },
+  {
+    "id": "EN9-002",
+    "prompt": "Read the passage and answer the question.\nWhen Mira signed up to help with the neighborhood lantern parade, she imagined dipping brushes into bright paint and dusting wet paper with glitter. Instead, Ms. Alvarez led her to a long table crowded with bamboo strips and thin coils of wire. “Today,” she said, handing Mira pliers, “we make the parts no one notices.”\nAt first the work seemed stubbornly dull. Across the room, other volunteers painted moons, fish, and stars onto silk panels that would later glow from within. Mira, meanwhile, bent wire around bamboo joints and checked whether each small frame sat level on the table. Whenever one tilted, Ms. Alvarez loosened a twist, adjusted it, and tried again. “If the skeleton leans,” she said, “the light will lean too.”\nBy late afternoon, Mira began to understand. A lantern shaped like a whale looked graceful only after its ribs curved evenly. A lantern with one lopsided corner cast shadows that made the painted design seem cramped and wrong. That evening, when the parade began, the finished lanterns rose on poles above the crowd and swayed like a slow-moving constellation. No one cheered for the wire joints. They cheered for the light. Yet as Mira watched the whale float past, balanced and shining, she felt proud of the invisible work holding it together.\nWhat can the reader most reasonably infer about Ms. Alvarez?",
+    "choices": {
+      "A": "She believes the strength of a design matters as much as its decoration.",
+      "B": "She dislikes the painted silk panels used in the parade.",
+      "C": "She thinks volunteers learn best when they work alone.",
+      "D": "She wants Mira to avoid the more creative jobs in the workshop."
+    },
+    "correct": "A",
+    "explanation": "Ms. Alvarez focuses on level frames and balanced joints because appearance depends on structure. The main trap is “She wants Mira to avoid the more creative jobs in the workshop.” because nothing suggests she is trying to exclude Mira."
+  },
+  {
+    "id": "EN9-003",
+    "prompt": "Read the passage and answer the question.\nWhen Mira signed up to help with the neighborhood lantern parade, she imagined dipping brushes into bright paint and dusting wet paper with glitter. Instead, Ms. Alvarez led her to a long table crowded with bamboo strips and thin coils of wire. “Today,” she said, handing Mira pliers, “we make the parts no one notices.”\nAt first the work seemed stubbornly dull. Across the room, other volunteers painted moons, fish, and stars onto silk panels that would later glow from within. Mira, meanwhile, bent wire around bamboo joints and checked whether each small frame sat level on the table. Whenever one tilted, Ms. Alvarez loosened a twist, adjusted it, and tried again. “If the skeleton leans,” she said, “the light will lean too.”\nBy late afternoon, Mira began to understand. A lantern shaped like a whale looked graceful only after its ribs curved evenly. A lantern with one lopsided corner cast shadows that made the painted design seem cramped and wrong. That evening, when the parade began, the finished lanterns rose on poles above the crowd and swayed like a slow-moving constellation. No one cheered for the wire joints. They cheered for the light. Yet as Mira watched the whale float past, balanced and shining, she felt proud of the invisible work holding it together.\nHow does Mira’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from calm to frightened",
+      "B": "from impatient to appreciative",
+      "C": "from cheerful to embarrassed",
+      "D": "from confident to confused"
+    },
+    "correct": "B",
+    "explanation": "Mira begins the day feeling disappointed and bored, but ends by feeling proud of the hidden work. The main trap is “from confident to confused” because her emotions shift toward understanding, not confusion."
+  },
+  {
+    "id": "EN9-004",
+    "prompt": "Read the passage and answer the question.\nWhen Mira signed up to help with the neighborhood lantern parade, she imagined dipping brushes into bright paint and dusting wet paper with glitter. Instead, Ms. Alvarez led her to a long table crowded with bamboo strips and thin coils of wire. “Today,” she said, handing Mira pliers, “we make the parts no one notices.”\nAt first the work seemed stubbornly dull. Across the room, other volunteers painted moons, fish, and stars onto silk panels that would later glow from within. Mira, meanwhile, bent wire around bamboo joints and checked whether each small frame sat level on the table. Whenever one tilted, Ms. Alvarez loosened a twist, adjusted it, and tried again. “If the skeleton leans,” she said, “the light will lean too.”\nBy late afternoon, Mira began to understand. A lantern shaped like a whale looked graceful only after its ribs curved evenly. A lantern with one lopsided corner cast shadows that made the painted design seem cramped and wrong. That evening, when the parade began, the finished lanterns rose on poles above the crowd and swayed like a slow-moving constellation. No one cheered for the wire joints. They cheered for the light. Yet as Mira watched the whale float past, balanced and shining, she felt proud of the invisible work holding it together.\nAs used in the passage, the word “cramped” most nearly means",
+    "choices": {
+      "A": "crowded into too little space",
+      "B": "filled with bright color",
+      "C": "covered in soft fabric",
+      "D": "hidden from the audience"
+    },
+    "correct": "A",
+    "explanation": "“Cramped” describes the way the lantern’s shadows made the design look squeezed and poorly arranged. The main trap is “hidden from the audience” because the word refers to appearance, not visibility."
+  },
+  {
+    "id": "EN9-005",
+    "prompt": "Read the passage and answer the question.\nWhen Mira signed up to help with the neighborhood lantern parade, she imagined dipping brushes into bright paint and dusting wet paper with glitter. Instead, Ms. Alvarez led her to a long table crowded with bamboo strips and thin coils of wire. “Today,” she said, handing Mira pliers, “we make the parts no one notices.”\nAt first the work seemed stubbornly dull. Across the room, other volunteers painted moons, fish, and stars onto silk panels that would later glow from within. Mira, meanwhile, bent wire around bamboo joints and checked whether each small frame sat level on the table. Whenever one tilted, Ms. Alvarez loosened a twist, adjusted it, and tried again. “If the skeleton leans,” she said, “the light will lean too.”\nBy late afternoon, Mira began to understand. A lantern shaped like a whale looked graceful only after its ribs curved evenly. A lantern with one lopsided corner cast shadows that made the painted design seem cramped and wrong. That evening, when the parade began, the finished lanterns rose on poles above the crowd and swayed like a slow-moving constellation. No one cheered for the wire joints. They cheered for the light. Yet as Mira watched the whale float past, balanced and shining, she felt proud of the invisible work holding it together.\nWhich detail best supports the idea that the lanterns’ appearance depends on the hidden frames?",
+    "choices": {
+      "A": "Other volunteers painted moons, fish, and stars onto silk panels.",
+      "B": "Ms. Alvarez handed Mira pliers at the beginning of the day.",
+      "C": "A lantern shaped like a whale looked graceful only after its ribs curved evenly.",
+      "D": "The parade began that evening after the workshop ended."
+    },
+    "correct": "C",
+    "explanation": "This detail directly connects the hidden frame to the lantern’s visible beauty. The main trap is “Other volunteers painted moons, fish, and stars onto silk panels.” because it describes decoration rather than structural support."
+  },
+  {
+    "id": "EN9-006",
+    "prompt": "Read the passage and answer the question.\nSome coastal communities are building structures called living breakwaters to reduce wave damage while also supporting marine life. Traditional breakwaters are often solid barriers made of rock or concrete. They can block incoming waves effectively, but they may do little to improve nearby habitats. Living breakwaters are designed differently. In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.\nThese projects are not simply barriers dropped into the water. Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby. A design that works well in one harbor may fail in another if the water moves differently or if the local organisms cannot attach to the structure. For that reason, living breakwaters are best understood as carefully planned systems that combine shoreline protection with ecological goals.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Living breakwaters are cheaper to build than all traditional breakwaters.",
+      "B": "Living breakwaters can both reduce wave damage and support habitats, but they must be designed for local conditions.",
+      "C": "Traditional breakwaters should be removed from every coastline immediately.",
+      "D": "Oysters and mussels can grow on any surface placed in salt water."
+    },
+    "correct": "B",
+    "explanation": "The passage emphasizes both shoreline protection and ecological support, while also stressing site-specific planning. The main trap is “Traditional breakwaters should be removed from every coastline immediately.” because the author explains rather than argues for an extreme action."
+  },
+  {
+    "id": "EN9-007",
+    "prompt": "Read the passage and answer the question.\nSome coastal communities are building structures called living breakwaters to reduce wave damage while also supporting marine life. Traditional breakwaters are often solid barriers made of rock or concrete. They can block incoming waves effectively, but they may do little to improve nearby habitats. Living breakwaters are designed differently. In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.\nThese projects are not simply barriers dropped into the water. Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby. A design that works well in one harbor may fail in another if the water moves differently or if the local organisms cannot attach to the structure. For that reason, living breakwaters are best understood as carefully planned systems that combine shoreline protection with ecological goals.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how living breakwaters work and why they must be tailored to their environment",
+      "B": "to argue that concrete should never be used near the ocean",
+      "C": "to describe the history of oyster farming in coastal towns",
+      "D": "to entertain readers with stories about sea life near harbors"
+    },
+    "correct": "A",
+    "explanation": "The passage defines living breakwaters and explains why tides, currents, and species matter. The main trap is “to argue that concrete should never be used near the ocean” because the author does not make that claim."
+  },
+  {
+    "id": "EN9-008",
+    "prompt": "Read the passage and answer the question.\nSome coastal communities are building structures called living breakwaters to reduce wave damage while also supporting marine life. Traditional breakwaters are often solid barriers made of rock or concrete. They can block incoming waves effectively, but they may do little to improve nearby habitats. Living breakwaters are designed differently. In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.\nThese projects are not simply barriers dropped into the water. Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby. A design that works well in one harbor may fail in another if the water moves differently or if the local organisms cannot attach to the structure. For that reason, living breakwaters are best understood as carefully planned systems that combine shoreline protection with ecological goals.\nWhich sentence from the passage best supports the idea that living breakwaters may help marine organisms?",
+    "choices": {
+      "A": "Traditional breakwaters are often solid barriers made of rock or concrete.",
+      "B": "They can block incoming waves effectively, but they may do little to improve nearby habitats.",
+      "C": "In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.",
+      "D": "Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly shows how the structures can support marine organisms. The main trap is “Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby.” because that explains planning, not the habitat benefit itself."
+  },
+  {
+    "id": "EN9-009",
+    "prompt": "Read the passage and answer the question.\nSome coastal communities are building structures called living breakwaters to reduce wave damage while also supporting marine life. Traditional breakwaters are often solid barriers made of rock or concrete. They can block incoming waves effectively, but they may do little to improve nearby habitats. Living breakwaters are designed differently. In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.\nThese projects are not simply barriers dropped into the water. Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby. A design that works well in one harbor may fail in another if the water moves differently or if the local organisms cannot attach to the structure. For that reason, living breakwaters are best understood as carefully planned systems that combine shoreline protection with ecological goals.\nAs used in the passage, the word “attach” most nearly means",
+    "choices": {
+      "A": "send away",
+      "B": "connect to",
+      "C": "move under",
+      "D": "protect from"
+    },
+    "correct": "B",
+    "explanation": "In context, organisms must be able to fasten themselves onto the breakwater surface. The main trap is “move under” because the sentence is about clinging, not going beneath."
+  },
+  {
+    "id": "EN9-010",
+    "prompt": "Read the passage and answer the question.\nSome coastal communities are building structures called living breakwaters to reduce wave damage while also supporting marine life. Traditional breakwaters are often solid barriers made of rock or concrete. They can block incoming waves effectively, but they may do little to improve nearby habitats. Living breakwaters are designed differently. In addition to reducing wave energy, they may include rough surfaces, pockets, or attached materials that make it easier for oysters, mussels, and seaweed to grow.\nThese projects are not simply barriers dropped into the water. Engineers and marine scientists must study tides, currents, water depth, and the species already living nearby. A design that works well in one harbor may fail in another if the water moves differently or if the local organisms cannot attach to the structure. For that reason, living breakwaters are best understood as carefully planned systems that combine shoreline protection with ecological goals.\nA town wants to reduce wave damage along its shore while also improving habitat for shellfish. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "build one design that was successful elsewhere without studying local water movement",
+      "B": "create a structure designed after studying currents, depth, and local marine species",
+      "C": "use the smoothest possible wall so organisms cannot cling to it",
+      "D": "focus only on appearance rather than function"
+    },
+    "correct": "B",
+    "explanation": "This choice matches the passage’s emphasis on local water conditions and nearby organisms. The main trap is “build one design that was successful elsewhere without studying local water movement” because the author specifically warns that a design can fail in a different harbor."
+  },
+  {
+    "id": "EN9-011",
+    "prompt": "Read the passage and answer the question.\nNia had volunteered at the school observatory because she wanted to look through the large brass telescope. Instead, Mr. DeLeon brought her to the projection room, where a metal star plate rested beneath a lamp. Tiny holes, almost too small to see, were punched across its surface in clusters and arcs.\n“We are cleaning it before tonight’s program,” he said.\nNia tried not to sound disappointed. She had imagined darkness, whispers, and the excitement of discovering something far away. What she found instead was a tray of soft brushes and strict instructions not to bend the plate. Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations. When Nia asked why the process mattered so much, he pointed to the dome above them. “If even a few of these openings blur,” he said, “the sky we project will blur too.”\nLater that evening, families leaned back in their seats as the dome filled with bright winter constellations. The stars looked sharp enough to touch. Nia recognized Orion’s belt, then the curve of Taurus, then a spray of smaller stars she would never have noticed from the parking lot outside. The show seemed effortless, but she now understood that its clarity had depended on attention paid to details smaller than a pinhead.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Nia discovers that precise behind-the-scenes work can make a public experience feel vivid and effortless.",
+      "B": "Mr. DeLeon enjoys teaching astronomy more than using equipment.",
+      "C": "Projected constellations are easier to understand than real stars in the sky.",
+      "D": "Nia regrets volunteering at the observatory once the program begins."
+    },
+    "correct": "A",
+    "explanation": "Nia learns that the sharp, beautiful sky show depends on careful cleaning of the projection plate. The main trap is “Projected constellations are easier to understand than real stars in the sky.” because that is not the central point of the passage."
+  },
+  {
+    "id": "EN9-012",
+    "prompt": "Read the passage and answer the question.\nNia had volunteered at the school observatory because she wanted to look through the large brass telescope. Instead, Mr. DeLeon brought her to the projection room, where a metal star plate rested beneath a lamp. Tiny holes, almost too small to see, were punched across its surface in clusters and arcs.\n“We are cleaning it before tonight’s program,” he said.\nNia tried not to sound disappointed. She had imagined darkness, whispers, and the excitement of discovering something far away. What she found instead was a tray of soft brushes and strict instructions not to bend the plate. Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations. When Nia asked why the process mattered so much, he pointed to the dome above them. “If even a few of these openings blur,” he said, “the sky we project will blur too.”\nLater that evening, families leaned back in their seats as the dome filled with bright winter constellations. The stars looked sharp enough to touch. Nia recognized Orion’s belt, then the curve of Taurus, then a spray of smaller stars she would never have noticed from the parking lot outside. The show seemed effortless, but she now understood that its clarity had depended on attention paid to details smaller than a pinhead.\nWhat can the reader most reasonably infer about Mr. DeLeon?",
+    "choices": {
+      "A": "He believes small technical details strongly affect what an audience experiences.",
+      "B": "He prefers maintenance work because he dislikes teaching programs.",
+      "C": "He thinks students should not ask questions during preparation.",
+      "D": "He wishes the observatory had a different projection system."
+    },
+    "correct": "A",
+    "explanation": "Mr. DeLeon explains that even a few blurred openings will blur the projected sky. The main trap is “He prefers maintenance work because he dislikes teaching programs.” because the passage gives no evidence that he dislikes teaching."
+  },
+  {
+    "id": "EN9-013",
+    "prompt": "Read the passage and answer the question.\nNia had volunteered at the school observatory because she wanted to look through the large brass telescope. Instead, Mr. DeLeon brought her to the projection room, where a metal star plate rested beneath a lamp. Tiny holes, almost too small to see, were punched across its surface in clusters and arcs.\n“We are cleaning it before tonight’s program,” he said.\nNia tried not to sound disappointed. She had imagined darkness, whispers, and the excitement of discovering something far away. What she found instead was a tray of soft brushes and strict instructions not to bend the plate. Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations. When Nia asked why the process mattered so much, he pointed to the dome above them. “If even a few of these openings blur,” he said, “the sky we project will blur too.”\nLater that evening, families leaned back in their seats as the dome filled with bright winter constellations. The stars looked sharp enough to touch. Nia recognized Orion’s belt, then the curve of Taurus, then a spray of smaller stars she would never have noticed from the parking lot outside. The show seemed effortless, but she now understood that its clarity had depended on attention paid to details smaller than a pinhead.\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "by comparing two different observatories",
+      "B": "by showing Nia’s disappointment first and then her new understanding later",
+      "C": "by listing facts about several constellations in order of importance",
+      "D": "by explaining the history of projection equipment step by step"
+    },
+    "correct": "B",
+    "explanation": "The passage begins with Nia wanting a different task and ends with her appreciating the one she was given. The main trap is “by listing facts about several constellations in order of importance” because the constellations are mentioned only briefly."
+  },
+  {
+    "id": "EN9-014",
+    "prompt": "Read the passage and answer the question.\nNia had volunteered at the school observatory because she wanted to look through the large brass telescope. Instead, Mr. DeLeon brought her to the projection room, where a metal star plate rested beneath a lamp. Tiny holes, almost too small to see, were punched across its surface in clusters and arcs.\n“We are cleaning it before tonight’s program,” he said.\nNia tried not to sound disappointed. She had imagined darkness, whispers, and the excitement of discovering something far away. What she found instead was a tray of soft brushes and strict instructions not to bend the plate. Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations. When Nia asked why the process mattered so much, he pointed to the dome above them. “If even a few of these openings blur,” he said, “the sky we project will blur too.”\nLater that evening, families leaned back in their seats as the dome filled with bright winter constellations. The stars looked sharp enough to touch. Nia recognized Orion’s belt, then the curve of Taurus, then a spray of smaller stars she would never have noticed from the parking lot outside. The show seemed effortless, but she now understood that its clarity had depended on attention paid to details smaller than a pinhead.\nAs used in the passage, the word “perforations” most nearly means",
+    "choices": {
+      "A": "folded edges",
+      "B": "tiny holes",
+      "C": "bright reflections",
+      "D": "mechanical gears"
+    },
+    "correct": "B",
+    "explanation": "The star plate has small openings punched across it, so “perforations” means tiny holes. The main trap is “mechanical gears” because the passage is about openings in a plate, not moving parts."
+  },
+  {
+    "id": "EN9-015",
+    "prompt": "Read the passage and answer the question.\nNia had volunteered at the school observatory because she wanted to look through the large brass telescope. Instead, Mr. DeLeon brought her to the projection room, where a metal star plate rested beneath a lamp. Tiny holes, almost too small to see, were punched across its surface in clusters and arcs.\n“We are cleaning it before tonight’s program,” he said.\nNia tried not to sound disappointed. She had imagined darkness, whispers, and the excitement of discovering something far away. What she found instead was a tray of soft brushes and strict instructions not to bend the plate. Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations. When Nia asked why the process mattered so much, he pointed to the dome above them. “If even a few of these openings blur,” he said, “the sky we project will blur too.”\nLater that evening, families leaned back in their seats as the dome filled with bright winter constellations. The stars looked sharp enough to touch. Nia recognized Orion’s belt, then the curve of Taurus, then a spray of smaller stars she would never have noticed from the parking lot outside. The show seemed effortless, but she now understood that its clarity had depended on attention paid to details smaller than a pinhead.\nWhich detail best supports the idea that careful preparation affects the quality of the show?",
+    "choices": {
+      "A": "Nia wanted to look through the large brass telescope.",
+      "B": "Mr. DeLeon worked slowly, brushing away dust that had settled into the perforations.",
+      "C": "Families leaned back in their seats during the evening program.",
+      "D": "Nia recognized Orion’s belt and the curve of Taurus."
+    },
+    "correct": "B",
+    "explanation": "This detail shows the direct preparation that leads to a sharp projection later. The main trap is “Families leaned back in their seats during the evening program.” because it describes audience behavior, not the cause of the show’s clarity."
+  },
+  {
+    "id": "EN9-016",
+    "prompt": "Read the passage and answer the question.\nPermeable pavement is designed to let rainwater pass through it instead of forcing all the water to rush across the surface into storm drains. Some versions are made with small spaces between blocks, while others use porous materials that contain tiny air pockets. In both cases, the goal is similar: slow runoff, reduce puddling, and allow some water to soak into the ground below.\nThis kind of pavement can be useful in parking lots, sidewalks, and low-traffic streets, but it is not appropriate everywhere. The soil underneath must be able to absorb water, and the surface must be maintained so that dirt does not clog the openings. In places with very heavy traffic or poorly draining soil, other solutions may be more effective. For that reason, permeable pavement works best as one carefully chosen tool in a broader plan for managing stormwater.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Permeable pavement is useful only in places with heavy traffic.",
+      "B": "Permeable pavement helps manage runoff, but it works best where soil and maintenance allow it to function properly.",
+      "C": "Permeable pavement should replace all sidewalks and parking lots.",
+      "D": "Ordinary pavement is designed mainly to absorb water into the soil below."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the benefit and the limits of permeable pavement. The main trap is “Permeable pavement should replace all sidewalks and parking lots.” because the author clearly says it is not appropriate everywhere."
+  },
+  {
+    "id": "EN9-017",
+    "prompt": "Read the passage and answer the question.\nPermeable pavement is designed to let rainwater pass through it instead of forcing all the water to rush across the surface into storm drains. Some versions are made with small spaces between blocks, while others use porous materials that contain tiny air pockets. In both cases, the goal is similar: slow runoff, reduce puddling, and allow some water to soak into the ground below.\nThis kind of pavement can be useful in parking lots, sidewalks, and low-traffic streets, but it is not appropriate everywhere. The soil underneath must be able to absorb water, and the surface must be maintained so that dirt does not clog the openings. In places with very heavy traffic or poorly draining soil, other solutions may be more effective. For that reason, permeable pavement works best as one carefully chosen tool in a broader plan for managing stormwater.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what permeable pavement does and why its success depends on local conditions",
+      "B": "to argue that all storm drains should be removed",
+      "C": "to compare the prices of several kinds of paving materials",
+      "D": "to describe the history of sidewalks in large cities"
+    },
+    "correct": "A",
+    "explanation": "The author describes how the pavement works and then explains why soil and maintenance matter. The main trap is “to argue that all storm drains should be removed” because the passage never makes that claim."
+  },
+  {
+    "id": "EN9-018",
+    "prompt": "Read the passage and answer the question.\nPermeable pavement is designed to let rainwater pass through it instead of forcing all the water to rush across the surface into storm drains. Some versions are made with small spaces between blocks, while others use porous materials that contain tiny air pockets. In both cases, the goal is similar: slow runoff, reduce puddling, and allow some water to soak into the ground below.\nThis kind of pavement can be useful in parking lots, sidewalks, and low-traffic streets, but it is not appropriate everywhere. The soil underneath must be able to absorb water, and the surface must be maintained so that dirt does not clog the openings. In places with very heavy traffic or poorly draining soil, other solutions may be more effective. For that reason, permeable pavement works best as one carefully chosen tool in a broader plan for managing stormwater.\nWhich sentence from the passage best supports the idea that permeable pavement must be maintained?",
+    "choices": {
+      "A": "Some versions are made with small spaces between blocks.",
+      "B": "In both cases, the goal is similar.",
+      "C": "The surface must be maintained so that dirt does not clog the openings.",
+      "D": "Other solutions may be more effective."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly states the need for maintenance. The main trap is “In both cases, the goal is similar.” because it is too general and does not address upkeep."
+  },
+  {
+    "id": "EN9-019",
+    "prompt": "Read the passage and answer the question.\nPermeable pavement is designed to let rainwater pass through it instead of forcing all the water to rush across the surface into storm drains. Some versions are made with small spaces between blocks, while others use porous materials that contain tiny air pockets. In both cases, the goal is similar: slow runoff, reduce puddling, and allow some water to soak into the ground below.\nThis kind of pavement can be useful in parking lots, sidewalks, and low-traffic streets, but it is not appropriate everywhere. The soil underneath must be able to absorb water, and the surface must be maintained so that dirt does not clog the openings. In places with very heavy traffic or poorly draining soil, other solutions may be more effective. For that reason, permeable pavement works best as one carefully chosen tool in a broader plan for managing stormwater.\nAs used in the passage, the word “clog” most nearly means",
+    "choices": {
+      "A": "block up",
+      "B": "wash away",
+      "C": "brighten",
+      "D": "measure"
+    },
+    "correct": "A",
+    "explanation": "“Clog” means to fill or obstruct openings so water cannot pass through easily. The main trap is “wash away” because clogging is the opposite of opening a path."
+  },
+  {
+    "id": "EN9-020",
+    "prompt": "Read the passage and answer the question.\nPermeable pavement is designed to let rainwater pass through it instead of forcing all the water to rush across the surface into storm drains. Some versions are made with small spaces between blocks, while others use porous materials that contain tiny air pockets. In both cases, the goal is similar: slow runoff, reduce puddling, and allow some water to soak into the ground below.\nThis kind of pavement can be useful in parking lots, sidewalks, and low-traffic streets, but it is not appropriate everywhere. The soil underneath must be able to absorb water, and the surface must be maintained so that dirt does not clog the openings. In places with very heavy traffic or poorly draining soil, other solutions may be more effective. For that reason, permeable pavement works best as one carefully chosen tool in a broader plan for managing stormwater.\nA school wants to reduce puddles in a lightly used courtyard. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "install permeable pavement without checking the soil underneath",
+      "B": "avoid maintenance because rain will automatically keep the openings clear",
+      "C": "study whether the soil drains well and then maintain the pavement regularly",
+      "D": "use the same approach in every location regardless of traffic or drainage"
+    },
+    "correct": "C",
+    "explanation": "This answer follows the passage’s two main conditions for success: suitable soil and maintenance. The main trap is “install permeable pavement without checking the soil underneath” because the author says soil conditions matter."
+  },
+  {
+    "id": "EN9-021",
+    "prompt": "Read the passage and answer the question.\nOmar had agreed to help at the ice rink because he assumed volunteering meant stacking rental skates or tying the laces of impatient beginners. Instead, Mr. Petrov led him to a narrow bench in the maintenance room, where a sharpening machine hummed beside a row of labeled blades.\nAt first Omar could not imagine how a difference too small to see could matter on the ice. Mr. Petrov slid one blade under a bright lamp and pointed to its edge. “Too dull,” he said, “and the skater slips through every turn. Too sharp, and the blade bites when it should glide.” He adjusted the machine by a fraction, then passed the skate to Omar to compare with another pair. The metal looked identical.\nBut later, during practice, Omar began to notice things he had missed before: the way one skater leaned into a curve without wobbling, the way another stopped cleanly instead of chattering across the surface. By the end of the afternoon, he understood why Mr. Petrov had been so exact. The smoothness he admired on the ice was not effortless at all. It had been prepared in advance, edge by edge, by someone patient enough to care about what most people would never notice.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Omar learns that precise maintenance can shape a performance that appears effortless.",
+      "B": "Ice skates are more difficult to use than Omar expected.",
+      "C": "Mr. Petrov prefers working with machines to coaching skaters.",
+      "D": "Most skaters do not appreciate how cold the maintenance room is."
+    },
+    "correct": "A",
+    "explanation": "Omar realizes that sharpening details affect the graceful motion he sees on the ice. The main trap is “Ice skates are more difficult to use than Omar expected.” because the passage is about preparation, not skating difficulty itself."
+  },
+  {
+    "id": "EN9-022",
+    "prompt": "Read the passage and answer the question.\nOmar had agreed to help at the ice rink because he assumed volunteering meant stacking rental skates or tying the laces of impatient beginners. Instead, Mr. Petrov led him to a narrow bench in the maintenance room, where a sharpening machine hummed beside a row of labeled blades.\nAt first Omar could not imagine how a difference too small to see could matter on the ice. Mr. Petrov slid one blade under a bright lamp and pointed to its edge. “Too dull,” he said, “and the skater slips through every turn. Too sharp, and the blade bites when it should glide.” He adjusted the machine by a fraction, then passed the skate to Omar to compare with another pair. The metal looked identical.\nBut later, during practice, Omar began to notice things he had missed before: the way one skater leaned into a curve without wobbling, the way another stopped cleanly instead of chattering across the surface. By the end of the afternoon, he understood why Mr. Petrov had been so exact. The smoothness he admired on the ice was not effortless at all. It had been prepared in advance, edge by edge, by someone patient enough to care about what most people would never notice.\nWhat can the reader most reasonably infer about Mr. Petrov?",
+    "choices": {
+      "A": "He believes tiny adjustments can make a noticeable difference in motion.",
+      "B": "He wishes Omar had more skating experience.",
+      "C": "He thinks beginners should never borrow rental skates.",
+      "D": "He cares more about labels than about blades."
+    },
+    "correct": "A",
+    "explanation": "Mr. Petrov explains how being too dull or too sharp changes turns and glide. The main trap is “He wishes Omar had more skating experience.” because nothing in the passage suggests frustration with Omar."
+  },
+  {
+    "id": "EN9-023",
+    "prompt": "Read the passage and answer the question.\nOmar had agreed to help at the ice rink because he assumed volunteering meant stacking rental skates or tying the laces of impatient beginners. Instead, Mr. Petrov led him to a narrow bench in the maintenance room, where a sharpening machine hummed beside a row of labeled blades.\nAt first Omar could not imagine how a difference too small to see could matter on the ice. Mr. Petrov slid one blade under a bright lamp and pointed to its edge. “Too dull,” he said, “and the skater slips through every turn. Too sharp, and the blade bites when it should glide.” He adjusted the machine by a fraction, then passed the skate to Omar to compare with another pair. The metal looked identical.\nBut later, during practice, Omar began to notice things he had missed before: the way one skater leaned into a curve without wobbling, the way another stopped cleanly instead of chattering across the surface. By the end of the afternoon, he understood why Mr. Petrov had been so exact. The smoothness he admired on the ice was not effortless at all. It had been prepared in advance, edge by edge, by someone patient enough to care about what most people would never notice.\nWhich pair of words best describes the tone of the passage?",
+    "choices": {
+      "A": "bitter and suspicious",
+      "B": "reflective and admiring",
+      "C": "playful and mocking",
+      "D": "hurried and nervous"
+    },
+    "correct": "B",
+    "explanation": "The passage looks back thoughtfully on what Omar learned and treats Mr. Petrov’s work with respect. The main trap is “hurried and nervous” because the pace is calm and observant."
+  },
+  {
+    "id": "EN9-024",
+    "prompt": "Read the passage and answer the question.\nOmar had agreed to help at the ice rink because he assumed volunteering meant stacking rental skates or tying the laces of impatient beginners. Instead, Mr. Petrov led him to a narrow bench in the maintenance room, where a sharpening machine hummed beside a row of labeled blades.\nAt first Omar could not imagine how a difference too small to see could matter on the ice. Mr. Petrov slid one blade under a bright lamp and pointed to its edge. “Too dull,” he said, “and the skater slips through every turn. Too sharp, and the blade bites when it should glide.” He adjusted the machine by a fraction, then passed the skate to Omar to compare with another pair. The metal looked identical.\nBut later, during practice, Omar began to notice things he had missed before: the way one skater leaned into a curve without wobbling, the way another stopped cleanly instead of chattering across the surface. By the end of the afternoon, he understood why Mr. Petrov had been so exact. The smoothness he admired on the ice was not effortless at all. It had been prepared in advance, edge by edge, by someone patient enough to care about what most people would never notice.\nAs used in the passage, the word “exact” most nearly means",
+    "choices": {
+      "A": "strict",
+      "B": "careful and precise",
+      "C": "ordinary",
+      "D": "disappointing"
+    },
+    "correct": "B",
+    "explanation": "“Exact” refers to Mr. Petrov’s precise adjustments to the blades. The main trap is “strict” because the sentence emphasizes precision rather than harshness."
+  },
+  {
+    "id": "EN9-025",
+    "prompt": "Read the passage and answer the question.\nOmar had agreed to help at the ice rink because he assumed volunteering meant stacking rental skates or tying the laces of impatient beginners. Instead, Mr. Petrov led him to a narrow bench in the maintenance room, where a sharpening machine hummed beside a row of labeled blades.\nAt first Omar could not imagine how a difference too small to see could matter on the ice. Mr. Petrov slid one blade under a bright lamp and pointed to its edge. “Too dull,” he said, “and the skater slips through every turn. Too sharp, and the blade bites when it should glide.” He adjusted the machine by a fraction, then passed the skate to Omar to compare with another pair. The metal looked identical.\nBut later, during practice, Omar began to notice things he had missed before: the way one skater leaned into a curve without wobbling, the way another stopped cleanly instead of chattering across the surface. By the end of the afternoon, he understood why Mr. Petrov had been so exact. The smoothness he admired on the ice was not effortless at all. It had been prepared in advance, edge by edge, by someone patient enough to care about what most people would never notice.\nWhich detail best supports the idea that sharpening affects how skates move on the ice?",
+    "choices": {
+      "A": "The sharpening machine hummed beside a row of labeled blades.",
+      "B": "Mr. Petrov led Omar to a bench in the maintenance room.",
+      "C": "One skater leaned into a curve without wobbling, and another stopped cleanly instead of chattering across the surface.",
+      "D": "Omar had expected to tie the laces of beginners."
+    },
+    "correct": "C",
+    "explanation": "This detail shows the visible result of the hidden sharpening work. The main trap is “The sharpening machine hummed beside a row of labeled blades.” because that only describes the setting."
+  },
+  {
+    "id": "EN9-026",
+    "prompt": "Read the passage and answer the question.\nDark-sky lighting is designed to reduce unnecessary brightness in the night sky while still allowing people to see where they are going. Instead of sending light in every direction, these fixtures often use shields that direct light downward. Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.\nDark-sky lighting does not mean leaving streets, sidewalks, or parks unlit. Rather, it focuses on using light more precisely. In some places, timers or motion sensors are included so that strong lighting is used only when it is needed. As with many design solutions, however, the best approach depends on local goals. A quiet park, a busy intersection, and an observatory campus may all require different lighting plans. For that reason, dark-sky lighting is best understood as a strategy for directing light thoughtfully, not simply reducing it everywhere.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Dark-sky lighting aims to direct light carefully, but the right design depends on the needs of each place.",
+      "B": "Dark-sky lighting works only in areas with no traffic or pedestrians.",
+      "C": "The main purpose of dark-sky lighting is to make streets much darker than before.",
+      "D": "Motion sensors are the only useful feature of dark-sky lighting."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that dark-sky lighting is about thoughtful direction and context-specific planning. The main trap is “The main purpose of dark-sky lighting is to make streets much darker than before.” because the author stresses precision, not simple darkness."
+  },
+  {
+    "id": "EN9-027",
+    "prompt": "Read the passage and answer the question.\nDark-sky lighting is designed to reduce unnecessary brightness in the night sky while still allowing people to see where they are going. Instead of sending light in every direction, these fixtures often use shields that direct light downward. Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.\nDark-sky lighting does not mean leaving streets, sidewalks, or parks unlit. Rather, it focuses on using light more precisely. In some places, timers or motion sensors are included so that strong lighting is used only when it is needed. As with many design solutions, however, the best approach depends on local goals. A quiet park, a busy intersection, and an observatory campus may all require different lighting plans. For that reason, dark-sky lighting is best understood as a strategy for directing light thoughtfully, not simply reducing it everywhere.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what dark-sky lighting is and why it must be planned according to context",
+      "B": "to argue that nighttime lighting should be removed from all public spaces",
+      "C": "to compare the price of several lighting companies",
+      "D": "to entertain readers with stories about observatories"
+    },
+    "correct": "A",
+    "explanation": "The passage defines dark-sky lighting and explains how different places require different plans. The main trap is “to argue that nighttime lighting should be removed from all public spaces” because the author explicitly rejects that idea."
+  },
+  {
+    "id": "EN9-028",
+    "prompt": "Read the passage and answer the question.\nDark-sky lighting is designed to reduce unnecessary brightness in the night sky while still allowing people to see where they are going. Instead of sending light in every direction, these fixtures often use shields that direct light downward. Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.\nDark-sky lighting does not mean leaving streets, sidewalks, or parks unlit. Rather, it focuses on using light more precisely. In some places, timers or motion sensors are included so that strong lighting is used only when it is needed. As with many design solutions, however, the best approach depends on local goals. A quiet park, a busy intersection, and an observatory campus may all require different lighting plans. For that reason, dark-sky lighting is best understood as a strategy for directing light thoughtfully, not simply reducing it everywhere.\nWhich sentence from the passage best supports the idea that dark-sky lighting may affect wildlife?",
+    "choices": {
+      "A": "These fixtures often use shields that direct light downward.",
+      "B": "Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.",
+      "C": "In some places, timers or motion sensors are included.",
+      "D": "A quiet park, a busy intersection, and an observatory campus may all require different lighting plans."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly links dark-sky lighting to possible effects on animals. The main trap is “These fixtures often use shields that direct light downward.” because that line focuses on light direction, not wildlife."
+  },
+  {
+    "id": "EN9-029",
+    "prompt": "Read the passage and answer the question.\nDark-sky lighting is designed to reduce unnecessary brightness in the night sky while still allowing people to see where they are going. Instead of sending light in every direction, these fixtures often use shields that direct light downward. Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.\nDark-sky lighting does not mean leaving streets, sidewalks, or parks unlit. Rather, it focuses on using light more precisely. In some places, timers or motion sensors are included so that strong lighting is used only when it is needed. As with many design solutions, however, the best approach depends on local goals. A quiet park, a busy intersection, and an observatory campus may all require different lighting plans. For that reason, dark-sky lighting is best understood as a strategy for directing light thoughtfully, not simply reducing it everywhere.\nAs used in the passage, the word “glare” most nearly means",
+    "choices": {
+      "A": "a harsh, uncomfortable brightness",
+      "B": "a gentle evening breeze",
+      "C": "a narrow walking path",
+      "D": "a quiet mechanical sound"
+    },
+    "correct": "A",
+    "explanation": "In context, glare means overly bright light that makes seeing less comfortable. The main trap is “a quiet mechanical sound” because glare is visual, not auditory."
+  },
+  {
+    "id": "EN9-030",
+    "prompt": "Read the passage and answer the question.\nDark-sky lighting is designed to reduce unnecessary brightness in the night sky while still allowing people to see where they are going. Instead of sending light in every direction, these fixtures often use shields that direct light downward. Many dark-sky systems also use warmer-colored bulbs, which can reduce glare and may be less disruptive to some animals than cooler, bluer light.\nDark-sky lighting does not mean leaving streets, sidewalks, or parks unlit. Rather, it focuses on using light more precisely. In some places, timers or motion sensors are included so that strong lighting is used only when it is needed. As with many design solutions, however, the best approach depends on local goals. A quiet park, a busy intersection, and an observatory campus may all require different lighting plans. For that reason, dark-sky lighting is best understood as a strategy for directing light thoughtfully, not simply reducing it everywhere.\nA town is redesigning the lights around a small observatory and a nearby public trail. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "use the exact same lighting in every area because consistency matters most",
+      "B": "remove all lighting at night to keep the sky completely dark",
+      "C": "create different lighting plans for the observatory and trail based on their specific needs",
+      "D": "choose the brightest possible lights for both areas"
+    },
+    "correct": "C",
+    "explanation": "The passage says different places may require different plans depending on their purposes. The main trap is “use the exact same lighting in every area because consistency matters most” because the author emphasizes local goals, not sameness."
+  },
+  {
+    "id": "EN9-031",
+    "prompt": "The student council is organizing a welcome event for new students. Members created a list of activities they also asked current students which events had helped them feel comfortable most quickly.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Members created a list of activities, they also asked current students which events had helped them feel comfortable most quickly.",
+      "B": "Members created a list of activities and also asked current students which events had helped them feel comfortable most quickly.",
+      "C": "Members created a list of activities; also asking current students which events had helped them feel comfortable most quickly.",
+      "D": "Members created a list of activities because also asked current students which events had helped them feel comfortable most quickly."
+    },
+    "correct": "B",
+    "explanation": "This revision correctly joins the two actions in one sentence without a comma splice. The main trap is “Members created a list of activities, they also asked current students which events had helped them feel comfortable most quickly.” because it incorrectly joins two complete ideas with only a comma."
+  },
+  {
+    "id": "EN9-032",
+    "prompt": "Before the final schedule was shared, each adviser and student leaders were asked to review the plan.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each adviser and student leaders was asked to review the plan",
+      "B": "each adviser and student leaders were being asked to review the plan",
+      "C": "each adviser and student leaders were asked to review the plan",
+      "D": "each adviser and student leaders ask to review the plan"
+    },
+    "correct": "C",
+    "explanation": "The subject combines “adviser” and “student leaders,” so the plural verb “were” is needed. The main trap is “each adviser and student leaders was asked to review the plan” because “was” does not agree with the compound subject."
+  },
+  {
+    "id": "EN9-033",
+    "prompt": "The first draft of the event schedule included too many activities for one afternoon. As a result, the council shortened the program and added more time for conversation.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence gives the consequence of the first sentence’s problem. The main trap is “For example” because the second sentence is not an example; it is the outcome."
+  },
+  {
+    "id": "EN9-034",
+    "prompt": "The student council is organizing a welcome event for new students. Members created a list of activities and also asked current students which events had helped them feel comfortable most quickly. Before the final schedule was shared, each adviser and student leaders were asked to review the plan. The first draft of the event schedule included too many activities for one afternoon. As a result, the council shortened the program and added more time for conversation. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "School events can take place in many different rooms.",
+      "B": "Now the council feels more confident that the event will be friendly, clear, and easy for new students to follow.",
+      "C": "Conversations at school often happen before classes begin.",
+      "D": "Printed schedules can be made in different colors."
+    },
+    "correct": "B",
+    "explanation": "This sentence concludes the paragraph by showing the effect of the revisions on the event’s purpose. The main trap is “Printed schedules can be made in different colors.” because it is unrelated to the main idea."
+  },
+  {
+    "id": "EN9-035",
+    "prompt": "The jazz band stepped onto the stage for the evening performance. Holding a silver trumpet, the opening solo was played by Marco near the center microphone.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Holding a silver trumpet, Marco played the opening solo near the center microphone.",
+      "B": "The opening solo, holding a silver trumpet, was played by Marco near the center microphone.",
+      "C": "Holding a silver trumpet, the center microphone carried Marco’s opening solo.",
+      "D": "Marco, the opening solo was played near the center microphone holding a silver trumpet."
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the dangling modifier by placing Marco directly after the phrase about holding the trumpet. The main trap is “The opening solo, holding a silver trumpet, was played by Marco near the center microphone.” because a solo cannot hold a trumpet."
+  },
+  {
+    "id": "EN9-036",
+    "prompt": "Visitors attending the presentation should check in at the welcome table before entering the auditorium. They should also silence phones before the talk begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Visitors attending the presentation should also silence phones before the talk begins.",
+      "B": "Phones should also silence before the talk begins.",
+      "C": "It should also silence phones before the talk begins.",
+      "D": "They should also do that before the talk begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly identifies who should take the action. The main trap is “They should also do that before the talk begins.” because “do that” is less clear and precise."
+  },
+  {
+    "id": "EN9-037",
+    "prompt": "(1) The nature center will offer a free evening walk on local trees this Friday. (2) Participants will learn how to identify bark patterns, leaf shapes, and seed pods. (3) The walk begins at 6:30 p.m. near the east gate. (4) Registration is recommended because space is limited.\nThe writer wants to add the following sentence:\nChildren should attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The information about children attending with an adult belongs immediately after the event is introduced so readers see it early. The main trap is “After sentence 4.” because that places an important participation detail too late."
+  },
+  {
+    "id": "EN9-038",
+    "prompt": "Please bring three items a notebook, comfortable shoes, and a water bottle for the walk.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a notebook, comfortable shoes, and a water bottle",
+      "B": "items: a notebook, comfortable shoes, and a water bottle",
+      "C": "items; a notebook, comfortable shoes, and a water bottle",
+      "D": "items a notebook, comfortable shoes, and a water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list after a complete thought. The main trap is “items, a notebook, comfortable shoes, and a water bottle” because a comma is not enough to introduce the list properly."
+  },
+  {
+    "id": "EN9-039",
+    "prompt": "Last month our class visited the city archives. One historian explain how letters, maps, and photographs are preserved for future researchers.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Last month” requires a past-tense verb, so “explained” is correct. The main trap is “explains” because it incorrectly shifts the sentence to present tense."
+  },
+  {
+    "id": "EN9-040",
+    "prompt": "The harbor seal a strong swimmer in cold coastal waters can move quickly through rough waves.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The harbor seal, a strong swimmer in cold coastal waters, can move quickly through rough waves.",
+      "B": "The harbor seal a strong swimmer in cold coastal waters can move quickly through rough waves.",
+      "C": "The harbor seal, a strong swimmer in cold coastal waters can move, quickly through rough waves.",
+      "D": "The harbor seal a strong swimmer in cold coastal waters, can move quickly through rough waves."
+    },
+    "correct": "A",
+    "explanation": "The phrase describing the seal is nonessential and should be set off with commas. The main trap is “The harbor seal a strong swimmer in cold coastal waters can move quickly through rough waves.” because it leaves out the needed punctuation."
+  },
+  {
+    "id": "EN9-041",
+    "prompt": "To survive long dry periods, certain desert plants can do moisture in their thick leaves.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "erase",
+      "C": "flatten",
+      "D": "borrow"
+    },
+    "correct": "A",
+    "explanation": "Desert plants keep moisture for later use, so “store” is the best replacement. The main trap is “borrow” because the sentence is about retaining water, not getting it temporarily."
+  },
+  {
+    "id": "EN9-042",
+    "prompt": "Original sentences:\nThe library workshop started late. The audience remained attentive throughout the presentation.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the library workshop started late, the audience remained attentive throughout the presentation.",
+      "B": "The library workshop started late, the audience remained attentive throughout the presentation.",
+      "C": "The audience remained attentive throughout the presentation, the library workshop started late.",
+      "D": "Started late, the library workshop and the audience remained attentive throughout the presentation."
+    },
+    "correct": "A",
+    "explanation": "This version combines the sentences smoothly and shows the contrast clearly. The main trap is “The library workshop started late, the audience remained attentive throughout the presentation.” because it is a comma splice."
+  },
+  {
+    "id": "EN9-043",
+    "prompt": "The media lab allows students to edit podcasts, designing posters, and to create short videos.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "edit podcasts, design posters, and create short videos",
+      "B": "edit podcasts, designing posters, and creating short videos",
+      "C": "to edit podcasts, design posters, and creating short videos",
+      "D": "edit podcasts, to design posters, and create short videos"
+    },
+    "correct": "A",
+    "explanation": "The series needs parallel verb forms, and this choice keeps all three verbs consistent. The main trap is “edit podcasts, designing posters, and creating short videos” because it mixes verb forms."
+  },
+  {
+    "id": "EN9-044",
+    "prompt": "Some students believe strong science writing is mostly about including facts. However, effective explanations also depend on clear organization and precise language.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the first sentence’s belief, so “However” is the best transition. The main trap is “Likewise” because the two ideas are not similar."
+  },
+  {
+    "id": "EN9-045",
+    "prompt": "After reviewing parent feedback for several weeks, a revised dismissal plan was proposed by the principal and office staff.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and office staff proposed a revised dismissal plan",
+      "B": "a revised dismissal plan, proposed by the principal and office staff",
+      "C": "the proposal of a revised dismissal plan by the principal and office staff",
+      "D": "a revised dismissal plan was being proposed by the principal and office staff"
+    },
+    "correct": "A",
+    "explanation": "This revision places the people who reviewed the feedback immediately after the introductory phrase, fixing the misplaced modifier. The main trap is “a revised dismissal plan, proposed by the principal and office staff” because it is a fragment."
+  },
+  {
+    "id": "EN9-046",
+    "prompt": "A student is ending a speech that argues for adding more refill stations for water bottles in the school building. The final sentence currently reads: “More refill stations would be useful.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Water bottles can be made from different materials.",
+      "B": "Adding more refill stations would make it easier for students to stay hydrated and would reduce the need for single-use plastic bottles during the school day.",
+      "C": "The school building has several staircases and hallways.",
+      "D": "More refill stations would be placed there."
+    },
+    "correct": "B",
+    "explanation": "This revision is the most persuasive because it states clear benefits. The main trap is “The school building has several staircases and hallways.” because it does not support the argument."
+  },
+  {
+    "id": "EN9-047",
+    "prompt": "Ms. Ortega handed the field journals to Maya and I before the ecology walk began.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective case “me” is correct. The main trap is “myself” because a reflexive pronoun is not needed here."
+  },
+  {
+    "id": "EN9-048",
+    "prompt": "Noah shouted \"Watch out!\" when the rolling cart veered toward the art shelves.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "shouted, \"Watch out!\"",
+      "B": "shouted \"Watch out\"!",
+      "C": "shouted; \"Watch out!\"",
+      "D": "shouted: \"Watch out\","
+    },
+    "correct": "A",
+    "explanation": "A comma correctly introduces the quotation, and the exclamation point belongs inside the quotation marks. The main trap is “shouted \"Watch out\"!” because the punctuation is placed incorrectly."
+  },
+  {
+    "id": "EN9-049",
+    "prompt": "We searched the storage closet for several minutes. Finally, Lena found the missing microphone cable behind a speaker stand.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "This transition fits because Lena found the cable after several minutes of searching. The main trap is “Instead” because there is no contrast between the two sentences."
+  },
+  {
+    "id": "EN9-050",
+    "prompt": "By the end of the volunteer afternoon, the garden beds had been weeded, the path stones had been reset, and the entrance sign had been washed clean.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Garden paths can be made from stone, brick, or gravel.",
+      "B": "The entrance sign stands beside a low wooden fence.",
+      "C": "As the volunteers stacked their tools by the shed, the whole garden looked ready to welcome visitors again.",
+      "D": "Weeds often grow quickly after rain."
+    },
+    "correct": "C",
+    "explanation": "This sentence provides a strong concluding image that reflects the results of the work. The main trap is “The entrance sign stands beside a low wooden fence.” because it adds detail without truly concluding the paragraph."
+  }
+]

@@ -15,11 +15,18 @@
       "id": "ela",
       "label": "ELA",
       "timeMin": 90,
-      "examQuestions": 57,
+      "examQuestions": 50,
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "ela_exam_01.json"
+        "ela_exam_01.json",
+        "ela_exam_02.json",
+        "ela_exam_03.json",
+        "ela_exam_04.json",
+        "ela_exam_05.json",
+        "ela_exam_06.json",
+        "ela_exam_07.json",
+        "ela_exam_08.json"
       ]
     },
     {
@@ -27,12 +34,84 @@
       "label": "Math",
       "timeMin": 90,
       "examQuestions": 57,
-      "type": "mixed",
+      "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "math_exam_01.json"
+        "math_exam_01.json",
+        "math_exam_02.json",
+        "math_exam_03.json",
+        "math_exam_04.json",
+        "math_exam_05.json",
+        "math_exam_06.json",
+        "math_exam_07.json",
+        "math_exam_08.json"
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "ELA Practice Exam 1",
+      "file": "ELA_EXAM_01.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 2",
+      "file": "ELA_EXAM_02.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 3",
+      "file": "ELA_EXAM_03.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 4",
+      "file": "ELA_EXAM_04.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 5",
+      "file": "ELA_EXAM_05.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 6",
+      "file": "ELA_EXAM_06.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 7",
+      "file": "ELA_EXAM_07.pdf"
+    },
+    {
+      "label": "ELA Practice Exam 8",
+      "file": "ELA_EXAM_08.pdf"
+    },
+    {
+      "label": "Math Practice Exam 1",
+      "file": "MATH_EXAM_01.pdf"
+    },
+    {
+      "label": "Math Practice Exam 2",
+      "file": "MATH_EXAM_02.pdf"
+    },
+    {
+      "label": "Math Practice Exam 3",
+      "file": "MATH_EXAM_03.pdf"
+    },
+    {
+      "label": "Math Practice Exam 4",
+      "file": "MATH_EXAM_04.pdf"
+    },
+    {
+      "label": "Math Practice Exam 5",
+      "file": "MATH_EXAM_05.pdf"
+    },
+    {
+      "label": "Math Practice Exam 6",
+      "file": "MATH_EXAM_06.pdf"
+    },
+    {
+      "label": "Math Practice Exam 7",
+      "file": "MATH_EXAM_07.pdf"
+    },
+    {
+      "label": "Math Practice Exam 8",
+      "file": "MATH_EXAM_08.pdf"
+    }
+  ]
 }

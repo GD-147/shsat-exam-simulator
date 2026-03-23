@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN11-001",
+    "prompt": "Read the passage and answer the question.\nWhen Eli volunteered at Mr. Ko’s clock shop, he expected to polish brass cases and wrap repaired clocks in paper for customers. Instead, Mr. Ko led him to a workbench after closing and set three clocks in a row beneath a lamp.\n“Listen,” he said.\nEli listened. The clocks all seemed to say the same thing: tick, tick, tick. One had a dark walnut case, one gleamed with a glass door, and the third had chipped paint around its face. To Eli, they looked more different than they sounded. But Mr. Ko frowned and bent closer. “This one hurries,” he said, touching the smallest clock. “And that one drifts.”\nHe loosened a screw and lowered a pendulum weight by what seemed like no distance at all. Then he waited again. Eli tried to hear the change and failed. Yet the next morning, when the repaired schoolhouse clock chimed noon exactly as students poured onto the sidewalk, Mr. Ko smiled as if a secret had finally snapped into place. Eli understood then that accuracy did not come from the polished wood or the gold numbers. It came from patient adjustments so small most people would never notice them.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Customers care more about a clock’s appearance than its accuracy.",
+      "B": "Careful, nearly invisible adjustments can determine whether something works well.",
+      "C": "Eli decides that clocks are more interesting than he had expected.",
+      "D": "Mr. Ko prefers working alone after the shop has closed."
+    },
+    "correct": "B",
+    "explanation": "Eli learns that the most important part of repair is the tiny adjustment that makes the clock accurate. The main trap is “Eli decides that clocks are more interesting than he had expected.” because that is true but less central than the idea about hidden precision."
+  },
+  {
+    "id": "EN11-002",
+    "prompt": "Read the passage and answer the question.\nWhen Eli volunteered at Mr. Ko’s clock shop, he expected to polish brass cases and wrap repaired clocks in paper for customers. Instead, Mr. Ko led him to a workbench after closing and set three clocks in a row beneath a lamp.\n“Listen,” he said.\nEli listened. The clocks all seemed to say the same thing: tick, tick, tick. One had a dark walnut case, one gleamed with a glass door, and the third had chipped paint around its face. To Eli, they looked more different than they sounded. But Mr. Ko frowned and bent closer. “This one hurries,” he said, touching the smallest clock. “And that one drifts.”\nHe loosened a screw and lowered a pendulum weight by what seemed like no distance at all. Then he waited again. Eli tried to hear the change and failed. Yet the next morning, when the repaired schoolhouse clock chimed noon exactly as students poured onto the sidewalk, Mr. Ko smiled as if a secret had finally snapped into place. Eli understood then that accuracy did not come from the polished wood or the gold numbers. It came from patient adjustments so small most people would never notice them.\nWhat can the reader most reasonably infer about Mr. Ko?",
+    "choices": {
+      "A": "He believes appearance matters more than precision.",
+      "B": "He thinks reliable craftsmanship depends on close attention to detail.",
+      "C": "He wants Eli to avoid learning the most difficult parts of the job.",
+      "D": "He dislikes repairing clocks that belong to public buildings."
+    },
+    "correct": "B",
+    "explanation": "Mr. Ko notices tiny timing differences and corrects them carefully. The main trap is “He believes appearance matters more than precision.” because the passage shows the opposite."
+  },
+  {
+    "id": "EN11-003",
+    "prompt": "Read the passage and answer the question.\nWhen Eli volunteered at Mr. Ko’s clock shop, he expected to polish brass cases and wrap repaired clocks in paper for customers. Instead, Mr. Ko led him to a workbench after closing and set three clocks in a row beneath a lamp.\n“Listen,” he said.\nEli listened. The clocks all seemed to say the same thing: tick, tick, tick. One had a dark walnut case, one gleamed with a glass door, and the third had chipped paint around its face. To Eli, they looked more different than they sounded. But Mr. Ko frowned and bent closer. “This one hurries,” he said, touching the smallest clock. “And that one drifts.”\nHe loosened a screw and lowered a pendulum weight by what seemed like no distance at all. Then he waited again. Eli tried to hear the change and failed. Yet the next morning, when the repaired schoolhouse clock chimed noon exactly as students poured onto the sidewalk, Mr. Ko smiled as if a secret had finally snapped into place. Eli understood then that accuracy did not come from the polished wood or the gold numbers. It came from patient adjustments so small most people would never notice them.\nHow does Eli’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from bored to respectful",
+      "B": "from worried to amused",
+      "C": "from proud to ashamed",
+      "D": "from cheerful to angry"
+    },
+    "correct": "A",
+    "explanation": "Eli starts out unimpressed by the work and ends up appreciating its importance. The main trap is “from worried to amused” because those emotions are not central to his change."
+  },
+  {
+    "id": "EN11-004",
+    "prompt": "Read the passage and answer the question.\nWhen Eli volunteered at Mr. Ko’s clock shop, he expected to polish brass cases and wrap repaired clocks in paper for customers. Instead, Mr. Ko led him to a workbench after closing and set three clocks in a row beneath a lamp.\n“Listen,” he said.\nEli listened. The clocks all seemed to say the same thing: tick, tick, tick. One had a dark walnut case, one gleamed with a glass door, and the third had chipped paint around its face. To Eli, they looked more different than they sounded. But Mr. Ko frowned and bent closer. “This one hurries,” he said, touching the smallest clock. “And that one drifts.”\nHe loosened a screw and lowered a pendulum weight by what seemed like no distance at all. Then he waited again. Eli tried to hear the change and failed. Yet the next morning, when the repaired schoolhouse clock chimed noon exactly as students poured onto the sidewalk, Mr. Ko smiled as if a secret had finally snapped into place. Eli understood then that accuracy did not come from the polished wood or the gold numbers. It came from patient adjustments so small most people would never notice them.\nAs used in the passage, the word “drifts” most nearly means",
+    "choices": {
+      "A": "moves physically across the table",
+      "B": "becomes less accurate over time",
+      "C": "grows louder than the others",
+      "D": "shines more brightly in the light"
+    },
+    "correct": "B",
+    "explanation": "In context, a clock that “drifts” no longer keeps exact time. The main trap is “moves physically across the table” because the word refers to accuracy, not position."
+  },
+  {
+    "id": "EN11-005",
+    "prompt": "Read the passage and answer the question.\nWhen Eli volunteered at Mr. Ko’s clock shop, he expected to polish brass cases and wrap repaired clocks in paper for customers. Instead, Mr. Ko led him to a workbench after closing and set three clocks in a row beneath a lamp.\n“Listen,” he said.\nEli listened. The clocks all seemed to say the same thing: tick, tick, tick. One had a dark walnut case, one gleamed with a glass door, and the third had chipped paint around its face. To Eli, they looked more different than they sounded. But Mr. Ko frowned and bent closer. “This one hurries,” he said, touching the smallest clock. “And that one drifts.”\nHe loosened a screw and lowered a pendulum weight by what seemed like no distance at all. Then he waited again. Eli tried to hear the change and failed. Yet the next morning, when the repaired schoolhouse clock chimed noon exactly as students poured onto the sidewalk, Mr. Ko smiled as if a secret had finally snapped into place. Eli understood then that accuracy did not come from the polished wood or the gold numbers. It came from patient adjustments so small most people would never notice them.\nWhich detail best supports the idea that tiny changes can have important results?",
+    "choices": {
+      "A": "One clock had a dark walnut case, and another had chipped paint.",
+      "B": "Mr. Ko lowered a pendulum weight by what seemed like no distance at all.",
+      "C": "Eli expected to wrap repaired clocks in paper for customers.",
+      "D": "The workbench stood beneath a lamp after closing time."
+    },
+    "correct": "A",
+    "explanation": "This detail shows how a tiny change can have a large effect. The main trap is “One clock had a dark walnut case, and another had chipped paint.” because appearance is not what fixes the timing."
+  },
+  {
+    "id": "EN11-006",
+    "prompt": "Read the passage and answer the question.\nSome cities are building tree trenches beneath sidewalks to help manage stormwater and improve conditions for street trees. A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement. Instead of sending all that water directly into storm drains, the trench allows some of it to soak into the ground, where tree roots can use it.\nThese systems can help reduce flooding and support healthier trees, but they are not simple to design. Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm. If the trench is too shallow or poorly placed, it may fill too quickly or fail to support the trees above it. For that reason, tree trenches work best when they are planned to fit the needs of a particular street rather than copied from one site to another without changes.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Tree trenches can help with stormwater and tree health, but they must be designed for local conditions.",
+      "B": "Tree trenches are mainly decorative spaces used to make sidewalks look greener.",
+      "C": "Tree trenches can replace every kind of storm drain in a city.",
+      "D": "Tree trenches work best when the same design is used on every block."
+    },
+    "correct": "A",
+    "explanation": "The passage emphasizes both their benefits and the need for site-specific planning. The main trap is “Tree trenches can replace every kind of storm drain in a city.” because the author never makes that absolute claim."
+  },
+  {
+    "id": "EN11-007",
+    "prompt": "Read the passage and answer the question.\nSome cities are building tree trenches beneath sidewalks to help manage stormwater and improve conditions for street trees. A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement. Instead of sending all that water directly into storm drains, the trench allows some of it to soak into the ground, where tree roots can use it.\nThese systems can help reduce flooding and support healthier trees, but they are not simple to design. Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm. If the trench is too shallow or poorly placed, it may fill too quickly or fail to support the trees above it. For that reason, tree trenches work best when they are planned to fit the needs of a particular street rather than copied from one site to another without changes.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how tree trenches function and why careful planning matters",
+      "B": "to argue that sidewalks should be removed from city streets",
+      "C": "to compare several species of street trees",
+      "D": "to describe the history of urban stonework"
+    },
+    "correct": "A",
+    "explanation": "The author defines the system and explains why its success depends on conditions underground and at the street. The main trap is “to compare several species of street trees” because the passage is not mainly about tree types."
+  },
+  {
+    "id": "EN11-008",
+    "prompt": "Read the passage and answer the question.\nSome cities are building tree trenches beneath sidewalks to help manage stormwater and improve conditions for street trees. A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement. Instead of sending all that water directly into storm drains, the trench allows some of it to soak into the ground, where tree roots can use it.\nThese systems can help reduce flooding and support healthier trees, but they are not simple to design. Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm. If the trench is too shallow or poorly placed, it may fill too quickly or fail to support the trees above it. For that reason, tree trenches work best when they are planned to fit the needs of a particular street rather than copied from one site to another without changes.\nWhich sentence from the passage best supports the idea that tree trenches can reduce runoff?",
+    "choices": {
+      "A": "A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement.",
+      "B": "Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm.",
+      "C": "If the trench is too shallow or poorly placed, it may fill too quickly.",
+      "D": "Tree trenches work best when they are planned to fit the needs of a particular street."
+    },
+    "correct": "A",
+    "explanation": "This sentence directly supports the idea that runoff can be captured rather than immediately drained away. The main trap is “If the trench is too shallow or poorly placed, it may fill too quickly.” because that sentence focuses on design problems, not the basic runoff function."
+  },
+  {
+    "id": "EN11-009",
+    "prompt": "Read the passage and answer the question.\nSome cities are building tree trenches beneath sidewalks to help manage stormwater and improve conditions for street trees. A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement. Instead of sending all that water directly into storm drains, the trench allows some of it to soak into the ground, where tree roots can use it.\nThese systems can help reduce flooding and support healthier trees, but they are not simple to design. Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm. If the trench is too shallow or poorly placed, it may fill too quickly or fail to support the trees above it. For that reason, tree trenches work best when they are planned to fit the needs of a particular street rather than copied from one site to another without changes.\nAs used in the passage, the word “utilities” most nearly means",
+    "choices": {
+      "A": "helpful habits",
+      "B": "underground service lines and systems",
+      "C": "public parks and playgrounds",
+      "D": "extra tools for gardening"
+    },
+    "correct": "B",
+    "explanation": "In this context, “utilities” refers to things like pipes and cables beneath the street. The main trap is “helpful habits” because that common meaning does not fit the engineering discussion."
+  },
+  {
+    "id": "EN11-010",
+    "prompt": "Read the passage and answer the question.\nSome cities are building tree trenches beneath sidewalks to help manage stormwater and improve conditions for street trees. A tree trench is a connected underground area of soil and stone that can collect rainwater running off nearby pavement. Instead of sending all that water directly into storm drains, the trench allows some of it to soak into the ground, where tree roots can use it.\nThese systems can help reduce flooding and support healthier trees, but they are not simple to design. Engineers must consider soil conditions, underground utilities, and how much water is likely to enter the trench during a storm. If the trench is too shallow or poorly placed, it may fill too quickly or fail to support the trees above it. For that reason, tree trenches work best when they are planned to fit the needs of a particular street rather than copied from one site to another without changes.\nA city wants to install tree trenches along a busy block that already has many pipes and cables underground. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "copy a design from another neighborhood without studying the site",
+      "B": "plan the trench only after considering drainage, soil, and underground systems",
+      "C": "avoid using engineers because the design is mostly decorative",
+      "D": "make the trench as shallow as possible to speed construction"
+    },
+    "correct": "B",
+    "explanation": "The passage says engineers must consider those local site conditions before choosing a design. The main trap is “copy a design from another neighborhood without studying the site” because the author specifically warns against that."
+  },
+  {
+    "id": "EN11-011",
+    "prompt": "Read the passage and answer the question.\nRuby signed up to help with the school play because she thought she would be painting backdrops or handing actors their props. Instead, Mr. Keller brought her to the fly system above the stage, where ropes ran through pulleys and disappeared into the ceiling shadows.\n“We check balance first,” he said.\nRuby stared at the sandbags hanging from hooks along the wall. Across the stage, other students were brushing bright clouds onto a cardboard skyline, laughing whenever someone dropped a paint tray. Up in the rigging loft, the work felt slow and quiet. Mr. Keller clipped a weight onto one line, tugged the rope, frowned, and shifted the bag again. “Too light,” he said. “Now too heavy.” To Ruby, the difference between the two tries seemed too small to matter.\nBut that evening, when the curtain rose on the rooftop scene, the painted skyline floated down in one smooth motion and stopped exactly where it should. Nothing lurched. Nothing tilted. From the audience, the movement seemed effortless, as if scenery simply knew where to go. Ruby smiled in the dark, understanding at last that the calm beauty of the scene had depended on people who had measured, adjusted, and tested things long before the audience sat down.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Ruby learns that careful technical preparation can make stage effects appear smooth and natural.",
+      "B": "Backdrop painting is more creative than stage rigging.",
+      "C": "School plays are harder to produce than most students realize.",
+      "D": "Mr. Keller wants the audience to notice the ropes above the stage."
+    },
+    "correct": "A",
+    "explanation": "Ruby realizes the effortless motion of the scenery depends on hidden balancing work. The main trap is “School plays are harder to produce than most students realize.” because that is broader and less precise than the main idea."
+  },
+  {
+    "id": "EN11-012",
+    "prompt": "Read the passage and answer the question.\nRuby signed up to help with the school play because she thought she would be painting backdrops or handing actors their props. Instead, Mr. Keller brought her to the fly system above the stage, where ropes ran through pulleys and disappeared into the ceiling shadows.\n“We check balance first,” he said.\nRuby stared at the sandbags hanging from hooks along the wall. Across the stage, other students were brushing bright clouds onto a cardboard skyline, laughing whenever someone dropped a paint tray. Up in the rigging loft, the work felt slow and quiet. Mr. Keller clipped a weight onto one line, tugged the rope, frowned, and shifted the bag again. “Too light,” he said. “Now too heavy.” To Ruby, the difference between the two tries seemed too small to matter.\nBut that evening, when the curtain rose on the rooftop scene, the painted skyline floated down in one smooth motion and stopped exactly where it should. Nothing lurched. Nothing tilted. From the audience, the movement seemed effortless, as if scenery simply knew where to go. Ruby smiled in the dark, understanding at last that the calm beauty of the scene had depended on people who had measured, adjusted, and tested things long before the audience sat down.\nWhat can the reader most reasonably infer about Mr. Keller?",
+    "choices": {
+      "A": "He believes successful stage effects depend on exact preparation.",
+      "B": "He wants Ruby to avoid the more interesting parts of the production.",
+      "C": "He thinks painted scenery matters less than costumes.",
+      "D": "He prefers performances with fewer scene changes."
+    },
+    "correct": "A",
+    "explanation": "Mr. Keller adjusts the weights until the scenery moves correctly, showing that precision matters. The main trap is “He wants Ruby to avoid the more interesting parts of the production.” because nothing suggests he is keeping her away on purpose."
+  },
+  {
+    "id": "EN11-013",
+    "prompt": "Read the passage and answer the question.\nRuby signed up to help with the school play because she thought she would be painting backdrops or handing actors their props. Instead, Mr. Keller brought her to the fly system above the stage, where ropes ran through pulleys and disappeared into the ceiling shadows.\n“We check balance first,” he said.\nRuby stared at the sandbags hanging from hooks along the wall. Across the stage, other students were brushing bright clouds onto a cardboard skyline, laughing whenever someone dropped a paint tray. Up in the rigging loft, the work felt slow and quiet. Mr. Keller clipped a weight onto one line, tugged the rope, frowned, and shifted the bag again. “Too light,” he said. “Now too heavy.” To Ruby, the difference between the two tries seemed too small to matter.\nBut that evening, when the curtain rose on the rooftop scene, the painted skyline floated down in one smooth motion and stopped exactly where it should. Nothing lurched. Nothing tilted. From the audience, the movement seemed effortless, as if scenery simply knew where to go. Ruby smiled in the dark, understanding at last that the calm beauty of the scene had depended on people who had measured, adjusted, and tested things long before the audience sat down.\nHow does Ruby’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from skeptical to admiring",
+      "B": "from amused to annoyed",
+      "C": "from relaxed to frightened",
+      "D": "from proud to embarrassed"
+    },
+    "correct": "A",
+    "explanation": "Ruby begins by doubting the importance of the work and ends by appreciating it. The main trap is “from relaxed to frightened” because fear is never part of her response."
+  },
+  {
+    "id": "EN11-014",
+    "prompt": "Read the passage and answer the question.\nRuby signed up to help with the school play because she thought she would be painting backdrops or handing actors their props. Instead, Mr. Keller brought her to the fly system above the stage, where ropes ran through pulleys and disappeared into the ceiling shadows.\n“We check balance first,” he said.\nRuby stared at the sandbags hanging from hooks along the wall. Across the stage, other students were brushing bright clouds onto a cardboard skyline, laughing whenever someone dropped a paint tray. Up in the rigging loft, the work felt slow and quiet. Mr. Keller clipped a weight onto one line, tugged the rope, frowned, and shifted the bag again. “Too light,” he said. “Now too heavy.” To Ruby, the difference between the two tries seemed too small to matter.\nBut that evening, when the curtain rose on the rooftop scene, the painted skyline floated down in one smooth motion and stopped exactly where it should. Nothing lurched. Nothing tilted. From the audience, the movement seemed effortless, as if scenery simply knew where to go. Ruby smiled in the dark, understanding at last that the calm beauty of the scene had depended on people who had measured, adjusted, and tested things long before the audience sat down.\nAs used in the passage, the word “lurched” most nearly means",
+    "choices": {
+      "A": "moved awkwardly",
+      "B": "glowed softly",
+      "C": "remained hidden",
+      "D": "sounded musical"
+    },
+    "correct": "A",
+    "explanation": "If something “lurched,” it moved in an uneven or clumsy way. The main trap is “glowed softly” because the word refers to motion, not light."
+  },
+  {
+    "id": "EN11-015",
+    "prompt": "Read the passage and answer the question.\nRuby signed up to help with the school play because she thought she would be painting backdrops or handing actors their props. Instead, Mr. Keller brought her to the fly system above the stage, where ropes ran through pulleys and disappeared into the ceiling shadows.\n“We check balance first,” he said.\nRuby stared at the sandbags hanging from hooks along the wall. Across the stage, other students were brushing bright clouds onto a cardboard skyline, laughing whenever someone dropped a paint tray. Up in the rigging loft, the work felt slow and quiet. Mr. Keller clipped a weight onto one line, tugged the rope, frowned, and shifted the bag again. “Too light,” he said. “Now too heavy.” To Ruby, the difference between the two tries seemed too small to matter.\nBut that evening, when the curtain rose on the rooftop scene, the painted skyline floated down in one smooth motion and stopped exactly where it should. Nothing lurched. Nothing tilted. From the audience, the movement seemed effortless, as if scenery simply knew where to go. Ruby smiled in the dark, understanding at last that the calm beauty of the scene had depended on people who had measured, adjusted, and tested things long before the audience sat down.\nWhich detail best supports the idea that the hidden work affected what the audience saw?",
+    "choices": {
+      "A": "Other students were painting bright clouds onto a cardboard skyline.",
+      "B": "Mr. Keller clipped a weight onto one line and shifted the bag again.",
+      "C": "The painted skyline floated down in one smooth motion and stopped exactly where it should.",
+      "D": "Ruby had expected to hand actors their props."
+    },
+    "correct": "C",
+    "explanation": "This outcome shows the visible result of the hidden balancing work. The main trap is “Mr. Keller clipped a weight onto one line and shifted the bag again.” because that shows preparation, not the audience’s final view."
+  },
+  {
+    "id": "EN11-016",
+    "prompt": "Read the passage and answer the question.\nSome cities are testing pedestrian scrambles at especially busy intersections. In a pedestrian scramble, all vehicle traffic stops at once, allowing people to cross in every direction, including diagonally, during a special walking phase. Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.\nHowever, pedestrian scrambles are not equally useful everywhere. Their success depends on factors such as traffic volume, signal timing, the number of people crossing, and the layout of the streets. At some intersections, a scramble may improve safety and flow. At others, it may create longer waits without solving the main problem. For that reason, transportation planners usually study each site carefully before deciding whether this design is the right fit.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Pedestrian scrambles are always the fastest way to move people through an intersection.",
+      "B": "Pedestrian scrambles can improve safety in some places, but they work best when chosen for the right intersection.",
+      "C": "Drivers and pedestrians should never share the same streets.",
+      "D": "Diagonal crossings are the only important feature of city traffic design."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the possible benefit and the importance of careful site selection. The main trap is “Pedestrian scrambles are always the fastest way to move people through an intersection.” because the author says they are not equally useful everywhere."
+  },
+  {
+    "id": "EN11-017",
+    "prompt": "Read the passage and answer the question.\nSome cities are testing pedestrian scrambles at especially busy intersections. In a pedestrian scramble, all vehicle traffic stops at once, allowing people to cross in every direction, including diagonally, during a special walking phase. Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.\nHowever, pedestrian scrambles are not equally useful everywhere. Their success depends on factors such as traffic volume, signal timing, the number of people crossing, and the layout of the streets. At some intersections, a scramble may improve safety and flow. At others, it may create longer waits without solving the main problem. For that reason, transportation planners usually study each site carefully before deciding whether this design is the right fit.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how pedestrian scrambles work and why they must be evaluated case by case",
+      "B": "to argue that all traffic lights should be replaced immediately",
+      "C": "to describe the history of diagonal crosswalk paint",
+      "D": "to prove that drivers prefer longer signal waits"
+    },
+    "correct": "A",
+    "explanation": "The author defines the design and explains the factors planners should study before using it. The main trap is “to describe the history of diagonal crosswalk paint” because the passage is about traffic design decisions, not history."
+  },
+  {
+    "id": "EN11-018",
+    "prompt": "Read the passage and answer the question.\nSome cities are testing pedestrian scrambles at especially busy intersections. In a pedestrian scramble, all vehicle traffic stops at once, allowing people to cross in every direction, including diagonally, during a special walking phase. Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.\nHowever, pedestrian scrambles are not equally useful everywhere. Their success depends on factors such as traffic volume, signal timing, the number of people crossing, and the layout of the streets. At some intersections, a scramble may improve safety and flow. At others, it may create longer waits without solving the main problem. For that reason, transportation planners usually study each site carefully before deciding whether this design is the right fit.\nWhich sentence from the passage best supports the idea that pedestrian scrambles may improve safety?",
+    "choices": {
+      "A": "In a pedestrian scramble, all vehicle traffic stops at once.",
+      "B": "Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.",
+      "C": "Their success depends on factors such as traffic volume and signal timing.",
+      "D": "At others, it may create longer waits."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly explains the safety benefit. The main trap is “In a pedestrian scramble, all vehicle traffic stops at once.” because that describes the design but not as fully why it may improve safety."
+  },
+  {
+    "id": "EN11-019",
+    "prompt": "Read the passage and answer the question.\nSome cities are testing pedestrian scrambles at especially busy intersections. In a pedestrian scramble, all vehicle traffic stops at once, allowing people to cross in every direction, including diagonally, during a special walking phase. Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.\nHowever, pedestrian scrambles are not equally useful everywhere. Their success depends on factors such as traffic volume, signal timing, the number of people crossing, and the layout of the streets. At some intersections, a scramble may improve safety and flow. At others, it may create longer waits without solving the main problem. For that reason, transportation planners usually study each site carefully before deciding whether this design is the right fit.\nAs used in the passage, the word “conflicts” most nearly means",
+    "choices": {
+      "A": "agreements",
+      "B": "collisions or risky interactions",
+      "C": "traffic signs",
+      "D": "painted lines"
+    },
+    "correct": "B",
+    "explanation": "In this context, “conflicts” means unsafe encounters between cars and pedestrians. The main trap is “painted lines” because the word refers to interactions, not markings."
+  },
+  {
+    "id": "EN11-020",
+    "prompt": "Read the passage and answer the question.\nSome cities are testing pedestrian scrambles at especially busy intersections. In a pedestrian scramble, all vehicle traffic stops at once, allowing people to cross in every direction, including diagonally, during a special walking phase. Supporters say this can reduce conflicts between turning cars and pedestrians because drivers and walkers are separated in time rather than trying to move through the intersection at once.\nHowever, pedestrian scrambles are not equally useful everywhere. Their success depends on factors such as traffic volume, signal timing, the number of people crossing, and the layout of the streets. At some intersections, a scramble may improve safety and flow. At others, it may create longer waits without solving the main problem. For that reason, transportation planners usually study each site carefully before deciding whether this design is the right fit.\nA city is considering a pedestrian scramble at a crowded downtown intersection. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "install the scramble without gathering any information because all busy intersections need one",
+      "B": "study the crossing patterns, signal timing, and street layout before deciding",
+      "C": "assume that longer waits are unimportant if diagonal walking is allowed",
+      "D": "replace all nearby traffic signs with larger ones instead"
+    },
+    "correct": "B",
+    "explanation": "The passage says planners usually study each site carefully before choosing a scramble. The main trap is “install the scramble without gathering any information because all busy intersections need one” because that ignores the passage’s main warning."
+  },
+  {
+    "id": "EN11-021",
+    "prompt": "Read the passage and answer the question.\nTariq volunteered for the school robotics showcase because he expected to explain inventions to visitors and demonstrate how the machines moved. Instead, Ms. Lin led him to a table near the back wall, where several robots stood motionless beside a tangle of cords and charging banks.\n“We check batteries first,” she said.\nTariq tried not to look disappointed. Across the room, other volunteers practiced introducing the teams and rehearsed when to press the start buttons. At his table, Ms. Lin plugged in one machine, waited, unplugged it, and then marked a number on a clipboard. “Still weak,” she said. A second battery pack looked identical but held a charge longer. To Tariq, the process seemed repetitive and dull.\nBut during the afternoon demonstration, he saw why Ms. Lin had insisted on it. One robot completed its maze without slowing. Another arm lifted its blocks in a smooth series of turns instead of stopping halfway through a motion. Nothing stalled. Nothing sputtered. The audience only saw machines that seemed ready and confident, as if they had awakened that way on their own. Tariq, however, now knew that steady performance had begun hours earlier, with testing that few people would ever notice.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Tariq learns that dependable performance often depends on careful preparation that stays out of sight.",
+      "B": "Robotics demonstrations are more popular than Tariq expected.",
+      "C": "Ms. Lin prefers charts and clipboards to actual machines.",
+      "D": "Battery packs are the most expensive part of a robot."
+    },
+    "correct": "A",
+    "explanation": "Tariq realizes that battery testing makes the public demonstration seem smooth and confident. The main trap is “Ms. Lin prefers charts and clipboards to actual machines.” because the clipboard is only part of the testing process, not the point of the passage."
+  },
+  {
+    "id": "EN11-022",
+    "prompt": "Read the passage and answer the question.\nTariq volunteered for the school robotics showcase because he expected to explain inventions to visitors and demonstrate how the machines moved. Instead, Ms. Lin led him to a table near the back wall, where several robots stood motionless beside a tangle of cords and charging banks.\n“We check batteries first,” she said.\nTariq tried not to look disappointed. Across the room, other volunteers practiced introducing the teams and rehearsed when to press the start buttons. At his table, Ms. Lin plugged in one machine, waited, unplugged it, and then marked a number on a clipboard. “Still weak,” she said. A second battery pack looked identical but held a charge longer. To Tariq, the process seemed repetitive and dull.\nBut during the afternoon demonstration, he saw why Ms. Lin had insisted on it. One robot completed its maze without slowing. Another arm lifted its blocks in a smooth series of turns instead of stopping halfway through a motion. Nothing stalled. Nothing sputtered. The audience only saw machines that seemed ready and confident, as if they had awakened that way on their own. Tariq, however, now knew that steady performance had begun hours earlier, with testing that few people would ever notice.\nWhat can the reader most reasonably infer about Ms. Lin?",
+    "choices": {
+      "A": "She believes equipment should be checked carefully before it is asked to perform.",
+      "B": "She wants Tariq to stay away from the visitors.",
+      "C": "She thinks the robots are too simple to fail.",
+      "D": "She prefers demonstration days to preparation days."
+    },
+    "correct": "A",
+    "explanation": "Ms. Lin insists on checking batteries because she wants the robots to work steadily later. The main trap is “She thinks the robots are too simple to fail.” because her actions show she expects problems if preparation is careless."
+  },
+  {
+    "id": "EN11-023",
+    "prompt": "Read the passage and answer the question.\nTariq volunteered for the school robotics showcase because he expected to explain inventions to visitors and demonstrate how the machines moved. Instead, Ms. Lin led him to a table near the back wall, where several robots stood motionless beside a tangle of cords and charging banks.\n“We check batteries first,” she said.\nTariq tried not to look disappointed. Across the room, other volunteers practiced introducing the teams and rehearsed when to press the start buttons. At his table, Ms. Lin plugged in one machine, waited, unplugged it, and then marked a number on a clipboard. “Still weak,” she said. A second battery pack looked identical but held a charge longer. To Tariq, the process seemed repetitive and dull.\nBut during the afternoon demonstration, he saw why Ms. Lin had insisted on it. One robot completed its maze without slowing. Another arm lifted its blocks in a smooth series of turns instead of stopping halfway through a motion. Nothing stalled. Nothing sputtered. The audience only saw machines that seemed ready and confident, as if they had awakened that way on their own. Tariq, however, now knew that steady performance had begun hours earlier, with testing that few people would ever notice.\nHow does Tariq’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from doubtful to impressed",
+      "B": "from excited to angry",
+      "C": "from frightened to calm",
+      "D": "from proud to embarrassed"
+    },
+    "correct": "A",
+    "explanation": "Tariq starts by seeing the task as dull but ends up admiring its importance. The main trap is “from frightened to calm” because fear is not a major part of the passage."
+  },
+  {
+    "id": "EN11-024",
+    "prompt": "Read the passage and answer the question.\nTariq volunteered for the school robotics showcase because he expected to explain inventions to visitors and demonstrate how the machines moved. Instead, Ms. Lin led him to a table near the back wall, where several robots stood motionless beside a tangle of cords and charging banks.\n“We check batteries first,” she said.\nTariq tried not to look disappointed. Across the room, other volunteers practiced introducing the teams and rehearsed when to press the start buttons. At his table, Ms. Lin plugged in one machine, waited, unplugged it, and then marked a number on a clipboard. “Still weak,” she said. A second battery pack looked identical but held a charge longer. To Tariq, the process seemed repetitive and dull.\nBut during the afternoon demonstration, he saw why Ms. Lin had insisted on it. One robot completed its maze without slowing. Another arm lifted its blocks in a smooth series of turns instead of stopping halfway through a motion. Nothing stalled. Nothing sputtered. The audience only saw machines that seemed ready and confident, as if they had awakened that way on their own. Tariq, however, now knew that steady performance had begun hours earlier, with testing that few people would ever notice.\nAs used in the passage, the word “stalled” most nearly means",
+    "choices": {
+      "A": "became damaged permanently",
+      "B": "stopped moving forward",
+      "C": "turned too quickly",
+      "D": "made a loud sound"
+    },
+    "correct": "B",
+    "explanation": "In context, a stalled robot would stop in the middle of its task. The main trap is “became damaged permanently” because stalling refers to interruption, not necessarily permanent damage."
+  },
+  {
+    "id": "EN11-025",
+    "prompt": "Read the passage and answer the question.\nTariq volunteered for the school robotics showcase because he expected to explain inventions to visitors and demonstrate how the machines moved. Instead, Ms. Lin led him to a table near the back wall, where several robots stood motionless beside a tangle of cords and charging banks.\n“We check batteries first,” she said.\nTariq tried not to look disappointed. Across the room, other volunteers practiced introducing the teams and rehearsed when to press the start buttons. At his table, Ms. Lin plugged in one machine, waited, unplugged it, and then marked a number on a clipboard. “Still weak,” she said. A second battery pack looked identical but held a charge longer. To Tariq, the process seemed repetitive and dull.\nBut during the afternoon demonstration, he saw why Ms. Lin had insisted on it. One robot completed its maze without slowing. Another arm lifted its blocks in a smooth series of turns instead of stopping halfway through a motion. Nothing stalled. Nothing sputtered. The audience only saw machines that seemed ready and confident, as if they had awakened that way on their own. Tariq, however, now knew that steady performance had begun hours earlier, with testing that few people would ever notice.\nWhich detail best supports the idea that the preparation made the demonstration more successful?",
+    "choices": {
+      "A": "Other volunteers practiced introducing the teams.",
+      "B": "A second battery pack looked identical but held a charge longer.",
+      "C": "One robot completed its maze without slowing, and another arm lifted its blocks in a smooth series of turns.",
+      "D": "Several robots stood motionless near the back wall."
+    },
+    "correct": "C",
+    "explanation": "This detail shows the successful result of the careful battery testing. The main trap is “A second battery pack looked identical but held a charge longer.” because it hints at the cause but does not show the demonstration’s improved performance as directly."
+  },
+  {
+    "id": "EN11-026",
+    "prompt": "The student council is planning a welcome fair for new students. Members listed the booths they wanted to include they also asked current students which activities had helped them feel comfortable during their first week.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Members listed the booths they wanted to include, they also asked current students which activities had helped them feel comfortable during their first week.",
+      "B": "Members listed the booths they wanted to include and also asked current students which activities had helped them feel comfortable during their first week.",
+      "C": "Members listed the booths they wanted to include; also asking current students which activities had helped them feel comfortable during their first week.",
+      "D": "Members listed the booths they wanted to include because also asked current students which activities had helped them feel comfortable during their first week."
+    },
+    "correct": "B",
+    "explanation": "This revision correctly joins the two actions without creating a comma splice. The main trap is “Members listed the booths they wanted to include, they also asked current students which activities had helped them feel comfortable during their first week.” because it incorrectly joins two complete thoughts with only a comma."
+  },
+  {
+    "id": "EN11-027",
+    "prompt": "Before the final map was printed, each volunteer on the planning team were asked to check the room numbers.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each volunteer on the planning team was asked to check the room numbers",
+      "B": "each volunteer on the planning team were being asked to check the room numbers",
+      "C": "each volunteer on the planning team were asked to check the room numbers",
+      "D": "each volunteer on the planning team ask to check the room numbers"
+    },
+    "correct": "A",
+    "explanation": "The subject is singular because “each volunteer” is singular, so “was” is correct. The main trap is “each volunteer on the planning team were asked to check the room numbers” because the plural verb does not agree with the subject."
+  },
+  {
+    "id": "EN11-028",
+    "prompt": "The first draft of the event schedule included too many activities for one afternoon. As a result, the council shortened the program and added more time for conversation.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence gives the consequence of the first sentence’s problem. The main trap is “For example” because the second sentence is not an illustration; it is an outcome."
+  },
+  {
+    "id": "EN11-029",
+    "prompt": "The student council is planning a welcome fair for new students. Members listed the booths they wanted to include and also asked current students which activities had helped them feel comfortable during their first week. Before the final map was printed, each volunteer on the planning team was asked to check the room numbers. The first draft of the event schedule included too many activities for one afternoon. As a result, the council shortened the program and added more time for conversation. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "School events can be held in many different rooms.",
+      "B": "Now the council feels more confident that the fair will be friendly, clear, and easy for new students to follow.",
+      "C": "Printed maps are often folded in different ways.",
+      "D": "Some students prefer activities that take place outdoors."
+    },
+    "correct": "B",
+    "explanation": "This sentence best concludes the paragraph by tying the edits to the event’s purpose. The main trap is “School events can be held in many different rooms.” because it is too general and does not conclude the idea."
+  },
+  {
+    "id": "EN11-030",
+    "prompt": "The orchestra stepped onto the stage for the evening concert. Holding a silver trumpet, the opening solo was played by Marco near the center microphone.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Holding a silver trumpet, Marco played the opening solo near the center microphone.",
+      "B": "The opening solo, holding a silver trumpet, was played by Marco near the center microphone.",
+      "C": "Holding a silver trumpet, the center microphone carried Marco’s opening solo.",
+      "D": "Marco, the opening solo was played near the center microphone holding a silver trumpet."
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the dangling modifier by placing Marco directly after the phrase about holding the trumpet. The main trap is “The opening solo, holding a silver trumpet, was played by Marco near the center microphone.” because the solo cannot hold the instrument."
+  },
+  {
+    "id": "EN11-031",
+    "prompt": "Families attending the presentation should check in at the welcome table before entering the gym. They should also silence phones before the program begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Families attending the presentation should also silence phones before the program begins.",
+      "B": "Phones should also silence before the program begins.",
+      "C": "It should also silence phones before the program begins.",
+      "D": "They should also do that before the program begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly identifies who should do the silencing. The main trap is “They should also do that before the program begins.” because “do that” is vague."
+  },
+  {
+    "id": "EN11-032",
+    "prompt": "(1) The local park will host a free evening walk on neighborhood trees this Friday. (2) Participants will learn how to identify bark patterns, leaf shapes, and seed pods. (3) The walk begins at 6:30 p.m. near the south gate. (4) Registration is recommended because space is limited.\nThe writer wants to add the following sentence:\nChildren should attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The information about children attending with an adult should appear immediately after the event is introduced, where readers will notice it early. The main trap is “After sentence 4.” because that would bury an important participation detail too late."
+  },
+  {
+    "id": "EN11-033",
+    "prompt": "Please bring three items a notebook, comfortable shoes, and a water bottle for the walk.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a notebook, comfortable shoes, and a water bottle",
+      "B": "items: a notebook, comfortable shoes, and a water bottle",
+      "C": "items; a notebook, comfortable shoes, and a water bottle",
+      "D": "items a notebook, comfortable shoes, and a water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces a list after a complete idea. The main trap is “items, a notebook, comfortable shoes, and a water bottle” because a comma is not sufficient for this introduction."
+  },
+  {
+    "id": "EN11-034",
+    "prompt": "Last spring our class visited the city archives. One historian explain how maps, letters, and photographs are preserved for future researchers.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Last spring” requires a past-tense verb. The main trap is “explains” because it shifts the sentence into present tense."
+  },
+  {
+    "id": "EN11-035",
+    "prompt": "The arctic tern a remarkable traveler between polar regions completes one of the longest migrations in the animal world.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The arctic tern, a remarkable traveler between polar regions, completes one of the longest migrations in the animal world.",
+      "B": "The arctic tern a remarkable traveler between polar regions completes one of the longest migrations in the animal world.",
+      "C": "The arctic tern, a remarkable traveler between polar regions completes, one of the longest migrations in the animal world.",
+      "D": "The arctic tern a remarkable traveler between polar regions, completes one of the longest migrations in the animal world."
+    },
+    "correct": "A",
+    "explanation": "The phrase describing the tern is nonessential and should be set off with commas. The main trap is “The arctic tern a remarkable traveler between polar regions completes one of the longest migrations in the animal world.” because it omits the needed punctuation."
+  },
+  {
+    "id": "EN11-036",
+    "prompt": "During especially dry months, succulents can do water in their thick leaves for later use.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "erase",
+      "C": "flatten",
+      "D": "spill"
+    },
+    "correct": "A",
+    "explanation": "Succulents keep water in their leaves for later use, so “store” is the best replacement. The main trap is “spill” because it means the opposite of what the sentence needs."
+  },
+  {
+    "id": "EN11-037",
+    "prompt": "Original sentences:\nThe train reached the station late. The students still arrived at the debate tournament on time.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the train reached the station late, the students still arrived at the debate tournament on time.",
+      "B": "The train reached the station late, the students still arrived at the debate tournament on time.",
+      "C": "The students still arrived at the debate tournament on time, the train reached the station late.",
+      "D": "Reached the station late, the train and the students still arrived at the debate tournament on time."
+    },
+    "correct": "A",
+    "explanation": "This revision combines the ideas clearly and shows the contrast between lateness and arriving on time. The main trap is “The train reached the station late, the students still arrived at the debate tournament on time.” because it is a comma splice."
+  },
+  {
+    "id": "EN11-038",
+    "prompt": "The school media room allows students to edit interviews, designing posters, and to create short documentaries.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "edit interviews, design posters, and create short documentaries",
+      "B": "edit interviews, designing posters, and creating short documentaries",
+      "C": "to edit interviews, design posters, and creating short documentaries",
+      "D": "edit interviews, to design posters, and create short documentaries"
+    },
+    "correct": "A",
+    "explanation": "The series needs parallel verbs, and this choice keeps all three in the same form. The main trap is “edit interviews, designing posters, and to create short documentaries” because it mixes verb forms."
+  },
+  {
+    "id": "EN11-039",
+    "prompt": "Some students think strong research writing is mostly about collecting facts. However, effective papers also depend on organization, analysis, and clear explanation.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the first sentence’s claim, so “However” is the best transition. The main trap is “Likewise” because the ideas are not similar."
+  },
+  {
+    "id": "EN11-040",
+    "prompt": "After reviewing family feedback for several weeks, a revised dismissal plan was proposed by the principal and office staff.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and office staff proposed a revised dismissal plan",
+      "B": "a revised dismissal plan, proposed by the principal and office staff",
+      "C": "the proposal of a revised dismissal plan by the principal and office staff",
+      "D": "a revised dismissal plan was being proposed by the principal and office staff"
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the misplaced modifier by placing the people who reviewed the feedback right after the introductory phrase. The main trap is “a revised dismissal plan, proposed by the principal and office staff” because it creates a fragment, not a complete sentence."
+  },
+  {
+    "id": "EN11-041",
+    "prompt": "A student is ending a speech that argues for adding more refill stations in the school building. The final sentence currently reads: “More refill stations would be nice.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Water bottles can be made from different materials.",
+      "B": "Adding more refill stations would make it easier for students to stay hydrated and would reduce the use of single-use plastic bottles during the school day.",
+      "C": "The school building has several hallways and staircases.",
+      "D": "More refill stations would be placed there."
+    },
+    "correct": "B",
+    "explanation": "This revision is the most persuasive because it gives specific benefits. The main trap is “The school building has several hallways and staircases.” because it does not support the argument."
+  },
+  {
+    "id": "EN11-042",
+    "prompt": "Coach Daniels handed the practice forms to Ava and I before the meet.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective form “me” is correct. The main trap is “myself” because a reflexive pronoun is not needed here."
+  },
+  {
+    "id": "EN11-043",
+    "prompt": "Jules shouted \"Careful!\" when the stack of boxes tipped toward the paint table.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "shouted, \"Careful!\"",
+      "B": "shouted \"Careful\"!",
+      "C": "shouted; \"Careful!\"",
+      "D": "shouted: \"Careful\","
+    },
+    "correct": "A",
+    "explanation": "A comma correctly introduces the quotation, and the exclamation point belongs inside the quotation marks. The main trap is “shouted \"Careful\"!” because the punctuation is incorrectly placed."
+  },
+  {
+    "id": "EN11-044",
+    "prompt": "We searched the equipment shelf for several minutes. Finally, Nora found the missing extension cord behind the speaker case.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "The word fits because Nora finds the extension cord after searching for several minutes. The main trap is “Instead” because there is no contrast between the two sentences."
+  },
+  {
+    "id": "EN11-045",
+    "prompt": "By the end of the volunteer afternoon, the reading garden had been weeded, the benches had been wiped clean, and the gravel path had been raked smooth again.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Gravel paths need regular care in outdoor spaces.",
+      "B": "The benches sit beneath two flowering trees near the fence.",
+      "C": "As the volunteers stacked their gloves by the gate, the whole garden seemed ready for quiet visitors once more.",
+      "D": "Many gardens include both flowers and shrubs."
+    },
+    "correct": "C",
+    "explanation": "This sentence gives the paragraph a strong closing image that reflects the result of the work. The main trap is “The benches sit beneath two flowering trees near the fence.” because it adds detail without actually concluding the paragraph."
+  },
+  {
+    "id": "EN11-046",
+    "prompt": "The science club built a display about pollinators for the spring fair. For example, they added labeled diagrams, a short quiz, and a model showing how pollen moves from flower to flower.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "For example",
+      "B": "However",
+      "C": "Instead",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence gives specific examples of the kinds of materials the display included. The main trap is “However” because the two sentences do not contrast."
+  },
+  {
+    "id": "EN11-047",
+    "prompt": "The principal asked Maya, Jordan, and me to present the student proposal at the meeting.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "I",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The verb “asked” takes an object, so “me” is correct. The main trap is “I” because the subject form does not work here."
+  },
+  {
+    "id": "EN11-048",
+    "prompt": "The volunteers painted signs for the garden path. Because they wanted visitors to find the herb beds easily.\nWhich revision best corrects the underlined sentence?",
+    "choices": {
+      "A": "Because they wanted visitors to find the herb beds easily.",
+      "B": "The volunteers painted signs for the garden path because they wanted visitors to find the herb beds easily.",
+      "C": "Because the herb beds easily wanted visitors to find them.",
+      "D": "Wanting visitors, the signs were painted easily."
+    },
+    "correct": "B",
+    "explanation": "This revision combines the fragment with the first sentence to create one complete, logical sentence. The main trap is “Because they wanted visitors to find the herb beds easily.” because it remains a fragment."
+  },
+  {
+    "id": "EN11-049",
+    "prompt": "The debate team practiced every afternoon for two weeks. As a result, the speakers felt more prepared during the competition.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For instance",
+      "C": "Nevertheless",
+      "D": "Likewise"
+    },
+    "correct": "A",
+    "explanation": "The second sentence shows the consequence of practicing every afternoon. The main trap is “Nevertheless” because the second sentence does not contrast with the first."
+  },
+  {
+    "id": "EN11-050",
+    "prompt": "The art club cleaned the studio, sorted the brushes by size, and stacked the finished canvases against the back wall.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Paint brushes come in many different shapes.",
+      "B": "Some canvases were larger than others.",
+      "C": "By the time the last stool was pushed in, the room looked orderly and ready for the next project.",
+      "D": "Studios often contain shelves, sinks, and storage bins."
+    },
+    "correct": "C",
+    "explanation": "This sentence provides a clear concluding image that reflects the completed cleanup. The main trap is “Some canvases were larger than others.” because it adds a detail without closing the paragraph."
+  }
+]

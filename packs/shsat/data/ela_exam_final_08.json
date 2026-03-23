@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN10-001",
+    "prompt": "Read the passage and answer the question.\nLeah volunteered for the city museum’s weekend family festival because she pictured herself standing near the entrance, handing out maps and answering questions. Instead, Mr. Baines led her down a side corridor to the miniature gallery, where model ships, dollhouse rooms, and tiny painted street scenes sat in glass cases no bigger than aquariums.\nHe handed her a soft brush and pointed to a row of little brass lamps fixed along the edge of a display. “We are not cleaning the models today,” he said. “We are adjusting the lights.”\nLeah tried not to sigh. Across the hall, another group was helping visitors build paper mosaics and stamp souvenir postcards. Here, she was asked to tilt lamps by a few degrees and step back while Mr. Baines studied the shadows. At first every change seemed pointless. But as the morning passed, she began to notice what he noticed. A light placed too high flattened the carved details of a balcony. A light aimed too low threw a harsh glare across a painted window, making the room behind it disappear. When one lamp finally fell at the right angle, the tiny street scene seemed to deepen. Suddenly the doorway looked open, the cobblestones looked uneven, and the whole block seemed almost ready to stir.\nThat afternoon, visitors crowded around the case and leaned close. They praised the careful painting and the realism of the display. No one mentioned the lamps. Leah smiled anyway. She knew that what they admired depended partly on where the light fell.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Museum visitors usually prefer interactive exhibits to glass displays.",
+      "B": "Small behind-the-scenes choices can strongly affect what people are able to appreciate.",
+      "C": "Leah decides that lighting displays is easier than greeting visitors.",
+      "D": "Mr. Baines wishes the museum had fewer miniature exhibits."
+    },
+    "correct": "B",
+    "explanation": "Leah learns that lighting, though mostly unnoticed, changes how viewers see and admire the display. The main trap is “Museum visitors usually prefer interactive exhibits to glass displays.” because that idea is mentioned only in passing, not as the central point."
+  },
+  {
+    "id": "EN10-002",
+    "prompt": "Read the passage and answer the question.\nLeah volunteered for the city museum’s weekend family festival because she pictured herself standing near the entrance, handing out maps and answering questions. Instead, Mr. Baines led her down a side corridor to the miniature gallery, where model ships, dollhouse rooms, and tiny painted street scenes sat in glass cases no bigger than aquariums.\nHe handed her a soft brush and pointed to a row of little brass lamps fixed along the edge of a display. “We are not cleaning the models today,” he said. “We are adjusting the lights.”\nLeah tried not to sigh. Across the hall, another group was helping visitors build paper mosaics and stamp souvenir postcards. Here, she was asked to tilt lamps by a few degrees and step back while Mr. Baines studied the shadows. At first every change seemed pointless. But as the morning passed, she began to notice what he noticed. A light placed too high flattened the carved details of a balcony. A light aimed too low threw a harsh glare across a painted window, making the room behind it disappear. When one lamp finally fell at the right angle, the tiny street scene seemed to deepen. Suddenly the doorway looked open, the cobblestones looked uneven, and the whole block seemed almost ready to stir.\nThat afternoon, visitors crowded around the case and leaned close. They praised the careful painting and the realism of the display. No one mentioned the lamps. Leah smiled anyway. She knew that what they admired depended partly on where the light fell.\nWhat can the reader most reasonably infer about Mr. Baines?",
+    "choices": {
+      "A": "He believes visitors care more about lighting than about the objects on display.",
+      "B": "He values precise presentation because it shapes how viewers experience an exhibit.",
+      "C": "He prefers to work alone rather than with volunteers.",
+      "D": "He is frustrated that the miniature gallery receives too much attention."
+    },
+    "correct": "B",
+    "explanation": "Mr. Baines carefully adjusts the lamps because he knows small shifts change what the audience notices. The main trap is “He believes visitors care more about lighting than about the objects on display.” because the passage suggests visitors notice the result, not the lamps themselves."
+  },
+  {
+    "id": "EN10-003",
+    "prompt": "Read the passage and answer the question.\nLeah volunteered for the city museum’s weekend family festival because she pictured herself standing near the entrance, handing out maps and answering questions. Instead, Mr. Baines led her down a side corridor to the miniature gallery, where model ships, dollhouse rooms, and tiny painted street scenes sat in glass cases no bigger than aquariums.\nHe handed her a soft brush and pointed to a row of little brass lamps fixed along the edge of a display. “We are not cleaning the models today,” he said. “We are adjusting the lights.”\nLeah tried not to sigh. Across the hall, another group was helping visitors build paper mosaics and stamp souvenir postcards. Here, she was asked to tilt lamps by a few degrees and step back while Mr. Baines studied the shadows. At first every change seemed pointless. But as the morning passed, she began to notice what he noticed. A light placed too high flattened the carved details of a balcony. A light aimed too low threw a harsh glare across a painted window, making the room behind it disappear. When one lamp finally fell at the right angle, the tiny street scene seemed to deepen. Suddenly the doorway looked open, the cobblestones looked uneven, and the whole block seemed almost ready to stir.\nThat afternoon, visitors crowded around the case and leaned close. They praised the careful painting and the realism of the display. No one mentioned the lamps. Leah smiled anyway. She knew that what they admired depended partly on where the light fell.\nHow does Leah’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from disappointed to appreciative",
+      "B": "from nervous to embarrassed",
+      "C": "from cheerful to impatient",
+      "D": "from confident to confused"
+    },
+    "correct": "A",
+    "explanation": "Leah begins by wishing for a more visible job and ends feeling proud of the hidden work. The main trap is “from cheerful to impatient” because her attitude moves toward understanding, not frustration."
+  },
+  {
+    "id": "EN10-004",
+    "prompt": "Read the passage and answer the question.\nLeah volunteered for the city museum’s weekend family festival because she pictured herself standing near the entrance, handing out maps and answering questions. Instead, Mr. Baines led her down a side corridor to the miniature gallery, where model ships, dollhouse rooms, and tiny painted street scenes sat in glass cases no bigger than aquariums.\nHe handed her a soft brush and pointed to a row of little brass lamps fixed along the edge of a display. “We are not cleaning the models today,” he said. “We are adjusting the lights.”\nLeah tried not to sigh. Across the hall, another group was helping visitors build paper mosaics and stamp souvenir postcards. Here, she was asked to tilt lamps by a few degrees and step back while Mr. Baines studied the shadows. At first every change seemed pointless. But as the morning passed, she began to notice what he noticed. A light placed too high flattened the carved details of a balcony. A light aimed too low threw a harsh glare across a painted window, making the room behind it disappear. When one lamp finally fell at the right angle, the tiny street scene seemed to deepen. Suddenly the doorway looked open, the cobblestones looked uneven, and the whole block seemed almost ready to stir.\nThat afternoon, visitors crowded around the case and leaned close. They praised the careful painting and the realism of the display. No one mentioned the lamps. Leah smiled anyway. She knew that what they admired depended partly on where the light fell.\nAs used in the passage, the word “flattened” most nearly means",
+    "choices": {
+      "A": "made less detailed and lifelike",
+      "B": "pushed physically downward",
+      "C": "covered completely with dust",
+      "D": "reduced to one object"
+    },
+    "correct": "A",
+    "explanation": "The passage says the wrong lighting “flattened” the carved details, meaning it made them appear less vivid. The main trap is “pushed physically downward” because the effect is visual, not physical."
+  },
+  {
+    "id": "EN10-005",
+    "prompt": "Read the passage and answer the question.\nLeah volunteered for the city museum’s weekend family festival because she pictured herself standing near the entrance, handing out maps and answering questions. Instead, Mr. Baines led her down a side corridor to the miniature gallery, where model ships, dollhouse rooms, and tiny painted street scenes sat in glass cases no bigger than aquariums.\nHe handed her a soft brush and pointed to a row of little brass lamps fixed along the edge of a display. “We are not cleaning the models today,” he said. “We are adjusting the lights.”\nLeah tried not to sigh. Across the hall, another group was helping visitors build paper mosaics and stamp souvenir postcards. Here, she was asked to tilt lamps by a few degrees and step back while Mr. Baines studied the shadows. At first every change seemed pointless. But as the morning passed, she began to notice what he noticed. A light placed too high flattened the carved details of a balcony. A light aimed too low threw a harsh glare across a painted window, making the room behind it disappear. When one lamp finally fell at the right angle, the tiny street scene seemed to deepen. Suddenly the doorway looked open, the cobblestones looked uneven, and the whole block seemed almost ready to stir.\nThat afternoon, visitors crowded around the case and leaned close. They praised the careful painting and the realism of the display. No one mentioned the lamps. Leah smiled anyway. She knew that what they admired depended partly on where the light fell.\nWhich detail best supports the idea that lighting changes how viewers understand the display?",
+    "choices": {
+      "A": "Another group was helping visitors build paper mosaics and stamp souvenir postcards.",
+      "B": "Mr. Baines handed Leah a soft brush at the beginning of the day.",
+      "C": "When one lamp finally fell at the right angle, the tiny street scene seemed to deepen.",
+      "D": "Visitors crowded around the case that afternoon."
+    },
+    "correct": "C",
+    "explanation": "This detail directly shows how the lighting changed what viewers could perceive. The main trap is “Visitors crowded around the case that afternoon.” because that shows interest but not the cause of the effect."
+  },
+  {
+    "id": "EN10-006",
+    "prompt": "Read the passage and answer the question.\nSome cities are installing cool roofs on public buildings to reduce indoor heat and lower energy use. A cool roof is designed to reflect more sunlight and absorb less heat than a conventional roof. Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white. Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.\nHowever, cool roofs are not a perfect solution for every building in every climate. Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives. A roof that performs well in a hot, sunny region may provide less benefit in a cooler place with different seasonal demands. For that reason, cool roofs are most useful when they are chosen as part of a broader plan that considers local conditions and building design.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Cool roofs always eliminate the need for air-conditioning in summer.",
+      "B": "Cool roofs can reduce heat and energy use, but their effectiveness depends on local conditions and building design.",
+      "C": "Cool roofs are useful only when they are painted bright white.",
+      "D": "Every city building should use the same roofing material."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the benefit of cool roofs and the importance of choosing them with context in mind. The main trap is “Cool roofs always eliminate the need for air-conditioning in summer.” because the author never makes such an absolute claim."
+  },
+  {
+    "id": "EN10-007",
+    "prompt": "Read the passage and answer the question.\nSome cities are installing cool roofs on public buildings to reduce indoor heat and lower energy use. A cool roof is designed to reflect more sunlight and absorb less heat than a conventional roof. Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white. Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.\nHowever, cool roofs are not a perfect solution for every building in every climate. Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives. A roof that performs well in a hot, sunny region may provide less benefit in a cooler place with different seasonal demands. For that reason, cool roofs are most useful when they are chosen as part of a broader plan that considers local conditions and building design.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how cool roofs work and why their benefits vary by setting",
+      "B": "to argue that all dark-colored roofs should be banned",
+      "C": "to compare roofing companies in several regions",
+      "D": "to tell the history of public building design"
+    },
+    "correct": "A",
+    "explanation": "The author describes how cool roofs reflect sunlight and why climate and design affect results. The main trap is “to argue that all dark-colored roofs should be banned” because the passage is explanatory, not extreme or argumentative."
+  },
+  {
+    "id": "EN10-008",
+    "prompt": "Read the passage and answer the question.\nSome cities are installing cool roofs on public buildings to reduce indoor heat and lower energy use. A cool roof is designed to reflect more sunlight and absorb less heat than a conventional roof. Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white. Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.\nHowever, cool roofs are not a perfect solution for every building in every climate. Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives. A roof that performs well in a hot, sunny region may provide less benefit in a cooler place with different seasonal demands. For that reason, cool roofs are most useful when they are chosen as part of a broader plan that considers local conditions and building design.\nWhich sentence from the passage best supports the idea that cool roofs can reduce energy use?",
+    "choices": {
+      "A": "Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white.",
+      "B": "Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.",
+      "C": "Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives.",
+      "D": "A roof that performs well in a hot, sunny region may provide less benefit in a cooler place."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly states how cool roofs can lower energy use. The main trap is “Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white.” because it explains materials, not the energy effect itself."
+  },
+  {
+    "id": "EN10-009",
+    "prompt": "Read the passage and answer the question.\nSome cities are installing cool roofs on public buildings to reduce indoor heat and lower energy use. A cool roof is designed to reflect more sunlight and absorb less heat than a conventional roof. Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white. Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.\nHowever, cool roofs are not a perfect solution for every building in every climate. Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives. A roof that performs well in a hot, sunny region may provide less benefit in a cooler place with different seasonal demands. For that reason, cool roofs are most useful when they are chosen as part of a broader plan that considers local conditions and building design.\nAs used in the passage, the word “conventional” most nearly means",
+    "choices": {
+      "A": "ordinary and commonly used",
+      "B": "bright and reflective",
+      "C": "damaged and outdated",
+      "D": "temporary and experimental"
+    },
+    "correct": "A",
+    "explanation": "“Conventional” here means the typical kind of roof being contrasted with a cool roof. The main trap is “temporary and experimental” because the passage does not suggest conventional roofs are unusual or unstable."
+  },
+  {
+    "id": "EN10-010",
+    "prompt": "Read the passage and answer the question.\nSome cities are installing cool roofs on public buildings to reduce indoor heat and lower energy use. A cool roof is designed to reflect more sunlight and absorb less heat than a conventional roof. Some are made with pale coatings, while others use special materials that reflect solar energy even when the roof does not look bright white. Because less heat enters the building below, air-conditioning systems may not need to work as hard during warm weather.\nHowever, cool roofs are not a perfect solution for every building in every climate. Their benefits depend on factors such as local temperatures, roof shape, insulation, and how much sunlight the building receives. A roof that performs well in a hot, sunny region may provide less benefit in a cooler place with different seasonal demands. For that reason, cool roofs are most useful when they are chosen as part of a broader plan that considers local conditions and building design.\nA city wants to lower summer cooling costs in a sunny region. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "choose a cool roof after considering the building’s design and the local climate",
+      "B": "assume every roof in every climate will benefit equally",
+      "C": "select roofing only by color without considering anything else",
+      "D": "avoid reflective materials because they never affect indoor heat"
+    },
+    "correct": "A",
+    "explanation": "The author stresses that cool roofs work best when local conditions and building features are taken into account. The main trap is “assume every roof in every climate will benefit equally” because the passage explicitly says benefits vary."
+  },
+  {
+    "id": "EN10-011",
+    "prompt": "Read the passage and answer the question.\nBefore the school concert, Hana thought helping backstage would mean carrying music stands and handing out programs. Instead, Ms. Corrales led her to the sound booth high above the auditorium seats. Inside, rows of sliders and knobs stretched across a control board like the dashboard of a small spaceship.\n“We’re checking levels,” Ms. Corrales said.\nHana tried to look interested, but she had expected something more visible. While the orchestra tuned below, Ms. Corrales raised one slider, lowered another, and listened through a headset. “Too much,” she murmured after a trumpet burst through the speakers. A moment later she pointed to the violin section. “Now they disappear.” To Hana, the sounds all seemed loud simply because they were happening at once. Yet when Ms. Corrales adjusted the board again, the pieces separated. The trumpet no longer covered the clarinet. The cellos no longer sounded as though they were playing from another room.\nThat night, as families filled the auditorium, the music seemed balanced and clear. No instrument shoved its way to the front unless the score asked it to. The audience applauded the musicians, and Hana joined in gladly. But she also glanced back at the booth, understanding for the first time that harmony in a room full of sound can depend on someone listening for what should not overpower everything else.\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "It compares two different concerts performed by the same orchestra.",
+      "B": "It moves from Hana’s mistaken assumption about the job to her clearer understanding of its importance.",
+      "C": "It lists the parts of the sound board in the order Hana notices them.",
+      "D": "It explains why orchestra members should tune more quietly."
+    },
+    "correct": "B",
+    "explanation": "Hana starts by undervaluing sound work and ends by recognizing how it shapes the performance. The main trap is “It lists the parts of the sound board in the order Hana notices them.” because the passage is driven by change in understanding, not cataloging equipment."
+  },
+  {
+    "id": "EN10-012",
+    "prompt": "Read the passage and answer the question.\nBefore the school concert, Hana thought helping backstage would mean carrying music stands and handing out programs. Instead, Ms. Corrales led her to the sound booth high above the auditorium seats. Inside, rows of sliders and knobs stretched across a control board like the dashboard of a small spaceship.\n“We’re checking levels,” Ms. Corrales said.\nHana tried to look interested, but she had expected something more visible. While the orchestra tuned below, Ms. Corrales raised one slider, lowered another, and listened through a headset. “Too much,” she murmured after a trumpet burst through the speakers. A moment later she pointed to the violin section. “Now they disappear.” To Hana, the sounds all seemed loud simply because they were happening at once. Yet when Ms. Corrales adjusted the board again, the pieces separated. The trumpet no longer covered the clarinet. The cellos no longer sounded as though they were playing from another room.\nThat night, as families filled the auditorium, the music seemed balanced and clear. No instrument shoved its way to the front unless the score asked it to. The audience applauded the musicians, and Hana joined in gladly. But she also glanced back at the booth, understanding for the first time that harmony in a room full of sound can depend on someone listening for what should not overpower everything else.\nWhat can the reader most reasonably infer about Ms. Corrales?",
+    "choices": {
+      "A": "She believes a performance sounds better when each part is heard in the right proportion.",
+      "B": "She prefers electronic music to orchestral music.",
+      "C": "She wants Hana to avoid interacting with the orchestra.",
+      "D": "She thinks the trumpet section practices too much."
+    },
+    "correct": "A",
+    "explanation": "Ms. Corrales adjusts the board so no instrument overwhelms another unless it should. The main trap is “She prefers electronic music to orchestral music.” because there is no comparison between music types."
+  },
+  {
+    "id": "EN10-013",
+    "prompt": "Read the passage and answer the question.\nBefore the school concert, Hana thought helping backstage would mean carrying music stands and handing out programs. Instead, Ms. Corrales led her to the sound booth high above the auditorium seats. Inside, rows of sliders and knobs stretched across a control board like the dashboard of a small spaceship.\n“We’re checking levels,” Ms. Corrales said.\nHana tried to look interested, but she had expected something more visible. While the orchestra tuned below, Ms. Corrales raised one slider, lowered another, and listened through a headset. “Too much,” she murmured after a trumpet burst through the speakers. A moment later she pointed to the violin section. “Now they disappear.” To Hana, the sounds all seemed loud simply because they were happening at once. Yet when Ms. Corrales adjusted the board again, the pieces separated. The trumpet no longer covered the clarinet. The cellos no longer sounded as though they were playing from another room.\nThat night, as families filled the auditorium, the music seemed balanced and clear. No instrument shoved its way to the front unless the score asked it to. The audience applauded the musicians, and Hana joined in gladly. But she also glanced back at the booth, understanding for the first time that harmony in a room full of sound can depend on someone listening for what should not overpower everything else.\nHow does Hana’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from doubtful to respectful",
+      "B": "from anxious to amused",
+      "C": "from proud to impatient",
+      "D": "from cheerful to angry"
+    },
+    "correct": "A",
+    "explanation": "Hana begins by seeing the work as less visible and ends by appreciating its importance. The main trap is “from anxious to amused” because neither feeling accurately captures her main change."
+  },
+  {
+    "id": "EN10-014",
+    "prompt": "Read the passage and answer the question.\nBefore the school concert, Hana thought helping backstage would mean carrying music stands and handing out programs. Instead, Ms. Corrales led her to the sound booth high above the auditorium seats. Inside, rows of sliders and knobs stretched across a control board like the dashboard of a small spaceship.\n“We’re checking levels,” Ms. Corrales said.\nHana tried to look interested, but she had expected something more visible. While the orchestra tuned below, Ms. Corrales raised one slider, lowered another, and listened through a headset. “Too much,” she murmured after a trumpet burst through the speakers. A moment later she pointed to the violin section. “Now they disappear.” To Hana, the sounds all seemed loud simply because they were happening at once. Yet when Ms. Corrales adjusted the board again, the pieces separated. The trumpet no longer covered the clarinet. The cellos no longer sounded as though they were playing from another room.\nThat night, as families filled the auditorium, the music seemed balanced and clear. No instrument shoved its way to the front unless the score asked it to. The audience applauded the musicians, and Hana joined in gladly. But she also glanced back at the booth, understanding for the first time that harmony in a room full of sound can depend on someone listening for what should not overpower everything else.\nAs used in the passage, the word “levels” most nearly means",
+    "choices": {
+      "A": "the floors of the auditorium",
+      "B": "the relative loudness of different sounds",
+      "C": "the difficulty of the music",
+      "D": "the order of the performances"
+    },
+    "correct": "B",
+    "explanation": "In the sound booth, “levels” refers to balancing how loud various instruments are. The main trap is “the floors of the auditorium” because that meaning does not fit the technical context."
+  },
+  {
+    "id": "EN10-015",
+    "prompt": "Read the passage and answer the question.\nBefore the school concert, Hana thought helping backstage would mean carrying music stands and handing out programs. Instead, Ms. Corrales led her to the sound booth high above the auditorium seats. Inside, rows of sliders and knobs stretched across a control board like the dashboard of a small spaceship.\n“We’re checking levels,” Ms. Corrales said.\nHana tried to look interested, but she had expected something more visible. While the orchestra tuned below, Ms. Corrales raised one slider, lowered another, and listened through a headset. “Too much,” she murmured after a trumpet burst through the speakers. A moment later she pointed to the violin section. “Now they disappear.” To Hana, the sounds all seemed loud simply because they were happening at once. Yet when Ms. Corrales adjusted the board again, the pieces separated. The trumpet no longer covered the clarinet. The cellos no longer sounded as though they were playing from another room.\nThat night, as families filled the auditorium, the music seemed balanced and clear. No instrument shoved its way to the front unless the score asked it to. The audience applauded the musicians, and Hana joined in gladly. But she also glanced back at the booth, understanding for the first time that harmony in a room full of sound can depend on someone listening for what should not overpower everything else.\nWhich detail best supports the idea that sound adjustments changed the audience’s experience?",
+    "choices": {
+      "A": "Rows of sliders and knobs stretched across a control board.",
+      "B": "The trumpet no longer covered the clarinet, and the cellos no longer sounded as though they were playing from another room.",
+      "C": "Families filled the auditorium that night.",
+      "D": "Hana had expected to hand out programs."
+    },
+    "correct": "B",
+    "explanation": "This detail shows how the adjustments improved what listeners could hear. The main trap is “Rows of sliders and knobs stretched across a control board.” because it describes equipment, not effect."
+  },
+  {
+    "id": "EN10-016",
+    "prompt": "Read the passage and answer the question.\nSome schools and libraries are creating rain gardens to help manage stormwater on their grounds. A rain garden is a shallow planted area designed to collect water that runs off roofs, sidewalks, or parking lots after it rains. Instead of letting all that water rush directly into storm drains, the garden slows it down so that some can soak into the ground. The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.\nRain gardens are not simply decorative flower beds placed wherever there is extra space. Their location, soil, slope, and plant selection all matter. If water pools too long because the soil drains poorly, the garden may not function as intended. If it is too small, it may overflow during heavy rain. For that reason, rain gardens work best when they are carefully designed for the site where they are built.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Rain gardens are mainly decorative spaces meant to make school grounds prettier.",
+      "B": "Rain gardens can help manage runoff, but they must be designed to fit the conditions of a specific location.",
+      "C": "Rain gardens should replace all storm drains on school grounds.",
+      "D": "Rain gardens succeed only when they contain rare plant species."
+    },
+    "correct": "B",
+    "explanation": "The passage emphasizes both the purpose of rain gardens and the need for careful site-specific planning. The main trap is “Rain gardens should replace all storm drains on school grounds.” because the author does not argue for a total replacement."
+  },
+  {
+    "id": "EN10-017",
+    "prompt": "Read the passage and answer the question.\nSome schools and libraries are creating rain gardens to help manage stormwater on their grounds. A rain garden is a shallow planted area designed to collect water that runs off roofs, sidewalks, or parking lots after it rains. Instead of letting all that water rush directly into storm drains, the garden slows it down so that some can soak into the ground. The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.\nRain gardens are not simply decorative flower beds placed wherever there is extra space. Their location, soil, slope, and plant selection all matter. If water pools too long because the soil drains poorly, the garden may not function as intended. If it is too small, it may overflow during heavy rain. For that reason, rain gardens work best when they are carefully designed for the site where they are built.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what rain gardens do and why their design matters",
+      "B": "to argue that all school grounds should be completely replanted",
+      "C": "to compare the history of gardens in different regions",
+      "D": "to entertain readers with a story about a rainstorm"
+    },
+    "correct": "A",
+    "explanation": "The author defines rain gardens and explains why location, soil, and slope affect their success. The main trap is “to compare the history of gardens in different regions” because the passage is not historical."
+  },
+  {
+    "id": "EN10-018",
+    "prompt": "Read the passage and answer the question.\nSome schools and libraries are creating rain gardens to help manage stormwater on their grounds. A rain garden is a shallow planted area designed to collect water that runs off roofs, sidewalks, or parking lots after it rains. Instead of letting all that water rush directly into storm drains, the garden slows it down so that some can soak into the ground. The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.\nRain gardens are not simply decorative flower beds placed wherever there is extra space. Their location, soil, slope, and plant selection all matter. If water pools too long because the soil drains poorly, the garden may not function as intended. If it is too small, it may overflow during heavy rain. For that reason, rain gardens work best when they are carefully designed for the site where they are built.\nWhich sentence from the passage best supports the idea that a rain garden’s location matters?",
+    "choices": {
+      "A": "The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.",
+      "B": "Their location, soil, slope, and plant selection all matter.",
+      "C": "If it is too small, it may overflow during heavy rain.",
+      "D": "A rain garden is a shallow planted area designed to collect water."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly supports the idea that site conditions influence success. The main trap is “The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.” because it focuses only on plant traits, not location as clearly."
+  },
+  {
+    "id": "EN10-019",
+    "prompt": "Read the passage and answer the question.\nSome schools and libraries are creating rain gardens to help manage stormwater on their grounds. A rain garden is a shallow planted area designed to collect water that runs off roofs, sidewalks, or parking lots after it rains. Instead of letting all that water rush directly into storm drains, the garden slows it down so that some can soak into the ground. The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.\nRain gardens are not simply decorative flower beds placed wherever there is extra space. Their location, soil, slope, and plant selection all matter. If water pools too long because the soil drains poorly, the garden may not function as intended. If it is too small, it may overflow during heavy rain. For that reason, rain gardens work best when they are carefully designed for the site where they are built.\nAs used in the passage, the word “tolerate” most nearly means",
+    "choices": {
+      "A": "require",
+      "B": "survive",
+      "C": "measure",
+      "D": "divide"
+    },
+    "correct": "B",
+    "explanation": "Plants that “tolerate” wet and dry conditions can live through both kinds of conditions. The main trap is “require” because tolerate means endure, not need."
+  },
+  {
+    "id": "EN10-020",
+    "prompt": "Read the passage and answer the question.\nSome schools and libraries are creating rain gardens to help manage stormwater on their grounds. A rain garden is a shallow planted area designed to collect water that runs off roofs, sidewalks, or parking lots after it rains. Instead of letting all that water rush directly into storm drains, the garden slows it down so that some can soak into the ground. The plants chosen for these gardens are often ones that can tolerate both wet conditions and periods of dryness.\nRain gardens are not simply decorative flower beds placed wherever there is extra space. Their location, soil, slope, and plant selection all matter. If water pools too long because the soil drains poorly, the garden may not function as intended. If it is too small, it may overflow during heavy rain. For that reason, rain gardens work best when they are carefully designed for the site where they are built.\nA school wants to add a rain garden near a parking lot. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "choose the site and plants after studying drainage, slope, and how much water may collect there",
+      "B": "place the garden wherever empty space is available without checking the soil",
+      "C": "make the garden as small as possible to save money",
+      "D": "select plants based only on color rather than conditions"
+    },
+    "correct": "A",
+    "explanation": "This choice reflects the passage’s emphasis on design based on site conditions. The main trap is “place the garden wherever empty space is available without checking the soil” because the author warns against that approach."
+  },
+  {
+    "id": "EN10-021",
+    "prompt": "Read the passage and answer the question.\nTomas volunteered at the community radio station because he imagined stepping into the recording booth and speaking into the large silver microphone. Instead, Ms. Chou led him to a table covered with headphones, cables, and a small device with glowing bars that rose and fell in green and yellow.\n“We’re listening for noise,” she said.\nTomas had not expected silence to be part of radio. He had expected voices, music, and the excitement of being on air. But Ms. Chou asked him to sit still while she recorded ten seconds of “nothing.” At first he thought the task was absurd. Then she played it back. Beneath the quiet, he heard the faint buzz of a light fixture, the soft scrape of a chair leg, and a distant rush from the hallway vent. Ms. Chou adjusted the microphone stand, taped one loose cable, and asked for another recording. The room sounded different—not louder, but cleaner, as if the empty space had been swept.\nThat evening, when the interview program began, the speakers’ voices sounded calm and close, without the hiss Tomas had noticed earlier. Listeners would never hear the sounds that had been removed. Yet Tomas now understood that clear speech sometimes begins with careful attention to what should not be heard at all.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Tomas learns that making sound clear often depends on noticing and removing small unwanted noises.",
+      "B": "Radio interviews are easier to produce than Tomas expected.",
+      "C": "Ms. Chou prefers technical work to talking with guests.",
+      "D": "Quiet rooms are more interesting than busy ones."
+    },
+    "correct": "A",
+    "explanation": "Tomas realizes the quality of the broadcast depends on eliminating background noise before recording. The main trap is “Radio interviews are easier to produce than Tomas expected.” because the passage emphasizes hidden effort, not ease."
+  },
+  {
+    "id": "EN10-022",
+    "prompt": "Read the passage and answer the question.\nTomas volunteered at the community radio station because he imagined stepping into the recording booth and speaking into the large silver microphone. Instead, Ms. Chou led him to a table covered with headphones, cables, and a small device with glowing bars that rose and fell in green and yellow.\n“We’re listening for noise,” she said.\nTomas had not expected silence to be part of radio. He had expected voices, music, and the excitement of being on air. But Ms. Chou asked him to sit still while she recorded ten seconds of “nothing.” At first he thought the task was absurd. Then she played it back. Beneath the quiet, he heard the faint buzz of a light fixture, the soft scrape of a chair leg, and a distant rush from the hallway vent. Ms. Chou adjusted the microphone stand, taped one loose cable, and asked for another recording. The room sounded different—not louder, but cleaner, as if the empty space had been swept.\nThat evening, when the interview program began, the speakers’ voices sounded calm and close, without the hiss Tomas had noticed earlier. Listeners would never hear the sounds that had been removed. Yet Tomas now understood that clear speech sometimes begins with careful attention to what should not be heard at all.\nWhat can the reader most reasonably infer about Ms. Chou?",
+    "choices": {
+      "A": "She believes technical problems should be fixed before they distract from the broadcast.",
+      "B": "She prefers recording silence to recording interviews.",
+      "C": "She thinks Tomas should avoid the microphone completely.",
+      "D": "She dislikes the equipment used by the station."
+    },
+    "correct": "A",
+    "explanation": "Ms. Chou tracks down buzzes, scrapes, and hiss because those noises would interfere with the final program. The main trap is “She prefers recording silence to recording interviews.” because silence is only used as a tool to identify problems."
+  },
+  {
+    "id": "EN10-023",
+    "prompt": "Read the passage and answer the question.\nTomas volunteered at the community radio station because he imagined stepping into the recording booth and speaking into the large silver microphone. Instead, Ms. Chou led him to a table covered with headphones, cables, and a small device with glowing bars that rose and fell in green and yellow.\n“We’re listening for noise,” she said.\nTomas had not expected silence to be part of radio. He had expected voices, music, and the excitement of being on air. But Ms. Chou asked him to sit still while she recorded ten seconds of “nothing.” At first he thought the task was absurd. Then she played it back. Beneath the quiet, he heard the faint buzz of a light fixture, the soft scrape of a chair leg, and a distant rush from the hallway vent. Ms. Chou adjusted the microphone stand, taped one loose cable, and asked for another recording. The room sounded different—not louder, but cleaner, as if the empty space had been swept.\nThat evening, when the interview program began, the speakers’ voices sounded calm and close, without the hiss Tomas had noticed earlier. Listeners would never hear the sounds that had been removed. Yet Tomas now understood that clear speech sometimes begins with careful attention to what should not be heard at all.\nHow does Tomas’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from skeptical to impressed",
+      "B": "from cheerful to angry",
+      "C": "from worried to relieved",
+      "D": "from proud to embarrassed"
+    },
+    "correct": "A",
+    "explanation": "Tomas begins by thinking the task is absurd and ends by understanding its value. The main trap is “from worried to relieved” because his shift is about respect and understanding, not anxiety."
+  },
+  {
+    "id": "EN10-024",
+    "prompt": "Read the passage and answer the question.\nTomas volunteered at the community radio station because he imagined stepping into the recording booth and speaking into the large silver microphone. Instead, Ms. Chou led him to a table covered with headphones, cables, and a small device with glowing bars that rose and fell in green and yellow.\n“We’re listening for noise,” she said.\nTomas had not expected silence to be part of radio. He had expected voices, music, and the excitement of being on air. But Ms. Chou asked him to sit still while she recorded ten seconds of “nothing.” At first he thought the task was absurd. Then she played it back. Beneath the quiet, he heard the faint buzz of a light fixture, the soft scrape of a chair leg, and a distant rush from the hallway vent. Ms. Chou adjusted the microphone stand, taped one loose cable, and asked for another recording. The room sounded different—not louder, but cleaner, as if the empty space had been swept.\nThat evening, when the interview program began, the speakers’voices sounded calm and close, without the hiss Tomas had noticed earlier. Listeners would never hear the sounds that had been removed. Yet Tomas now understood that clear speech sometimes begins with careful attention to what should not be heard at all.\nAs used in the passage, the word “absurd” most nearly means",
+    "choices": {
+      "A": "necessary",
+      "B": "strange and unreasonable",
+      "C": "soft and distant",
+      "D": "technical and exact"
+    },
+    "correct": "B",
+    "explanation": "Tomas initially thinks recording “nothing” seems ridiculous, so “absurd” means unreasonable or odd. The main trap is “technical and exact” because that describes Ms. Chou’s work more than Tomas’s initial judgment."
+  },
+  {
+    "id": "EN10-025",
+    "prompt": "Read the passage and answer the question.\nTomas volunteered at the community radio station because he imagined stepping into the recording booth and speaking into the large silver microphone. Instead, Ms. Chou led him to a table covered with headphones, cables, and a small device with glowing bars that rose and fell in green and yellow.\n“We’re listening for noise,” she said.\nTomas had not expected silence to be part of radio. He had expected voices, music, and the excitement of being on air. But Ms. Chou asked him to sit still while she recorded ten seconds of “nothing.” At first he thought the task was absurd. Then she played it back. Beneath the quiet, he heard the faint buzz of a light fixture, the soft scrape of a chair leg, and a distant rush from the hallway vent. Ms. Chou adjusted the microphone stand, taped one loose cable, and asked for another recording. The room sounded different—not louder, but cleaner, as if the empty space had been swept.\nThat evening, when the interview program began, the speakers’ voices sounded calm and close, without the hiss Tomas had noticed earlier. Listeners would never hear the sounds that had been removed. Yet Tomas now understood that clear speech sometimes begins with careful attention to what should not be heard at all.\nWhich detail best supports the idea that removing unwanted sound improved the broadcast?",
+    "choices": {
+      "A": "Ms. Chou led Tomas to a table covered with headphones and cables.",
+      "B": "Tomas had expected to speak into the large silver microphone.",
+      "C": "The speakers’ voices sounded calm and close, without the hiss Tomas had noticed earlier.",
+      "D": "The glowing bars rose and fell in green and yellow."
+    },
+    "correct": "C",
+    "explanation": "This detail shows the improved result after unwanted noise was removed. The main trap is “Ms. Chou led Tomas to a table covered with headphones and cables.” because it only sets the scene."
+  },
+  {
+    "id": "EN10-026",
+    "prompt": "Read the passage and answer the question.\nFloating wetlands are human-made platforms planted with vegetation that rest on the surface of ponds, lakes, or slow-moving waterways. Their roots hang down into the water, where they can absorb nutrients that might otherwise contribute to algae growth. In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.\nThese systems are not simply decorative rafts covered in plants. Their size, placement, and plant choice all affect how well they function. A wetland placed where waves are too strong may break apart, and one planted with the wrong species may do little to improve water quality. For that reason, floating wetlands work best when they are designed with local water conditions and ecological goals in mind.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Floating wetlands are attractive additions to parks but have little practical value.",
+      "B": "Floating wetlands can help improve water quality and habitat, but they must be planned for local conditions.",
+      "C": "Floating wetlands are successful only in fast-moving rivers.",
+      "D": "Any plant species can be used effectively on a floating wetland."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both benefits and the need for careful design based on water and ecological conditions. The main trap is “Floating wetlands are successful only in fast-moving rivers.” because the passage actually mentions slow-moving waterways."
+  },
+  {
+    "id": "EN10-027",
+    "prompt": "Read the passage and answer the question.\nFloating wetlands are human-made platforms planted with vegetation that rest on the surface of ponds, lakes, or slow-moving waterways. Their roots hang down into the water, where they can absorb nutrients that might otherwise contribute to algae growth. In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.\nThese systems are not simply decorative rafts covered in plants. Their size, placement, and plant choice all affect how well they function. A wetland placed where waves are too strong may break apart, and one planted with the wrong species may do little to improve water quality. For that reason, floating wetlands work best when they are designed with local water conditions and ecological goals in mind.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain what floating wetlands do and why they require thoughtful design",
+      "B": "to argue that lakes should never be altered by people",
+      "C": "to describe a trip across a marshy river",
+      "D": "to compare the prices of different water plants"
+    },
+    "correct": "A",
+    "explanation": "The author describes how floating wetlands work and why size, placement, and plant choice matter. The main trap is “to argue that lakes should never be altered by people” because the passage is explanatory, not absolute."
+  },
+  {
+    "id": "EN10-028",
+    "prompt": "Read the passage and answer the question.\nFloating wetlands are human-made platforms planted with vegetation that rest on the surface of ponds, lakes, or slow-moving waterways. Their roots hang down into the water, where they can absorb nutrients that might otherwise contribute to algae growth. In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.\nThese systems are not simply decorative rafts covered in plants. Their size, placement, and plant choice all affect how well they function. A wetland placed where waves are too strong may break apart, and one planted with the wrong species may do little to improve water quality. For that reason, floating wetlands work best when they are designed with local water conditions and ecological goals in mind.\nWhich sentence from the passage best supports the idea that floating wetlands may benefit animals?",
+    "choices": {
+      "A": "Their roots hang down into the water.",
+      "B": "In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.",
+      "C": "Their size, placement, and plant choice all affect how well they function.",
+      "D": "A wetland placed where waves are too strong may break apart."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly states the wildlife benefit. The main trap is “Their roots hang down into the water.” because that detail alone does not fully express the habitat function."
+  },
+  {
+    "id": "EN10-029",
+    "prompt": "Read the passage and answer the question.\nFloating wetlands are human-made platforms planted with vegetation that rest on the surface of ponds, lakes, or slow-moving waterways. Their roots hang down into the water, where they can absorb nutrients that might otherwise contribute to algae growth. In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.\nThese systems are not simply decorative rafts covered in plants. Their size, placement, and plant choice all affect how well they function. A wetland placed where waves are too strong may break apart, and one planted with the wrong species may do little to improve water quality. For that reason, floating wetlands work best when they are designed with local water conditions and ecological goals in mind.\nAs used in the passage, the word “contribute” most nearly means",
+    "choices": {
+      "A": "add to",
+      "B": "hide from",
+      "C": "grow beneath",
+      "D": "remove entirely"
+    },
+    "correct": "A",
+    "explanation": "Nutrients “contribute” to algae growth by helping cause or increase it. The main trap is “remove entirely” because that is the opposite meaning."
+  },
+  {
+    "id": "EN10-030",
+    "prompt": "Read the passage and answer the question.\nFloating wetlands are human-made platforms planted with vegetation that rest on the surface of ponds, lakes, or slow-moving waterways. Their roots hang down into the water, where they can absorb nutrients that might otherwise contribute to algae growth. In some places, floating wetlands are also used to provide habitat for insects, fish, and birds while adding shade to the water below.\nThese systems are not simply decorative rafts covered in plants. Their size, placement, and plant choice all affect how well they function. A wetland placed where waves are too strong may break apart, and one planted with the wrong species may do little to improve water quality. For that reason, floating wetlands work best when they are designed with local water conditions and ecological goals in mind.\nA town wants to place floating wetlands in a calm pond near a park. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "choose plant species and platform placement after considering local water conditions and goals for the pond",
+      "B": "use any available plants since all species will work the same way",
+      "C": "place the wetlands in the roughest water to increase movement",
+      "D": "treat the wetlands only as decoration and ignore water quality"
+    },
+    "correct": "A",
+    "explanation": "The author says floating wetlands work best when designed for local conditions and intended ecological purposes. The main trap is “use any available plants since all species will work the same way” because the passage explicitly rejects that idea."
+  },
+  {
+    "id": "EN10-031",
+    "prompt": "The student newspaper is creating a special issue for incoming students. Editors drafted a list of topics they also interviewed older students about which articles would be the most useful during the first week of school.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Editors drafted a list of topics, they also interviewed older students about which articles would be the most useful during the first week of school.",
+      "B": "Editors drafted a list of topics and also interviewed older students about which articles would be the most useful during the first week of school.",
+      "C": "Editors drafted a list of topics; also interviewing older students about which articles would be the most useful during the first week of school.",
+      "D": "Editors drafted a list of topics because also interviewed older students about which articles would be the most useful during the first week of school."
+    },
+    "correct": "B",
+    "explanation": "This revision correctly joins the two actions without creating a comma splice. The main trap is “Editors drafted a list of topics, they also interviewed older students about which articles would be the most useful during the first week of school.” because it incorrectly links two complete thoughts with just a comma."
+  },
+  {
+    "id": "EN10-032",
+    "prompt": "Before the final draft was printed, each editor and student reporters were asked to review every page.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each editor and student reporters was asked to review every page",
+      "B": "each editor and student reporters were being asked to review every page",
+      "C": "each editor and student reporters were asked to review every page",
+      "D": "each editor and student reporters ask to review every page"
+    },
+    "correct": "C",
+    "explanation": "The subject combines “editor” and “student reporters,” so the plural verb “were” is needed. The main trap is “each editor and student reporters was asked to review every page” because the singular verb does not agree with the compound subject."
+  },
+  {
+    "id": "EN10-033",
+    "prompt": "The first version of the paper included too many announcements on the front page. As a result, the editors moved some items inside and added a clearer headline.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence shows the consequence of the crowded front page in the first sentence. The main trap is “For example” because the second sentence is not an example but an outcome."
+  },
+  {
+    "id": "EN10-034",
+    "prompt": "The student newspaper is creating a special issue for incoming students. Editors drafted a list of topics and also interviewed older students about which articles would be the most useful during the first week of school. Before the final draft was printed, each editor and student reporters were asked to review every page. The first version of the paper included too many announcements on the front page. As a result, the editors moved some items inside and added a clearer headline. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Newspapers can be printed on different sizes of paper.",
+      "B": "Now the editors feel more confident that new students will find the issue welcoming, clear, and easy to use.",
+      "C": "Headlines often appear in larger type than the rest of an article.",
+      "D": "Many students enjoy reading about sports and clubs."
+    },
+    "correct": "B",
+    "explanation": "This sentence best concludes the paragraph by tying the revisions to the project’s goal. The main trap is “Headlines often appear in larger type than the rest of an article.” because it gives a general fact, not a conclusion."
+  },
+  {
+    "id": "EN10-035",
+    "prompt": "The orchestra gathered onstage for the spring performance. Holding a violin, the opening solo was played by Elena near the center microphone.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Holding a violin, Elena played the opening solo near the center microphone.",
+      "B": "The opening solo, holding a violin, was played by Elena near the center microphone.",
+      "C": "Holding a violin, the center microphone carried Elena’s opening solo.",
+      "D": "Elena, the opening solo was played near the center microphone holding a violin."
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the dangling modifier by placing Elena directly after the opening phrase. The main trap is “The opening solo, holding a violin, was played by Elena near the center microphone.” because the solo cannot hold the violin."
+  },
+  {
+    "id": "EN10-036",
+    "prompt": "Visitors attending the workshop should sign in at the front table before entering the auditorium. They should also silence phones before the presentation begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Visitors attending the workshop should also silence phones before the presentation begins.",
+      "B": "Phones should also silence before the presentation begins.",
+      "C": "It should also silence phones before the presentation begins.",
+      "D": "They should also do that before the presentation begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly states who should take the action. The main trap is “They should also do that before the presentation begins.” because “do that” is vague."
+  },
+  {
+    "id": "EN10-037",
+    "prompt": "(1) The local park will host a free Saturday walk on native tree species. (2) Participants will learn how to identify bark patterns, leaf shapes, and seed pods. (3) The walk begins at 9:00 a.m. near the north gate. (4) Registration is recommended because space is limited.\nThe writer wants to add the following sentence:\nChildren should attend with an adult.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The information about children attending with an adult belongs right after the event is introduced so readers see it early. The main trap is “After sentence 4.” because it places an important participation rule too late."
+  },
+  {
+    "id": "EN10-038",
+    "prompt": "Please bring three items a notebook, sturdy shoes, and a water bottle to the walk.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a notebook, sturdy shoes, and a water bottle",
+      "B": "items: a notebook, sturdy shoes, and a water bottle",
+      "C": "items; a notebook, sturdy shoes, and a water bottle",
+      "D": "items a notebook, sturdy shoes, and a water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon properly introduces a list after a complete clause. The main trap is “items, a notebook, sturdy shoes, and a water bottle” because a comma is not strong enough for that job."
+  },
+  {
+    "id": "EN10-039",
+    "prompt": "Last spring our class visited the botanical garden. One guide explain how the greenhouse controls temperature and moisture.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Last spring” signals past tense, so “explained” is correct. The main trap is “explains” because it shifts the sentence to present tense."
+  },
+  {
+    "id": "EN10-040",
+    "prompt": "The gray whale a powerful swimmer in cold ocean waters can travel thousands of miles during migration.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The gray whale, a powerful swimmer in cold ocean waters, can travel thousands of miles during migration.",
+      "B": "The gray whale a powerful swimmer in cold ocean waters can travel thousands of miles during migration.",
+      "C": "The gray whale, a powerful swimmer in cold ocean waters can travel, thousands of miles during migration.",
+      "D": "The gray whale a powerful swimmer in cold ocean waters, can travel thousands of miles during migration."
+    },
+    "correct": "A",
+    "explanation": "The descriptive phrase is nonessential and should be set off with commas. The main trap is “The gray whale a powerful swimmer in cold ocean waters can travel thousands of miles during migration.” because it omits needed punctuation."
+  },
+  {
+    "id": "EN10-041",
+    "prompt": "During long dry months, some desert plants can do water in their thick stems for later use.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "erase",
+      "C": "flatten",
+      "D": "borrow"
+    },
+    "correct": "A",
+    "explanation": "Desert plants keep water in their stems for later use, so “store” is the best replacement. The main trap is “borrow” because the sentence is about retaining water, not getting it temporarily."
+  },
+  {
+    "id": "EN10-042",
+    "prompt": "Original sentences:\nThe bus reached the museum late. The students still had enough time to complete the scavenger hunt.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the bus reached the museum late, the students still had enough time to complete the scavenger hunt.",
+      "B": "The bus reached the museum late, the students still had enough time to complete the scavenger hunt.",
+      "C": "The students still had enough time to complete the scavenger hunt, the bus reached the museum late.",
+      "D": "Reached the museum late, the bus and the students still had enough time to complete the scavenger hunt."
+    },
+    "correct": "A",
+    "explanation": "This version combines the ideas smoothly and shows contrast clearly. The main trap is “The bus reached the museum late, the students still had enough time to complete the scavenger hunt.” because it is a comma splice."
+  },
+  {
+    "id": "EN10-043",
+    "prompt": "The school media room lets students edit interviews, designing posters, and to create short documentaries.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "edit interviews, design posters, and create short documentaries",
+      "B": "edit interviews, designing posters, and creating short documentaries",
+      "C": "to edit interviews, design posters, and creating short documentaries",
+      "D": "edit interviews, to design posters, and create short documentaries"
+    },
+    "correct": "A",
+    "explanation": "The revision fixes the parallel structure by using three matching verbs. The main trap is “edit interviews, designing posters, and to create short documentaries” because it mixes verb forms."
+  },
+  {
+    "id": "EN10-044",
+    "prompt": "Some students think strong research writing is mostly about collecting facts. However, effective papers also depend on organization, analysis, and clear explanation.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For example",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts with the belief stated in the first, so “However” is the best transition. The main trap is “Likewise” because the two sentences are not similar in meaning."
+  },
+  {
+    "id": "EN10-045",
+    "prompt": "After reviewing family feedback for several weeks, a revised dismissal plan was proposed by the principal and office staff.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and office staff proposed a revised dismissal plan",
+      "B": "a revised dismissal plan, proposed by the principal and office staff",
+      "C": "the proposal of a revised dismissal plan by the principal and office staff",
+      "D": "a revised dismissal plan was being proposed by the principal and office staff"
+    },
+    "correct": "A",
+    "explanation": "This revision places the people who reviewed the feedback directly after the introductory phrase, fixing the misplaced modifier. The main trap is “a revised dismissal plan, proposed by the principal and office staff” because it is only a fragment."
+  },
+  {
+    "id": "EN10-046",
+    "prompt": "A student is ending a speech that argues for adding more benches outside the school library. The final sentence currently reads: “More benches would be nice.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Benches are often made from wood or metal.",
+      "B": "Adding more benches outside the library would give students a comfortable place to read, wait, and work together before and after school.",
+      "C": "The library is located near the front courtyard.",
+      "D": "More benches would be placed there."
+    },
+    "correct": "B",
+    "explanation": "This revision is the most persuasive because it explains specific benefits for students. The main trap is “Benches are often made from wood or metal.” because it provides an irrelevant fact rather than support."
+  },
+  {
+    "id": "EN10-047",
+    "prompt": "Coach Daniels handed the practice forms to Ava and I before the meet.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective case “me” is correct. The main trap is “myself” because a reflexive pronoun is not needed."
+  },
+  {
+    "id": "EN10-048",
+    "prompt": "Jules shouted \"Careful!\" when the stack of boxes tipped toward the paint table.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "shouted, \"Careful!\"",
+      "B": "shouted \"Careful\"!",
+      "C": "shouted; \"Careful!\"",
+      "D": "shouted: \"Careful\","
+    },
+    "correct": "A",
+    "explanation": "A comma correctly introduces the quotation, and the exclamation point belongs inside the quotation marks. The main trap is “shouted \"Careful\"!” because the punctuation is misplaced."
+  },
+  {
+    "id": "EN10-049",
+    "prompt": "We searched the equipment shelf for several minutes. Finally, Nora found the missing extension cord behind the speaker case.\nWhich transition best replaces the underlined word?",
+    "choices": {
+      "A": "Finally",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "“Finally” fits because Nora found the cord after several minutes of searching. The main trap is “Instead” because there is no contrast between the two sentences."
+  },
+  {
+    "id": "EN10-050",
+    "prompt": "By the end of the volunteer afternoon, the reading garden had been weeded, the benches had been wiped clean, and the gravel path had been raked smooth again.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Gravel paths need regular care in outdoor spaces.",
+      "B": "The benches sit beneath two flowering trees near the fence.",
+      "C": "As the volunteers stacked their gloves by the gate, the whole garden seemed ready for quiet visitors once more.",
+      "D": "Many gardens include both flowers and shrubs."
+    },
+    "correct": "C",
+    "explanation": "This sentence gives the paragraph a satisfying close by reflecting the result of the work. The main trap is “The benches sit beneath two flowering trees near the fence.” because it adds detail without concluding the scene."
+  }
+]

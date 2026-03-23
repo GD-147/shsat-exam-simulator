@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN2-001",
+    "prompt": "Read the passage and answer the question.\nMateo had imagined himself marching at the front of the spring parade, one hand on the pole of the giant dragon kite. Instead, Aunt Celia led him to a folding table at the edge of the field and set down a tin of glue, a spool of thread, and a stack of tissue paper. “Repairs,” she said, as if she were handing him a medal.\nAt first Mateo watched the parade preparations with a sore kind of envy. Runners tested their kites against the wind, and the bright sails snapped overhead. But people kept approaching the table with split bamboo ribs, torn corners, and loose tails. Aunt Celia treated each problem as if it were ordinary and important at the same time. Her fingers moved quickly, though never carelessly. “A kite stays up because every weak place is noticed,” she said.\nBy late afternoon, Mateo could patch a tear so neatly that the paper looked stronger than before. Just before the parade began, the giant dragon kite arrived with a rip in one painted wing. Mateo and Aunt Celia bent over it together, smoothing the tissue until the scales lined up again. When the dragon finally rose, the crowd cheered. Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Large kites are harder to fly than small kites.",
+      "B": "Work that seems unimportant at first can be essential to success.",
+      "C": "Parades are more enjoyable for people who prepare them than for the crowd.",
+      "D": "Mateo should have been allowed to march at the front of the parade."
+    },
+    "correct": "B",
+    "explanation": "Mateo learns that the repair table, though overlooked, helps the entire parade succeed. The main trap is choice D, which focuses only on his disappointment instead of the lesson he learns."
+  },
+  {
+    "id": "EN2-002",
+    "prompt": "Read the passage and answer the question.\nMateo had imagined himself marching at the front of the spring parade, one hand on the pole of the giant dragon kite. Instead, Aunt Celia led him to a folding table at the edge of the field and set down a tin of glue, a spool of thread, and a stack of tissue paper. “Repairs,” she said, as if she were handing him a medal.\nAt first Mateo watched the parade preparations with a sore kind of envy. Runners tested their kites against the wind, and the bright sails snapped overhead. But people kept approaching the table with split bamboo ribs, torn corners, and loose tails. Aunt Celia treated each problem as if it were ordinary and important at the same time. Her fingers moved quickly, though never carelessly. “A kite stays up because every weak place is noticed,” she said.\nBy late afternoon, Mateo could patch a tear so neatly that the paper looked stronger than before. Just before the parade began, the giant dragon kite arrived with a rip in one painted wing. Mateo and Aunt Celia bent over it together, smoothing the tissue until the scales lined up again. When the dragon finally rose, the crowd cheered. Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.\nWhat can the reader most reasonably infer about Aunt Celia?",
+    "choices": {
+      "A": "She prefers repairing kites because she is afraid to fly them.",
+      "B": "She believes careful preparation matters as much as public attention.",
+      "C": "She only trusts adults to handle the largest kites.",
+      "D": "She secretly wishes the parade would be canceled."
+    },
+    "correct": "B",
+    "explanation": "Aunt Celia treats repairs as “ordinary and important,” showing she values behind-the-scenes work. The main trap is choice A, which invents fear that the passage never suggests."
+  },
+  {
+    "id": "EN2-003",
+    "prompt": "Read the passage and answer the question.\nMateo had imagined himself marching at the front of the spring parade, one hand on the pole of the giant dragon kite. Instead, Aunt Celia led him to a folding table at the edge of the field and set down a tin of glue, a spool of thread, and a stack of tissue paper. “Repairs,” she said, as if she were handing him a medal.\nAt first Mateo watched the parade preparations with a sore kind of envy. Runners tested their kites against the wind, and the bright sails snapped overhead. But people kept approaching the table with split bamboo ribs, torn corners, and loose tails. Aunt Celia treated each problem as if it were ordinary and important at the same time. Her fingers moved quickly, though never carelessly. “A kite stays up because every weak place is noticed,” she said.\nBy late afternoon, Mateo could patch a tear so neatly that the paper looked stronger than before. Just before the parade began, the giant dragon kite arrived with a rip in one painted wing. Mateo and Aunt Celia bent over it together, smoothing the tissue until the scales lined up again. When the dragon finally rose, the crowd cheered. Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.\nWhich word best describes the narrator’s tone toward the repair work?",
+    "choices": {
+      "A": "mocking",
+      "B": "impatient",
+      "C": "respectful",
+      "D": "doubtful"
+    },
+    "correct": "C",
+    "explanation": "The narrator presents the repair work as skillful and meaningful rather than dull or silly. The main trap is choice B, because the passage slows down to admire the care involved."
+  },
+  {
+    "id": "EN2-004",
+    "prompt": "Read the passage and answer the question.\nMateo had imagined himself marching at the front of the spring parade, one hand on the pole of the giant dragon kite. Instead, Aunt Celia led him to a folding table at the edge of the field and set down a tin of glue, a spool of thread, and a stack of tissue paper. “Repairs,” she said, as if she were handing him a medal.\nAt first Mateo watched the parade preparations with a sore kind of envy. Runners tested their kites against the wind, and the bright sails snapped overhead. But people kept approaching the table with split bamboo ribs, torn corners, and loose tails. Aunt Celia treated each problem as if it were ordinary and important at the same time. Her fingers moved quickly, though never carelessly. “A kite stays up because every weak place is noticed,” she said.\nBy late afternoon, Mateo could patch a tear so neatly that the paper looked stronger than before. Just before the parade began, the giant dragon kite arrived with a rip in one painted wing. Mateo and Aunt Celia bent over it together, smoothing the tissue until the scales lined up again. When the dragon finally rose, the crowd cheered. Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.\nAs used in the passage, the phrase “a sore kind of envy” most nearly suggests that Mateo felt",
+    "choices": {
+      "A": "mildly amused",
+      "B": "quietly jealous",
+      "C": "deeply embarrassed",
+      "D": "completely confused"
+    },
+    "correct": "B",
+    "explanation": "Mateo envies the people preparing to march with the kites. The main trap is choice C, because he is disappointed, not ashamed."
+  },
+  {
+    "id": "EN2-005",
+    "prompt": "Read the passage and answer the question.\nMateo had imagined himself marching at the front of the spring parade, one hand on the pole of the giant dragon kite. Instead, Aunt Celia led him to a folding table at the edge of the field and set down a tin of glue, a spool of thread, and a stack of tissue paper. “Repairs,” she said, as if she were handing him a medal.\nAt first Mateo watched the parade preparations with a sore kind of envy. Runners tested their kites against the wind, and the bright sails snapped overhead. But people kept approaching the table with split bamboo ribs, torn corners, and loose tails. Aunt Celia treated each problem as if it were ordinary and important at the same time. Her fingers moved quickly, though never carelessly. “A kite stays up because every weak place is noticed,” she said.\nBy late afternoon, Mateo could patch a tear so neatly that the paper looked stronger than before. Just before the parade began, the giant dragon kite arrived with a rip in one painted wing. Mateo and Aunt Celia bent over it together, smoothing the tissue until the scales lined up again. When the dragon finally rose, the crowd cheered. Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.\nWhich detail best supports the idea that Mateo’s view of the repair table changes?",
+    "choices": {
+      "A": "Runners tested their kites against the wind.",
+      "B": "Aunt Celia led him to a folding table at the edge of the field.",
+      "C": "Mateo looked at the repair table, now littered with scraps and thread, and understood that the parade had lifted from there too.",
+      "D": "The bright sails snapped overhead."
+    },
+    "correct": "C",
+    "explanation": "This line directly shows his new understanding of the table’s importance. The main trap is choice A, which only describes the parade activity he envies at first."
+  },
+  {
+    "id": "EN2-006",
+    "prompt": "Read the passage and answer the question.\nWhen beavers build dams across streams, the result may look messy to people who expect water to move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians. By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture. That can help landscapes stay greener during dry periods. The dams also trap sediment that would otherwise wash downstream.\nStill, beavers are not automatically welcome everywhere. A dam built near a road or farm field can flood places people need to keep dry. For that reason, some communities install “flow devices,” which are pipes or channels that let some water pass through a dam without removing it entirely. These systems do not solve every problem, but they can reduce conflict. Rather than seeing beavers only as pests or only as heroes, many land managers now view them as powerful landscape builders whose work sometimes needs careful guidance.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Beaver dams are harmful because they always cause flooding.",
+      "B": "Beaver dams can benefit ecosystems, but people sometimes need to manage their effects.",
+      "C": "Wetlands exist only in places where beavers have lived for many years.",
+      "D": "Land managers should remove every beaver dam near a stream."
+    },
+    "correct": "B",
+    "explanation": "The passage balances the environmental benefits of dams with the practical need to reduce flooding in some places. The main trap is choice A, which ignores the many benefits described."
+  },
+  {
+    "id": "EN2-007",
+    "prompt": "Read the passage and answer the question.\nWhen beavers build dams across streams, the result may look messy to people who expect water to move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians. By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture. That can help landscapes stay greener during dry periods. The dams also trap sediment that would otherwise wash downstream.\nStill, beavers are not automatically welcome everywhere. A dam built near a road or farm field can flood places people need to keep dry. For that reason, some communities install “flow devices,” which are pipes or channels that let some water pass through a dam without removing it entirely. These systems do not solve every problem, but they can reduce conflict. Rather than seeing beavers only as pests or only as heroes, many land managers now view them as powerful landscape builders whose work sometimes needs careful guidance.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain both the benefits and challenges of beaver dams",
+      "B": "to persuade readers to build artificial dams in every stream",
+      "C": "to tell a story about one community’s wildlife project",
+      "D": "to prove that wetlands are more useful than forests"
+    },
+    "correct": "A",
+    "explanation": "The author presents a balanced explanation rather than arguing for one extreme view. The main trap is choice B, which goes beyond the passage and turns it into an argument."
+  },
+  {
+    "id": "EN2-008",
+    "prompt": "Read the passage and answer the question.\nWhen beavers build dams across streams, the result may look messy to people who expect water to move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians. By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture. That can help landscapes stay greener during dry periods. The dams also trap sediment that would otherwise wash downstream.\nStill, beavers are not automatically welcome everywhere. A dam built near a road or farm field can flood places people need to keep dry. For that reason, some communities install “flow devices,” which are pipes or channels that let some water pass through a dam without removing it entirely. These systems do not solve every problem, but they can reduce conflict. Rather than seeing beavers only as pests or only as heroes, many land managers now view them as powerful landscape builders whose work sometimes needs careful guidance.\nWhich sentence from the passage best supports the idea that beaver dams can help during droughts?",
+    "choices": {
+      "A": "In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians.",
+      "B": "By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture.",
+      "C": "A dam built near a road or farm field can flood places people need to keep dry.",
+      "D": "These systems do not solve every problem, but they can reduce conflict."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly connects beaver dams to keeping landscapes wetter during dry times. The main trap is choice A, which describes habitat support but not drought help specifically."
+  },
+  {
+    "id": "EN2-009",
+    "prompt": "Read the passage and answer the question.\nWhen beavers build dams across streams, the result may look messy to people who expect water to move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians. By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture. That can help landscapes stay greener during dry periods. The dams also trap sediment that would otherwise wash downstream.\nStill, beavers are not automatically welcome everywhere. A dam built near a road or farm field can flood places people need to keep dry. For that reason, some communities install “flow devices,” which are pipes or channels that let some water pass through a dam without removing it entirely. These systems do not solve every problem, but they can reduce conflict. Rather than seeing beavers only as pests or only as heroes, many land managers now view them as powerful landscape builders whose work sometimes needs careful guidance.\nAs used in the passage, the word “sediment” most nearly means",
+    "choices": {
+      "A": "loose material carried by water",
+      "B": "deep holes in the streambed",
+      "C": "wild animals near the dam",
+      "D": "plants growing underwater"
+    },
+    "correct": "A",
+    "explanation": "In context, sediment is the material that would otherwise wash downstream. The main trap is choice D, which confuses sediment with living plants."
+  },
+  {
+    "id": "EN2-010",
+    "prompt": "Read the passage and answer the question.\nWhen beavers build dams across streams, the result may look messy to people who expect water to move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, move in a straight, tidy channel. In fact, those dams often create ponds and wetlands that support fish, insects, birds, and amphibians. By slowing water, beaver dams can reduce erosion and allow the ground nearby to store more moisture. That can help landscapes stay greener during dry periods. The dams also trap sediment that would otherwise wash downstream.\nStill, beavers are not automatically welcome everywhere. A dam built near a road or farm field can flood places people need to keep dry. For that reason, some communities install “flow devices,” which are pipes or channels that let some water pass through a dam without removing it entirely. These systems do not solve every problem, but they can reduce conflict. Rather than seeing beavers only as pests or only as heroes, many land managers now view them as powerful landscape builders whose work sometimes needs careful guidance.\nWhich situation would best apply the ideas in the passage?",
+    "choices": {
+      "A": "removing all plant life from the banks of a stream",
+      "B": "destroying a beaver dam immediately, without checking where it is located",
+      "C": "using a pipe system to reduce flooding while keeping a useful wetland in place",
+      "D": "straightening a stream so that no water ever slows down"
+    },
+    "correct": "C",
+    "explanation": "This matches the passage’s discussion of flow devices that manage water without removing the dam entirely. The main trap is choice B, which ignores the passage’s emphasis on careful guidance rather than automatic removal."
+  },
+  {
+    "id": "EN2-011",
+    "prompt": "Read the passage and answer the question.\nHana had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes. She planned to stand beside her model lighthouse, speak clearly for three minutes, and point to the tiny mirror she had built from foil. Then, ten minutes before the judges arrived, the power went out.\nThe gym fell into a strange gray dimness. A few younger students gasped. Someone laughed nervously from across the room. Hana felt her memorized sentences scatter like papers in the wind. But the emergency lights clicked on, and the top of her lighthouse still turned when she aimed a flashlight at its small motor. Without thinking much about it, she invited the judges to step closer. She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.\nBy the time the regular lights returned, her note cards were still tucked in her pocket. The judges were asking questions, and Hana was answering them easily. On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right. Now she wondered whether it had more to do with having something real to show.\nHow does Hana’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from relaxed to bored",
+      "B": "from prepared but rigid to flexible and confident",
+      "C": "from curious to disappointed",
+      "D": "from proud to embarrassed"
+    },
+    "correct": "B",
+    "explanation": "Hana begins by relying on memorization and ends by responding naturally and successfully. The main trap is choice D, because she does not end embarrassed."
+  },
+  {
+    "id": "EN2-012",
+    "prompt": "Read the passage and answer the question.\nHana had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes. She planned to stand beside her model lighthouse, speak clearly for three minutes, and point to the tiny mirror she had built from foil. Then, ten minutes before the judges arrived, the power went out.\nThe gym fell into a strange gray dimness. A few younger students gasped. Someone laughed nervously from across the room. Hana felt her memorized sentences scatter like papers in the wind. But the emergency lights clicked on, and the top of her lighthouse still turned when she aimed a flashlight at its small motor. Without thinking much about it, she invited the judges to step closer. She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.\nBy the time the regular lights returned, her note cards were still tucked in her pocket. The judges were asking questions, and Hana was answering them easily. On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right. Now she wondered whether it had more to do with having something real to show.\nHow is the passage mainly organized?",
+    "choices": {
+      "A": "It compares two different history projects and explains why one wins.",
+      "B": "It presents a problem, shows Hana’s response, and then reflects on what she learns.",
+      "C": "It describes the history of lighthouses in order from oldest to newest.",
+      "D": "It lists several tips for giving a speech during an emergency."
+    },
+    "correct": "B",
+    "explanation": "The power outage creates the problem, the flashlight demonstration is her response, and the bus ride shows her reflection. The main trap is choice A, since there is only one project and no competition is described."
+  },
+  {
+    "id": "EN2-013",
+    "prompt": "Read the passage and answer the question.\nHana had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes. She planned to stand beside her model lighthouse, speak clearly for three minutes, and point to the tiny mirror she had built from foil. Then, ten minutes before the judges arrived, the power went out.\nThe gym fell into a strange gray dimness. A few younger students gasped. Someone laughed nervously from across the room. Hana felt her memorized sentences scatter like papers in the wind. But the emergency lights clicked on, and the top of her lighthouse still turned when she aimed a flashlight at its small motor. Without thinking much about it, she invited the judges to step closer. She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.\nBy the time the regular lights returned, her note cards were still tucked in her pocket. The judges were asking questions, and Hana was answering them easily. On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right. Now she wondered whether it had more to do with having something real to show.\nWhat can the reader most reasonably infer about why the judges step closer?",
+    "choices": {
+      "A": "They cannot hear Hana because she is whispering.",
+      "B": "They are told to stand in a marked spot near every project.",
+      "C": "Hana’s demonstration makes the project more engaging in the dim light.",
+      "D": "They want to leave quickly before the power goes out again."
+    },
+    "correct": "C",
+    "explanation": "Her use of the flashlight turns the setback into an effective visual explanation. The main trap is choice A, because nothing suggests she is too quiet to hear."
+  },
+  {
+    "id": "EN2-014",
+    "prompt": "Read the passage and answer the question.\nHana had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes. She planned to stand beside her model lighthouse, speak clearly for three minutes, and point to the tiny mirror she had built from foil. Then, ten minutes before the judges arrived, the power went out.\nThe gym fell into a strange gray dimness. A few younger students gasped. Someone laughed nervously from across the room. Hana felt her memorized sentences scatter like papers in the wind. But the emergency lights clicked on, and the top of her lighthouse still turned when she aimed a flashlight at its small motor. Without thinking much about it, she invited the judges to step closer. She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.\nBy the time the regular lights returned, her note cards were still tucked in her pocket. The judges were asking questions, and Hana was answering them easily. On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right. Now she wondered whether it had more to do with having something real to show.\nAs used in the passage, the phrase “scatter like papers in the wind” suggests that Hana’s memorized sentences",
+    "choices": {
+      "A": "became easier to remember",
+      "B": "seemed to disappear from her mind",
+      "C": "were written on loose cards",
+      "D": "sounded more dramatic than before"
+    },
+    "correct": "B",
+    "explanation": "The simile shows that her memorized lines suddenly feel lost when the situation changes. The main trap is choice C, which takes the figurative language too literally."
+  },
+  {
+    "id": "EN2-015",
+    "prompt": "Read the passage and answer the question.\nHana had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes. She planned to stand beside her model lighthouse, speak clearly for three minutes, and point to the tiny mirror she had built from foil. Then, ten minutes before the judges arrived, the power went out.\nThe gym fell into a strange gray dimness. A few younger students gasped. Someone laughed nervously from across the room. Hana felt her memorized sentences scatter like papers in the wind. But the emergency lights clicked on, and the top of her lighthouse still turned when she aimed a flashlight at its small motor. Without thinking much about it, she invited the judges to step closer. She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.\nBy the time the regular lights returned, her note cards were still tucked in her pocket. The judges were asking questions, and Hana was answering them easily. On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right. Now she wondered whether it had more to do with having something real to show.\nWhich detail best supports the idea that Hana succeeds by adapting instead of following her original plan?",
+    "choices": {
+      "A": "She had practiced her history fair speech until she could say it while brushing her teeth and tying her shoes.",
+      "B": "A few younger students gasped.",
+      "C": "She swept the beam across the model harbor and explained how the light warned ships away from rocks when storms erased the shoreline.",
+      "D": "On the bus ride home, she thought about how sure she had been that confidence came from saying every word just right."
+    },
+    "correct": "C",
+    "explanation": "This moment shows Hana changing her method and succeeding through demonstration. The main trap is choice A, which describes her preparation, not her adaptation."
+  },
+  {
+    "id": "EN2-016",
+    "prompt": "Read the passage and answer the question.\nArtificial light helps people travel, work, and gather after dark. However, when outdoor lights shine upward or sideways instead of only where needed, they create skyglow, the bright haze that washes out the night sky above towns and cities. Skyglow makes it harder for astronomers to observe faint stars, but it affects more than science. Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.\nThe good news is that reducing light pollution does not simply mean making places dark. Communities can use shielded fixtures that aim light downward, bulbs with warmer color tones, and timers or motion sensors that limit unnecessary lighting. These changes can improve visibility, save energy, and preserve darker skies at the same time. Good lighting, in other words, is not about using more light. It is about using light more carefully.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Artificial light should never be used outdoors at night.",
+      "B": "Light pollution causes problems, but communities can reduce it through smarter lighting choices.",
+      "C": "Astronomers are the only people seriously affected by skyglow.",
+      "D": "Motion sensors are the most expensive way to light public spaces."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the harms of skyglow and practical solutions. The main trap is choice A, which is too extreme because the author supports useful lighting."
+  },
+  {
+    "id": "EN2-017",
+    "prompt": "Read the passage and answer the question.\nArtificial light helps people travel, work, and gather after dark. However, when outdoor lights shine upward or sideways instead of only where needed, they create skyglow, the bright haze that washes out the night sky above towns and cities. Skyglow makes it harder for astronomers to observe faint stars, but it affects more than science. Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.\nThe good news is that reducing light pollution does not simply mean making places dark. Communities can use shielded fixtures that aim light downward, bulbs with warmer color tones, and timers or motion sensors that limit unnecessary lighting. These changes can improve visibility, save energy, and preserve darker skies at the same time. Good lighting, in other words, is not about using more light. It is about using light more carefully.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to entertain readers with unusual facts about the night sky",
+      "B": "to explain what light pollution is and how it can be reduced",
+      "C": "to argue that cities should ban all nighttime activity",
+      "D": "to compare several famous observatories around the world"
+    },
+    "correct": "B",
+    "explanation": "The author defines skyglow, describes its effects, and then gives solutions. The main trap is choice C, which incorrectly turns the passage into a ban on nighttime activity."
+  },
+  {
+    "id": "EN2-018",
+    "prompt": "Read the passage and answer the question.\nArtificial light helps people travel, work, and gather after dark. However, when outdoor lights shine upward or sideways instead of only where needed, they create skyglow, the bright haze that washes out the night sky above towns and cities. Skyglow makes it harder for astronomers to observe faint stars, but it affects more than science. Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.\nThe good news is that reducing light pollution does not simply mean making places dark. Communities can use shielded fixtures that aim light downward, bulbs with warmer color tones, and timers or motion sensors that limit unnecessary lighting. These changes can improve visibility, save energy, and preserve darker skies at the same time. Good lighting, in other words, is not about using more light. It is about using light more carefully.\nWhich sentence from the passage best supports the idea that light pollution affects animals?",
+    "choices": {
+      "A": "Artificial light helps people travel, work, and gather after dark.",
+      "B": "Skyglow makes it harder for astronomers to observe faint stars.",
+      "C": "Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.",
+      "D": "These changes can improve visibility, save energy, and preserve darker skies at the same time."
+    },
+    "correct": "C",
+    "explanation": "This sentence gives direct evidence that animals are affected by light pollution. The main trap is choice B, which concerns astronomers rather than wildlife."
+  },
+  {
+    "id": "EN2-019",
+    "prompt": "Read the passage and answer the question.\nArtificial light helps people travel, work, and gather after dark. However, when outdoor lights shine upward or sideways instead of only where needed, they create skyglow, the bright haze that washes out the night sky above towns and cities. Skyglow makes it harder for astronomers to observe faint stars, but it affects more than science. Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.\nThe good news is that reducing light pollution does not simply mean making places dark. Communities can use shielded fixtures that aim light downward, bulbs with warmer color tones, and timers or motion sensors that limit unnecessary lighting. These changes can improve visibility, save energy, and preserve darker skies at the same time. Good lighting, in other words, is not about using more light. It is about using light more carefully.\nAs used in the passage, the word “shielded” most nearly means",
+    "choices": {
+      "A": "decorated with metal",
+      "B": "protected by glass",
+      "C": "designed to direct light in a controlled way",
+      "D": "painted to match nearby buildings"
+    },
+    "correct": "C",
+    "explanation": "Shielded fixtures aim light downward where it is needed. The main trap is choice B, which is too narrow and does not capture the purpose described."
+  },
+  {
+    "id": "EN2-020",
+    "prompt": "Read the passage and answer the question.\nArtificial light helps people travel, work, and gather after dark. However, when outdoor lights shine upward or sideways instead of only where needed, they create skyglow, the bright haze that washes out the night sky above towns and cities. Skyglow makes it harder for astronomers to observe faint stars, but it affects more than science. Some migrating birds become disoriented by bright nighttime lighting, and sea turtle hatchlings on some beaches may head toward artificial lights rather than the moonlit horizon.\nThe good news is that reducing light pollution does not simply mean making places dark. Communities can use shielded fixtures that aim light downward, bulbs with warmer color tones, and timers or motion sensors that limit unnecessary lighting. These changes can improve visibility, save energy, and preserve darker skies at the same time. Good lighting, in other words, is not about using more light. It is about using light more carefully.\nA town wants to keep a park safe at night while reducing light pollution. Which plan would best match the passage?",
+    "choices": {
+      "A": "install brighter lights that shine in all directions throughout the night",
+      "B": "turn off every light in the park after sunset",
+      "C": "use downward-facing lights with timers so they are on only when needed",
+      "D": "replace all park lights with flashing signs"
+    },
+    "correct": "C",
+    "explanation": "This plan matches the passage’s recommended use of shielded fixtures and timers. The main trap is choice B, which ignores the need for safety lighting."
+  },
+  {
+    "id": "EN2-021",
+    "prompt": "Read the passage and answer the question.\nAna was assigned to label the herb seedlings for the school greenhouse sale, a task she considered slightly more interesting than sorting paper clips. She wanted to water the plants or carry trays to the courtyard. Instead, Mr. Bell handed her a stack of wooden markers and a black pen.\nAt first Ana wrote only the names: basil, mint, thyme. The rows looked neat but silent. Then she overheard two shoppers at the preview table wondering how one herb differed from another. So she began again. Under “lemon basil,” she added, “smells bright and citrusy.” Under “mint,” she wrote, “spreads quickly—give it space.” Soon the markers sounded less like labels and more like introductions.\nDuring the sale, people paused to read every sign. One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.” The cafeteria cook bought three pots of basil after laughing at the warning not to overwater them. By afternoon, the tables were almost empty. Mr. Bell tapped one of the markers and said, “Plants can’t advertise for themselves. Today, yours did.” Ana looked at the bare shelves and realized that words, when chosen well, could move things quietly.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "The school greenhouse should sell only herbs that are easy to grow.",
+      "B": "Clear, thoughtful writing can influence people even in quiet ways.",
+      "C": "Ana dislikes working in the greenhouse and would rather be outdoors.",
+      "D": "Wooden markers are better than paper signs for plant sales."
+    },
+    "correct": "B",
+    "explanation": "Ana’s labels guide shoppers’ choices without calling attention to themselves. The main trap is choice C, which reflects her initial attitude but not the passage’s final point."
+  },
+  {
+    "id": "EN2-022",
+    "prompt": "Read the passage and answer the question.\nAna was assigned to label the herb seedlings for the school greenhouse sale, a task she considered slightly more interesting than sorting paper clips. She wanted to water the plants or carry trays to the courtyard. Instead, Mr. Bell handed her a stack of wooden markers and a black pen.\nAt first Ana wrote only the names: basil, mint, thyme. The rows looked neat but silent. Then she overheard two shoppers at the preview table wondering how one herb differed from another. So she began again. Under “lemon basil,” she added, “smells bright and citrusy.” Under “mint,” she wrote, “spreads quickly—give it space.” Soon the markers sounded less like labels and more like introductions.\nDuring the sale, people paused to read every sign. One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.” The cafeteria cook bought three pots of basil after laughing at the warning not to overwater them. By afternoon, the tables were almost empty. Mr. Bell tapped one of the markers and said, “Plants can’t advertise for themselves. Today, yours did.” Ana looked at the bare shelves and realized that words, when chosen well, could move things quietly.\nWhat can the reader most reasonably infer about why the shoppers pause to read the signs?",
+    "choices": {
+      "A": "The sale is crowded, so they have to wait in line.",
+      "B": "The signs provide useful details that help them choose among the herbs.",
+      "C": "Mr. Bell tells everyone to study each marker before buying.",
+      "D": "The plants are too far away to inspect closely."
+    },
+    "correct": "B",
+    "explanation": "The shoppers pause because Ana’s notes explain differences and growing conditions. The main trap is choice A, which invents a reason unrelated to the passage."
+  },
+  {
+    "id": "EN2-023",
+    "prompt": "Read the passage and answer the question.\nAna was assigned to label the herb seedlings for the school greenhouse sale, a task she considered slightly more interesting than sorting paper clips. She wanted to water the plants or carry trays to the courtyard. Instead, Mr. Bell handed her a stack of wooden markers and a black pen.\nAt first Ana wrote only the names: basil, mint, thyme. The rows looked neat but silent. Then she overheard two shoppers at the preview table wondering how one herb differed from another. So she began again. Under “lemon basil,” she added, “smells bright and citrusy.” Under “mint,” she wrote, “spreads quickly—give it space.” Soon the markers sounded less like labels and more like introductions.\nDuring the sale, people paused to read every sign. One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.” The cafeteria cook bought three pots of basil after laughing at the warning not to overwater them. By afternoon, the tables were almost empty. Mr. Bell tapped one of the markers and said, “Plants can’t advertise for themselves. Today, yours did.” Ana looked at the bare shelves and realized that words, when chosen well, could move things quietly.\nWhich word best describes Ana’s attitude at the end of the passage?",
+    "choices": {
+      "A": "appreciative",
+      "B": "resentful",
+      "C": "nervous",
+      "D": "puzzled"
+    },
+    "correct": "A",
+    "explanation": "By the end, Ana values the quiet power of words and the task she was given. The main trap is choice B, because her resentment has clearly faded."
+  },
+  {
+    "id": "EN2-024",
+    "prompt": "Read the passage and answer the question.\nAna was assigned to label the herb seedlings for the school greenhouse sale, a task she considered slightly more interesting than sorting paper clips. She wanted to water the plants or carry trays to the courtyard. Instead, Mr. Bell handed her a stack of wooden markers and a black pen.\nAt first Ana wrote only the names: basil, mint, thyme. The rows looked neat but silent. Then she overheard two shoppers at the preview table wondering how one herb differed from another. So she began again. Under “lemon basil,” she added, “smells bright and citrusy.” Under “mint,” she wrote, “spreads quickly—give it space.” Soon the markers sounded less like labels and more like introductions.\nDuring the sale, people paused to read every sign. One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.” The cafeteria cook bought three pots of basil after laughing at the warning not to overwater them. By afternoon, the tables were almost empty. Mr. Bell tapped one of the markers and said, “Plants can’t advertise for themselves. Today, yours did.” Ana looked at the bare shelves and realized that words, when chosen well, could move things quietly.\nAs used in the second paragraph, the word “silent” most nearly means",
+    "choices": {
+      "A": "unable to attract interest",
+      "B": "making no sound at all",
+      "C": "carefully organized",
+      "D": "hidden from view"
+    },
+    "correct": "A",
+    "explanation": "“Silent” describes the labels as plain and uninformative before Ana revises them. The main trap is choice B, which treats the word as literal sound rather than figurative effect."
+  },
+  {
+    "id": "EN2-025",
+    "prompt": "Read the passage and answer the question.\nAna was assigned to label the herb seedlings for the school greenhouse sale, a task she considered slightly more interesting than sorting paper clips. She wanted to water the plants or carry trays to the courtyard. Instead, Mr. Bell handed her a stack of wooden markers and a black pen.\nAt first Ana wrote only the names: basil, mint, thyme. The rows looked neat but silent. Then she overheard two shoppers at the preview table wondering how one herb differed from another. So she began again. Under “lemon basil,” she added, “smells bright and citrusy.” Under “mint,” she wrote, “spreads quickly—give it space.” Soon the markers sounded less like labels and more like introductions.\nDuring the sale, people paused to read every sign. One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.” The cafeteria cook bought three pots of basil after laughing at the warning not to overwater them. By afternoon, the tables were almost empty. Mr. Bell tapped one of the markers and said, “Plants can’t advertise for themselves. Today, yours did.” Ana looked at the bare shelves and realized that words, when chosen well, could move things quietly.\nWhich detail best supports the idea that Ana’s revised labels affect customers’ decisions?",
+    "choices": {
+      "A": "She wanted to water the plants or carry trays to the courtyard.",
+      "B": "So she began again.",
+      "C": "One teacher chose rosemary because Ana’s note described it as “pine-scented and sturdy in dry soil.”",
+      "D": "Mr. Bell handed her a stack of wooden markers and a black pen."
+    },
+    "correct": "C",
+    "explanation": "This is direct evidence that the wording on the markers affects a customer’s choice. The main trap is choice B, which only shows that Ana revised the labels."
+  },
+  {
+    "id": "EN2-026",
+    "prompt": "Read the passage and answer the question.\nMany flowers release pollen easily when wind or insects brush against them. Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily. For those plants, a special method known as buzz pollination can help. A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen. The bee is not flapping its wings to fly away; it is using vibration like a tool.\nBuzz pollination is especially useful for crops such as tomatoes, blueberries, and peppers. In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand. However, not every flower requires buzz pollination, and not every bee species can perform it. The process is one example of how closely the behavior of pollinators can match the structure of certain plants.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Bumblebees are the only insects that can visit flowers.",
+      "B": "Buzz pollination is a method in which certain bees vibrate some flowers to release pollen.",
+      "C": "Farmers should grow only crops that attract bumblebees.",
+      "D": "All flowers require strong wind in order to reproduce."
+    },
+    "correct": "B",
+    "explanation": "This answer captures the passage’s central explanation accurately and concisely. The main trap is choice C, which turns the explanation into an unsupported rule for farming."
+  },
+  {
+    "id": "EN2-027",
+    "prompt": "Read the passage and answer the question.\nMany flowers release pollen easily when wind or insects brush against them. Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily. For those plants, a special method known as buzz pollination can help. A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen. The bee is not flapping its wings to fly away; it is using vibration like a tool.\nBuzz pollination is especially useful for crops such as tomatoes, blueberries, and peppers. In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand. However, not every flower requires buzz pollination, and not every bee species can perform it. The process is one example of how closely the behavior of pollinators can match the structure of certain plants.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how buzz pollination works and why it matters",
+      "B": "to argue that all farms should stop using human workers",
+      "C": "to describe the life cycle of a bumblebee colony",
+      "D": "to compare greenhouse crops with wild forest plants"
+    },
+    "correct": "A",
+    "explanation": "The passage defines the process and shows why it is useful for certain crops. The main trap is choice C, because the focus is not the bee life cycle."
+  },
+  {
+    "id": "EN2-028",
+    "prompt": "Read the passage and answer the question.\nMany flowers release pollen easily when wind or insects brush against them. Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily. For those plants, a special method known as buzz pollination can help. A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen. The bee is not flapping its wings to fly away; it is using vibration like a tool.\nBuzz pollination is especially useful for crops such as tomatoes, blueberries, and peppers. In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand. However, not every flower requires buzz pollination, and not every bee species can perform it. The process is one example of how closely the behavior of pollinators can match the structure of certain plants.\nAs used in the passage, the word “efficiently” most nearly means",
+    "choices": {
+      "A": "in a quick and effective way",
+      "B": "with bright colors and patterns",
+      "C": "only during warm weather",
+      "D": "without using any energy"
+    },
+    "correct": "A",
+    "explanation": "In context, bumblebees pollinate many blossoms efficiently by doing the work well without much wasted effort. The main trap is choice D, which is unrealistic and unsupported."
+  },
+  {
+    "id": "EN2-029",
+    "prompt": "Read the passage and answer the question.\nMany flowers release pollen easily when wind or insects brush against them. Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily. For those plants, a special method known as buzz pollination can help. A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen. The bee is not flapping its wings to fly away; it is using vibration like a tool.\nBuzz pollination is especially useful for crops such as tomatoes, blueberries, and peppers. In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand. However, not every flower requires buzz pollination, and not every bee species can perform it. The process is one example of how closely the behavior of pollinators can match the structure of certain plants.\nWhich sentence from the passage best supports the idea that buzz pollination can reduce labor for people?",
+    "choices": {
+      "A": "Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily.",
+      "B": "A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen.",
+      "C": "In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand.",
+      "D": "However, not every flower requires buzz pollination, and not every bee species can perform it."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly states how buzz pollination can save people labor. The main trap is choice B, which explains the mechanism but not the labor benefit."
+  },
+  {
+    "id": "EN2-030",
+    "prompt": "Read the passage and answer the question.\nMany flowers release pollen easily when wind or insects brush against them. Others keep pollen tucked inside narrow structures called anthers, where it does not fall out so readily. For those plants, a special method known as buzz pollination can help. A bumblebee lands on the flower, grips it, and vibrates its flight muscles so quickly that the flower releases a cloud of pollen. The bee is not flapping its wings to fly away; it is using vibration like a tool.\nBuzz pollination is especially useful for crops such as tomatoes, blueberries, and peppers. In some greenhouses, farmers rely on bumblebees because the bees can pollinate many blossoms efficiently without human workers shaking each plant by hand. However, not every flower requires buzz pollination, and not every bee species can perform it. The process is one example of how closely the behavior of pollinators can match the structure of certain plants.\nWhich project would best apply the ideas in the passage?",
+    "choices": {
+      "A": "hiring workers to paint flowers with bright colors",
+      "B": "introducing bumblebees into a greenhouse full of tomato plants",
+      "C": "removing every insect from a pepper field",
+      "D": "planting only flowers that never produce pollen"
+    },
+    "correct": "B",
+    "explanation": "Tomatoes are named as crops that benefit from buzz pollination, so this is a logical application. The main trap is choice A, which has nothing to do with releasing pollen."
+  },
+  {
+    "id": "EN2-031",
+    "prompt": "Read the passage and answer the question.\nThe school newspaper plans to launch a monthly science page. The editors recruited students from different grades they wanted the page to include a variety of topics and writing styles.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "The editors recruited students from different grades, they wanted the page to include a variety of topics and writing styles.",
+      "B": "The editors recruited students from different grades because they wanted the page to include a variety of topics and writing styles.",
+      "C": "The editors recruited students from different grades; wanting the page to include a variety of topics and writing styles.",
+      "D": "The editors recruited students from different grades and because they wanted the page to include a variety of topics and writing styles."
+    },
+    "correct": "B",
+    "explanation": "This revision fixes the comma splice by correctly linking the cause and the action. The main trap is choice A, which leaves two complete thoughts joined only by a comma."
+  },
+  {
+    "id": "EN2-032",
+    "prompt": "Read the passage and answer the question.\nAt the first meeting, the staff listed possible article ideas. Each reporter and photographer were asked to choose one assignment before leaving the room.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Each reporter and photographer was asked to choose one assignment",
+      "B": "Each reporter and photographer were being asked to choose one assignment",
+      "C": "Each reporter and photographer are asked to choose one assignment",
+      "D": "Each reporter and photographer ask to choose one assignment"
+    },
+    "correct": "A",
+    "explanation": "The subject is introduced by “Each,” so it takes the singular verb “was.” The main trap is choice B, which keeps the incorrect plural agreement."
+  },
+  {
+    "id": "EN2-033",
+    "prompt": "Read the passage and answer the question.\nThe first issue took longer to finish than expected. As a result, the team learned how to meet deadlines more efficiently by the second month.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "As a result",
+      "B": "For instance",
+      "C": "Nevertheless",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "The second sentence shows what happened because the first issue took too long, so a cause-and-effect transition fits. The main trap is choice C, which signals contrast rather than result."
+  },
+  {
+    "id": "EN2-034",
+    "prompt": "Read the passage and answer the question.\nThe school newspaper plans to launch a monthly science page. The editors recruited students from different grades because they wanted the page to include a variety of topics and writing styles. At the first meeting, the staff listed possible article ideas. Each reporter and photographer was asked to choose one assignment before leaving the room. The first issue took longer to finish than expected. As a result, the team learned how to meet deadlines more efficiently by the second month. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Some newspapers use color ink, while others do not.",
+      "B": "Now the page has become one of the most widely read sections of the paper.",
+      "C": "Reporters often carry notebooks when they interview people.",
+      "D": "Many science discoveries involve years of research."
+    },
+    "correct": "B",
+    "explanation": "This sentence logically concludes the paragraph by showing the project’s later success. The main trap is choice A, which is unrelated to the science page."
+  },
+  {
+    "id": "EN2-035",
+    "prompt": "Read the passage and answer the question.\nThe astronomy club set up telescopes on the roof. Looking through the largest lens, the moon’s craters appeared sharp to the students.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Looking through the largest lens, the students saw the moon’s craters sharply.",
+      "B": "The moon’s craters, looking through the largest lens, appeared sharp to the students.",
+      "C": "Looking through the largest lens, the moon appeared the students’ craters sharply.",
+      "D": "The students, the moon’s craters appeared sharp while looking through the largest lens."
+    },
+    "correct": "A",
+    "explanation": "This revision places the modifier next to the people doing the looking. The main trap is choice B, which wrongly suggests the craters are looking through the lens."
+  },
+  {
+    "id": "EN2-036",
+    "prompt": "Read the passage and answer the question.\nClub leaders reminded everyone to bring a jacket because the roof gets windy after sunset. They should also carry a red flashlight so their eyes can stay adjusted to the dark.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "A red flashlight should also be carried so their eyes can stay adjusted to the dark.",
+      "B": "The roof should also carry a red flashlight so their eyes can stay adjusted to the dark.",
+      "C": "Club members should also carry a red flashlight so their eyes can stay adjusted to the dark.",
+      "D": "It should also carry a red flashlight so their eyes can stay adjusted to the dark."
+    },
+    "correct": "C",
+    "explanation": "This version clearly identifies who should carry the flashlight. The main trap is choice A, which leaves the sentence vague and awkward."
+  },
+  {
+    "id": "EN2-037",
+    "prompt": "Read the passage and answer the question.\n(1) The community center will host a weekend workshop on bicycle repair. (2) Participants will learn how to fix a loose chain, patch a tire, and adjust brakes. (3) The class is free, but registration is required. (4) Tools will be provided.\nThe writer wants to add the following sentence:\nBeginners are encouraged to attend, even if they have never repaired a bicycle before.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "C",
+    "explanation": "The new sentence reassures readers about experience level and fits naturally after the registration detail, before the final note about tools. The main trap is choice A, which places the sentence too early before readers know what the workshop includes."
+  },
+  {
+    "id": "EN2-038",
+    "prompt": "Read the passage and answer the question.\nThe schedule asks participants to bring three items a water bottle, closed-toe shoes, and a small towel.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, a water bottle, closed-toe shoes, and a small towel",
+      "B": "items: a water bottle, closed-toe shoes, and a small towel",
+      "C": "items; a water bottle, closed-toe shoes, and a small towel",
+      "D": "items a water bottle, closed-toe shoes, and a small towel"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces a list after an independent clause. The main trap is choice A, which uses only a comma and creates faulty punctuation."
+  },
+  {
+    "id": "EN2-039",
+    "prompt": "Read the passage and answer the question.\nYesterday our class visited the marine science lab. One researcher explain how tiny plastic pieces can drift through ocean currents for years.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Yesterday” sets the sentence in the past, so the verb must be past tense. The main trap is choice A, which incorrectly shifts the sentence into present tense."
+  },
+  {
+    "id": "EN2-040",
+    "prompt": "Read the passage and answer the question.\nSea turtles ancient travelers of the ocean return to some of the same beaches where they once hatched.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "Sea turtles, ancient travelers of the ocean, return to some of the same beaches where they once hatched.",
+      "B": "Sea turtles ancient travelers of the ocean return to some of the same beaches where they once hatched.",
+      "C": "Sea turtles, ancient travelers of the ocean return, to some of the same beaches where they once hatched.",
+      "D": "Sea turtles ancient travelers of the ocean, return to some of the same beaches where they once hatched."
+    },
+    "correct": "A",
+    "explanation": "The phrase “ancient travelers of the ocean” is nonessential and should be set off with commas. The main trap is choice B, which omits the needed punctuation."
+  },
+  {
+    "id": "EN2-041",
+    "prompt": "Read the passage and answer the question.\nThe volunteer guide told visitors that the old bell tower watched over the harbor for more than a century.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "ignored",
+      "B": "overlooked",
+      "C": "stood",
+      "D": "invented"
+    },
+    "correct": "C",
+    "explanation": "A bell tower can literally stand over a harbor for many years, while “watched” is not precise here. The main trap is choice B, because “overlooked” can mean “failed to notice” and is less clear in this sentence."
+  },
+  {
+    "id": "EN2-042",
+    "prompt": "Read the passage and answer the question.\nOriginal sentences:\nThe trail climbed steadily up the hill. The hikers stopped twice to drink water.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "The trail climbed steadily up the hill, and twice to drink water the hikers stopped.",
+      "B": "As the trail climbed steadily up the hill, the hikers stopped twice to drink water.",
+      "C": "The trail climbed steadily up the hill, the hikers stopped twice to drink water.",
+      "D": "Twice to drink water was when the hikers stopped as the trail climbed steadily up the hill."
+    },
+    "correct": "B",
+    "explanation": "This version combines the ideas smoothly and clearly. The main trap is choice C, which creates a comma splice."
+  },
+  {
+    "id": "EN2-043",
+    "prompt": "Read the passage and answer the question.\nThe arts festival will let students display paintings, performing short plays, and to sell handmade jewelry.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "display paintings, perform short plays, and sell handmade jewelry",
+      "B": "display paintings, performing short plays, and selling handmade jewelry",
+      "C": "to display paintings, perform short plays, and selling handmade jewelry",
+      "D": "display paintings, to perform short plays, and sell handmade jewelry"
+    },
+    "correct": "A",
+    "explanation": "The series needs parallel verb forms. The main trap is choice B, which mixes verb forms and breaks parallel structure."
+  },
+  {
+    "id": "EN2-044",
+    "prompt": "Read the passage and answer the question.\nMany people assume that recycling is the only way to reduce waste. In contrast, the speaker argued that reusing items often prevents waste before it is created.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "In contrast",
+      "B": "In fact",
+      "C": "Meanwhile",
+      "D": "Likewise"
+    },
+    "correct": "B",
+    "explanation": "The second sentence strengthens and clarifies the speaker’s point rather than contrasting with the first sentence. The main trap is choice A, because the ideas are not opposites."
+  },
+  {
+    "id": "EN2-045",
+    "prompt": "Read the passage and answer the question.\nAfter studying the traffic patterns for two weeks, a safer crossing plan was proposed by the student council.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the student council proposed a safer crossing plan",
+      "B": "a safer crossing plan, proposed by the student council",
+      "C": "the proposal of a safer crossing plan by the student council",
+      "D": "a safer crossing plan was being proposed by the student council"
+    },
+    "correct": "A",
+    "explanation": "This revision places the actor directly after the introductory phrase, fixing the misplaced modifier. The main trap is choice B, which is only a fragment."
+  },
+  {
+    "id": "EN2-046",
+    "prompt": "Read the passage and answer the question.\nA student is ending a speech that argues for planting more shade trees near the playground. The final sentence currently reads: “More trees would be good for our school.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "More trees exist in many neighborhoods.",
+      "B": "Planting shade trees would cool the playground, improve comfort, and make the school yard more welcoming for students and families.",
+      "C": "Trees are green and very common.",
+      "D": "The school has a playground and a yard."
+    },
+    "correct": "B",
+    "explanation": "This sentence is specific and persuasive because it names clear benefits. The main trap is choice C, which is too general and weak."
+  },
+  {
+    "id": "EN2-047",
+    "prompt": "Read the passage and answer the question.\nWhen the librarian handed the overdue book to Jordan and I, she smiled and said, “I’m glad you both brought it back.”\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so it must be in the objective case. The main trap is choice C, which is often overused but not correct here."
+  },
+  {
+    "id": "EN2-048",
+    "prompt": "Read the passage and answer the question.\nNora whispered \"Listen carefully\" before the music recital began.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "whispered, \"Listen carefully\"",
+      "B": "whispered \"Listen carefully.\"",
+      "C": "whispered; \"Listen carefully\"",
+      "D": "whispered: \"Listen carefully,\""
+    },
+    "correct": "A",
+    "explanation": "A comma properly introduces the quotation, and no period is needed inside because the sentence continues. The main trap is choice B, which omits the comma and adds incorrect end punctuation."
+  },
+  {
+    "id": "EN2-049",
+    "prompt": "Read the passage and answer the question.\nWe searched the auditorium backstage for several minutes. At last, Priya spotted the missing script tucked beneath a costume box.\nWhich transition best replaces the underlined words?",
+    "choices": {
+      "A": "At last",
+      "B": "For example",
+      "C": "Otherwise",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "This transition shows that Priya found the script after some time had passed. The main trap is choice B, which introduces an example, not a sequence in time."
+  },
+  {
+    "id": "EN2-050",
+    "prompt": "Read the passage and answer the question.\nBy the end of the cleanup, the mural on the brick wall looked brighter, and the empty lot beside it had been cleared of weeds and trash.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Murals are painted in many different styles.",
+      "B": "The lot had once been used as a parking area.",
+      "C": "As the volunteers packed up their tools, the block already felt more cared for than it had that morning.",
+      "D": "Trash bags can usually hold a surprising amount."
+    },
+    "correct": "C",
+    "explanation": "This sentence reflects on the results of the cleanup and gives the paragraph a satisfying close. The main trap is choice B, which adds background information instead of concluding the scene."
+  }
+]

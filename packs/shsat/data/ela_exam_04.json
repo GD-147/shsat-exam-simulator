@@ -1,0 +1,602 @@
+[
+  {
+    "id": "EN4-001",
+    "prompt": "Read the passage and answer the question.\nSofia had expected the neighborhood mural project to be loud, social work—paint rollers, music, and bright ladders leaning against the wall. Instead, Ms. Rivera handed her a small jar of blue paint and directed her to a folding chair several feet away from the mural. “Touch-ups,” she said.\nFrom the chair, Sofia watched the others fill large sections of sky and buildings. Their progress was easy to admire. Her own task felt almost invisible. A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly. A window frame required a shadow no wider than a shoelace. Ms. Rivera kept stepping back from the wall, narrowing her eyes, and then pointing to some tiny place that seemed impossible to notice from the sidewalk. “Big shapes catch attention,” she told Sofia. “Small ones make people trust what they see.”\nBy noon, Sofia began to understand. Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place. The shop awnings looked sturdier. The pigeons perched more naturally on a ledge. When the mural was finished, passersby stopped to stare at the whole wall, not at the little repairs. Even so, Sofia felt proud. The painting’s broad color might have drawn the crowd, but its quiet details had taught the wall how to breathe.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Mural projects are more difficult than most students expect.",
+      "B": "Small details can play an important role in making artwork believable.",
+      "C": "Sofia would rather paint large sections than sit in a chair all morning.",
+      "D": "People admire murals only when they contain bright colors."
+    },
+    "correct": "B",
+    "explanation": "The passage shows Sofia learning that tiny touch-ups help the mural feel real and complete. The main trap is choice A, which focuses on her expectations rather than the lesson she learns."
+  },
+  {
+    "id": "EN4-002",
+    "prompt": "Read the passage and answer the question.\nSofia had expected the neighborhood mural project to be loud, social work—paint rollers, music, and bright ladders leaning against the wall. Instead, Ms. Rivera handed her a small jar of blue paint and directed her to a folding chair several feet away from the mural. “Touch-ups,” she said.\nFrom the chair, Sofia watched the others fill large sections of sky and buildings. Their progress was easy to admire. Her own task felt almost invisible. A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly. A window frame required a shadow no wider than a shoelace. Ms. Rivera kept stepping back from the wall, narrowing her eyes, and then pointing to some tiny place that seemed impossible to notice from the sidewalk. “Big shapes catch attention,” she told Sofia. “Small ones make people trust what they see.”\nBy noon, Sofia began to understand. Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place. The shop awnings looked sturdier. The pigeons perched more naturally on a ledge. When the mural was finished, passersby stopped to stare at the whole wall, not at the little repairs. Even so, Sofia felt proud. The painting’s broad color might have drawn the crowd, but its quiet details had taught the wall how to breathe.\nWhat can the reader most reasonably infer about Ms. Rivera?",
+    "choices": {
+      "A": "She prefers students who work quickly, even if they make mistakes.",
+      "B": "She believes careful detail work is essential to strong art.",
+      "C": "She does not trust Sofia with large painting tools.",
+      "D": "She wants the mural to be finished as cheaply as possible."
+    },
+    "correct": "B",
+    "explanation": "Ms. Rivera says that small shapes make people “trust what they see,” showing how much she values detail. The main trap is choice C, because nothing suggests she is limiting Sofia out of distrust."
+  },
+  {
+    "id": "EN4-003",
+    "prompt": "Read the passage and answer the question.\nSofia had expected the neighborhood mural project to be loud, social work—paint rollers, music, and bright ladders leaning against the wall. Instead, Ms. Rivera handed her a small jar of blue paint and directed her to a folding chair several feet away from the mural. “Touch-ups,” she said.\nFrom the chair, Sofia watched the others fill large sections of sky and buildings. Their progress was easy to admire. Her own task felt almost invisible. A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly. A window frame required a shadow no wider than a shoelace. Ms. Rivera kept stepping back from the wall, narrowing her eyes, and then pointing to some tiny place that seemed impossible to notice from the sidewalk. “Big shapes catch attention,” she told Sofia. “Small ones make people trust what they see.”\nBy noon, Sofia began to understand. Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place. The shop awnings looked sturdier. The pigeons perched more naturally on a ledge. When the mural was finished, passersby stopped to stare at the whole wall, not at the little repairs. Even so, Sofia felt proud. The painting’s broad color might have drawn the crowd, but its quiet details had taught the wall how to breathe.\nWhich word best describes Sofia’s attitude at the end of the passage?",
+    "choices": {
+      "A": "resentful",
+      "B": "uncertain",
+      "C": "appreciative",
+      "D": "amused"
+    },
+    "correct": "C",
+    "explanation": "By the end, Sofia feels proud and understands the value of her assignment. The main trap is choice B, which does not fit her final confidence and satisfaction."
+  },
+  {
+    "id": "EN4-004",
+    "prompt": "Read the passage and answer the question.\nSofia had expected the neighborhood mural project to be loud, social work—paint rollers, music, and bright ladders leaning against the wall. Instead, Ms. Rivera handed her a small jar of blue paint and directed her to a folding chair several feet away from the mural. “Touch-ups,” she said.\nFrom the chair, Sofia watched the others fill large sections of sky and buildings. Their progress was easy to admire. Her own task felt almost invisible. A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly. A window frame required a shadow no wider than a shoelace. Ms. Rivera kept stepping back from the wall, narrowing her eyes, and then pointing to some tiny place that seemed impossible to notice from the sidewalk. “Big shapes catch attention,” she told Sofia. “Small ones make people trust what they see.”\nBy noon, Sofia began to understand. Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place. The shop awnings looked sturdier. The pigeons perched more naturally on a ledge. When the mural was finished, passersby stopped to stare at the whole wall, not at the little repairs. Even so, Sofia felt proud. The painting’s broad color might have drawn the crowd, but its quiet details had taught the wall how to breathe.\nAs used in the passage, the word “flaws” most nearly means",
+    "choices": {
+      "A": "decorations",
+      "B": "mistakes",
+      "C": "colors",
+      "D": "instructions"
+    },
+    "correct": "B",
+    "explanation": "In context, “tiny flaws” are small imperfections in the mural that need correction. The main trap is choice A, because flaws are problems, not added decorative elements."
+  },
+  {
+    "id": "EN4-005",
+    "prompt": "Read the passage and answer the question.\nSofia had expected the neighborhood mural project to be loud, social work—paint rollers, music, and bright ladders leaning against the wall. Instead, Ms. Rivera handed her a small jar of blue paint and directed her to a folding chair several feet away from the mural. “Touch-ups,” she said.\nFrom the chair, Sofia watched the others fill large sections of sky and buildings. Their progress was easy to admire. Her own task felt almost invisible. A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly. A window frame required a shadow no wider than a shoelace. Ms. Rivera kept stepping back from the wall, narrowing her eyes, and then pointing to some tiny place that seemed impossible to notice from the sidewalk. “Big shapes catch attention,” she told Sofia. “Small ones make people trust what they see.”\nBy noon, Sofia began to understand. Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place. The shop awnings looked sturdier. The pigeons perched more naturally on a ledge. When the mural was finished, passersby stopped to stare at the whole wall, not at the little repairs. Even so, Sofia felt proud. The painting’s broad color might have drawn the crowd, but its quiet details had taught the wall how to breathe.\nWhich detail best supports the idea that Sofia’s opinion of her task changes?",
+    "choices": {
+      "A": "Sofia watched the others fill large sections of sky and buildings.",
+      "B": "A bird’s wing needed a thin dark line where yesterday’s paint had dried unevenly.",
+      "C": "Whenever she corrected one of the tiny flaws, the painted street below seemed to settle into place.",
+      "D": "Passersby stopped to stare at the whole wall."
+    },
+    "correct": "C",
+    "explanation": "This detail directly shows Sofia recognizing the effect of her work. The main trap is choice D, which shows people admiring the mural but not Sofia’s personal change as clearly."
+  },
+  {
+    "id": "EN4-006",
+    "prompt": "Read the passage and answer the question.\nMany libraries now lend more than books. Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time. These “libraries of things” are based on a simple idea: people may need certain objects only occasionally, so sharing them can be more practical than having every household buy its own. A family might borrow a cake pan shaped like a train for one birthday party or a power washer for one afternoon of cleaning.\nThese programs can save money and storage space, but they also require planning. Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again. Libraries must also decide which objects are safe and useful enough to include. Even with those challenges, many communities find that lending objects expands what a library can be—a place not only for information, but also for access. In that way, a shelf of tools may serve the same goal as a shelf of books: helping people do more with what they have.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Libraries of things are too difficult to manage for most communities.",
+      "B": "Lending household objects is an unusual trend that will probably disappear soon.",
+      "C": "Some libraries lend useful objects as a practical way to give communities broader access to resources.",
+      "D": "Books are less important than tools in modern libraries."
+    },
+    "correct": "C",
+    "explanation": "The passage explains both the purpose and the community value of libraries of things. The main trap is choice A, which ignores the overall positive view of these programs."
+  },
+  {
+    "id": "EN4-007",
+    "prompt": "Read the passage and answer the question.\nMany libraries now lend more than books. Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time. These “libraries of things” are based on a simple idea: people may need certain objects only occasionally, so sharing them can be more practical than having every household buy its own. A family might borrow a cake pan shaped like a train for one birthday party or a power washer for one afternoon of cleaning.\nThese programs can save money and storage space, but they also require planning. Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again. Libraries must also decide which objects are safe and useful enough to include. Even with those challenges, many communities find that lending objects expands what a library can be—a place not only for information, but also for access. In that way, a shelf of tools may serve the same goal as a shelf of books: helping people do more with what they have.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain how libraries of things work and why communities may value them",
+      "B": "to argue that all libraries should stop lending books",
+      "C": "to compare different brands of tools and baking equipment",
+      "D": "to entertain readers with stories about unusual birthday parties"
+    },
+    "correct": "A",
+    "explanation": "The author describes what these libraries lend, why they exist, and what challenges they face. The main trap is choice B, which twists the passage into an argument against books that it never makes."
+  },
+  {
+    "id": "EN4-008",
+    "prompt": "Read the passage and answer the question.\nMany libraries now lend more than books. Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time. These “libraries of things” are based on a simple idea: people may need certain objects only occasionally, so sharing them can be more practical than having every household buy its own. A family might borrow a cake pan shaped like a train for one birthday party or a power washer for one afternoon of cleaning.\nThese programs can save money and storage space, but they also require planning. Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again. Libraries must also decide which objects are safe and useful enough to include. Even with those challenges, many communities find that lending objects expands what a library can be—a place not only for information, but also for access. In that way, a shelf of tools may serve the same goal as a shelf of books: helping people do more with what they have.\nWhich sentence from the passage best supports the idea that libraries of things require careful management?",
+    "choices": {
+      "A": "Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time.",
+      "B": "A family might borrow a cake pan shaped like a train for one birthday party.",
+      "C": "Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again.",
+      "D": "Many communities find that lending objects expands what a library can be."
+    },
+    "correct": "C",
+    "explanation": "This sentence gives direct evidence of the careful work required to run such a program. The main trap is choice A, which describes the program but not its management needs."
+  },
+  {
+    "id": "EN4-009",
+    "prompt": "Read the passage and answer the question.\nMany libraries now lend more than books. Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time. These “libraries of things” are based on a simple idea: people may need certain objects only occasionally, so sharing them can be more practical than having every household buy its own. A family might borrow a cake pan shaped like a train for one birthday party or a power washer for one afternoon of cleaning.\nThese programs can save money and storage space, but they also require planning. Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again. Libraries must also decide which objects are safe and useful enough to include. Even with those challenges, many communities find that lending objects expands what a library can be—a place not only for information, but also for access. In that way, a shelf of tools may serve the same goal as a shelf of books: helping people do more with what they have.\nAs used in the passage, the word “patrons” most nearly means",
+    "choices": {
+      "A": "buildings",
+      "B": "customers or users",
+      "C": "workers",
+      "D": "neighbors"
+    },
+    "correct": "B",
+    "explanation": "“Patrons” refers to the people who use library services. The main trap is choice C, because the sentence is about people borrowing items, not working at the library."
+  },
+  {
+    "id": "EN4-010",
+    "prompt": "Read the passage and answer the question.\nMany libraries now lend more than books. Some allow patrons to borrow tools, baking pans, sewing machines, and musical instruments for short periods of time. These “libraries of things” are based on a simple idea: people may need certain objects only occasionally, so sharing them can be more practical than having every household buy its own. A family might borrow a cake pan shaped like a train for one birthday party or a power washer for one afternoon of cleaning.\nThese programs can save money and storage space, but they also require planning. Items must be labeled, inspected, repaired, and checked for missing parts before they are loaned again. Libraries must also decide which objects are safe and useful enough to include. Even with those challenges, many communities find that lending objects expands what a library can be—a place not only for information, but also for access. In that way, a shelf of tools may serve the same goal as a shelf of books: helping people do more with what they have.\nA town library wants to start a library of things. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "lend objects without checking whether parts are missing",
+      "B": "offer useful items and set up a system for inspecting and repairing them",
+      "C": "stock only the most expensive equipment available",
+      "D": "replace all book collections with household tools"
+    },
+    "correct": "B",
+    "explanation": "This choice matches both the practical purpose and the management needs described in the passage. The main trap is choice D, which falsely suggests that tools should replace books rather than complement them."
+  },
+  {
+    "id": "EN4-011",
+    "prompt": "Read the passage and answer the question.\nIris had been told that the observatory roof opened like a giant metal flower, but no one had mentioned how slowly. She and her father stood in the dark as the panels slid apart, revealing a clean slice of winter sky. The telescope itself looked less like a machine for adventure than a patient animal pointing upward.\nAt first Iris felt disappointed. She had imagined gasps, dramatic music, maybe even a scientist crying out when a planet swung into view. Instead, the room filled with quiet instructions. Adjust this knob. Wait for the motor to stop. Do not touch the lens. Her father, who volunteered at the observatory twice a month, moved with deliberate care.\nThen Saturn appeared in the eyepiece: a pale oval wrapped in a ring so thin and exact that Iris nearly forgot to breathe. What startled her was not its beauty alone, but its steadiness. The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing. On the drive home, the city lights looked less important than before. Iris had expected the universe to impress her by being loud. Instead, it had done so by being precise.\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Visiting an observatory is less exciting than most people expect.",
+      "B": "Iris learns that something quiet and careful can still feel awe-inspiring.",
+      "C": "Telescopes are difficult to use without professional training.",
+      "D": "Saturn is the most beautiful object in the night sky."
+    },
+    "correct": "B",
+    "explanation": "The passage contrasts Iris’s expectation of dramatic excitement with her final sense of wonder at Saturn’s silent precision. The main trap is choice A, which misses the positive transformation in her view."
+  },
+  {
+    "id": "EN4-012",
+    "prompt": "Read the passage and answer the question.\nIris had been told that the observatory roof opened like a giant metal flower, but no one had mentioned how slowly. She and her father stood in the dark as the panels slid apart, revealing a clean slice of winter sky. The telescope itself looked less like a machine for adventure than a patient animal pointing upward.\nAt first Iris felt disappointed. She had imagined gasps, dramatic music, maybe even a scientist crying out when a planet swung into view. Instead, the room filled with quiet instructions. Adjust this knob. Wait for the motor to stop. Do not touch the lens. Her father, who volunteered at the observatory twice a month, moved with deliberate care.\nThen Saturn appeared in the eyepiece: a pale oval wrapped in a ring so thin and exact that Iris nearly forgot to breathe. What startled her was not its beauty alone, but its steadiness. The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing. On the drive home, the city lights looked less important than before. Iris had expected the universe to impress her by being loud. Instead, it had done so by being precise.\nHow does Iris’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from eager to angry",
+      "B": "from doubtful to frightened",
+      "C": "from disappointed to deeply impressed",
+      "D": "from calm to embarrassed"
+    },
+    "correct": "C",
+    "explanation": "Iris starts out let down by the quiet process, then becomes astonished by what she sees. The main trap is choice A, because she does not become angry."
+  },
+  {
+    "id": "EN4-013",
+    "prompt": "Read the passage and answer the question.\nIris had been told that the observatory roof opened like a giant metal flower, but no one had mentioned how slowly. She and her father stood in the dark as the panels slid apart, revealing a clean slice of winter sky. The telescope itself looked less like a machine for adventure than a patient animal pointing upward.\nAt first Iris felt disappointed. She had imagined gasps, dramatic music, maybe even a scientist crying out when a planet swung into view. Instead, the room filled with quiet instructions. Adjust this knob. Wait for the motor to stop. Do not touch the lens. Her father, who volunteered at the observatory twice a month, moved with deliberate care.\nThen Saturn appeared in the eyepiece: a pale oval wrapped in a ring so thin and exact that Iris nearly forgot to breathe. What startled her was not its beauty alone, but its steadiness. The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing. On the drive home, the city lights looked less important than before. Iris had expected the universe to impress her by being loud. Instead, it had done so by being precise.\nWhat can the reader most reasonably infer about Iris’s father?",
+    "choices": {
+      "A": "He enjoys the observatory because he values careful observation.",
+      "B": "He finds the telescope boring and repetitive.",
+      "C": "He wishes the observatory used louder demonstrations.",
+      "D": "He is surprised that Saturn is visible that night."
+    },
+    "correct": "A",
+    "explanation": "The father moves with “deliberate care,” which suggests patience and respect for precise observation. The main trap is choice D, because nothing indicates surprise on his part."
+  },
+  {
+    "id": "EN4-014",
+    "prompt": "Read the passage and answer the question.\nIris had been told that the observatory roof opened like a giant metal flower, but no one had mentioned how slowly. She and her father stood in the dark as the panels slid apart, revealing a clean slice of winter sky. The telescope itself looked less like a machine for adventure than a patient animal pointing upward.\nAt first Iris felt disappointed. She had imagined gasps, dramatic music, maybe even a scientist crying out when a planet swung into view. Instead, the room filled with quiet instructions. Adjust this knob. Wait for the motor to stop. Do not touch the lens. Her father, who volunteered at the observatory twice a month, moved with deliberate care.\nThen Saturn appeared in the eyepiece: a pale oval wrapped in a ring so thin and exact that Iris nearly forgot to breathe. What startled her was not its beauty alone, but its steadiness. The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing. On the drive home, the city lights looked less important than before. Iris had expected the universe to impress her by being loud. Instead, it had done so by being precise.\nAs used in the final sentence, the word “precise” most nearly means",
+    "choices": {
+      "A": "carefully exact",
+      "B": "brightly colored",
+      "C": "easy to understand",
+      "D": "very close by"
+    },
+    "correct": "A",
+    "explanation": "“Precise” refers to the exact, steady appearance of Saturn and the careful experience of observing it. The main trap is choice B, which focuses on color rather than accuracy."
+  },
+  {
+    "id": "EN4-015",
+    "prompt": "Read the passage and answer the question.\nIris had been told that the observatory roof opened like a giant metal flower, but no one had mentioned how slowly. She and her father stood in the dark as the panels slid apart, revealing a clean slice of winter sky. The telescope itself looked less like a machine for adventure than a patient animal pointing upward.\nAt first Iris felt disappointed. She had imagined gasps, dramatic music, maybe even a scientist crying out when a planet swung into view. Instead, the room filled with quiet instructions. Adjust this knob. Wait for the motor to stop. Do not touch the lens. Her father, who volunteered at the observatory twice a month, moved with deliberate care.\nThen Saturn appeared in the eyepiece: a pale oval wrapped in a ring so thin and exact that Iris nearly forgot to breathe. What startled her was not its beauty alone, but its steadiness. The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing. On the drive home, the city lights looked less important than before. Iris had expected the universe to impress her by being loud. Instead, it had done so by being precise.\nWhich detail best supports the idea that the experience changes Iris’s understanding of awe?",
+    "choices": {
+      "A": "the panels slid apart, revealing a clean slice of winter sky",
+      "B": "the room filled with quiet instructions",
+      "C": "The planet did not flash like fireworks or rush across the darkness. It simply held its place, silent and astonishing.",
+      "D": "her father volunteered at the observatory twice a month"
+    },
+    "correct": "C",
+    "explanation": "This detail most clearly shows Iris learning that awe can come from quiet steadiness, not spectacle. The main trap is choice B, which shows the quiet setting but not her new understanding of wonder."
+  },
+  {
+    "id": "EN4-016",
+    "prompt": "Read the passage and answer the question.\nCoastal salt marshes may appear still and simple from a distance, but they are among the most productive ecosystems on Earth. Twice each day, tides bring in seawater and then pull it back out, carrying nutrients through a maze of grasses and channels. Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment that might otherwise wash away. In addition, marshes can reduce flooding by absorbing water during storms.\nBecause marshes provide so many benefits, some communities are working to restore ones that were filled, polluted, or cut off from natural tides in the past. Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again. However, marsh restoration is not as simple as planting a few seeds. Engineers and biologists must consider water levels, soil conditions, and nearby development. A healthy marsh depends on the right balance of many small factors working together.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Salt marshes are empty coastal spaces with little practical value.",
+      "B": "Salt marshes provide important environmental benefits, but restoring them requires careful planning.",
+      "C": "Engineers are more important than biologists in marsh restoration.",
+      "D": "Marsh plants grow only in places without tides."
+    },
+    "correct": "B",
+    "explanation": "The passage balances the value of marshes with the complexity of restoring them successfully. The main trap is choice A, which directly contradicts the author’s emphasis on how useful marshes are."
+  },
+  {
+    "id": "EN4-017",
+    "prompt": "Read the passage and answer the question.\nCoastal salt marshes may appear still and simple from a distance, but they are among the most productive ecosystems on Earth. Twice each day, tides bring in seawater and then pull it back out, carrying nutrients through a maze of grasses and channels. Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment that might otherwise wash away. In addition, marshes can reduce flooding by absorbing water during storms.\nBecause marshes provide so many benefits, some communities are working to restore ones that were filled, polluted, or cut off from natural tides in the past. Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again. However, marsh restoration is not as simple as planting a few seeds. Engineers and biologists must consider water levels, soil conditions, and nearby development. A healthy marsh depends on the right balance of many small factors working together.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to describe why salt marshes matter and why restoring them is complex",
+      "B": "to argue that all coastlines should be turned into marshes",
+      "C": "to compare salt marshes with mountain forests",
+      "D": "to tell a story about one crab living in a marsh"
+    },
+    "correct": "A",
+    "explanation": "The author explains both the ecological value of marshes and the many factors involved in restoration. The main trap is choice B, which turns the passage into an extreme argument it does not make."
+  },
+  {
+    "id": "EN4-018",
+    "prompt": "Read the passage and answer the question.\nCoastal salt marshes may appear still and simple from a distance, but they are among the most productive ecosystems on Earth. Twice each day, tides bring in seawater and then pull it back out, carrying nutrients through a maze of grasses and channels. Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment that might otherwise wash away. In addition, marshes can reduce flooding by absorbing water during storms.\nBecause marshes provide so many benefits, some communities are working to restore ones that were filled, polluted, or cut off from natural tides in the past. Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again. However, marsh restoration is not as simple as planting a few seeds. Engineers and biologists must consider water levels, soil conditions, and nearby development. A healthy marsh depends on the right balance of many small factors working together.\nWhich sentence from the passage best supports the claim that salt marshes can protect nearby land during storms?",
+    "choices": {
+      "A": "Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment.",
+      "B": "In addition, marshes can reduce flooding by absorbing water during storms.",
+      "C": "Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again.",
+      "D": "Engineers and biologists must consider water levels, soil conditions, and nearby development."
+    },
+    "correct": "B",
+    "explanation": "This sentence directly supports the claim that marshes help protect nearby land during storms. The main trap is choice A, which discusses habitat and sediment, not storm flooding."
+  },
+  {
+    "id": "EN4-019",
+    "prompt": "Read the passage and answer the question.\nCoastal salt marshes may appear still and simple from a distance, but they are among the most productive ecosystems on Earth. Twice each day, tides bring in seawater and then pull it back out, carrying nutrients through a maze of grasses and channels. Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment that might otherwise wash away. In addition, marshes can reduce flooding by absorbing water during storms.\nBecause marshes provide so many benefits, some communities are working to restore ones that were filled, polluted, or cut off from natural tides in the past. Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again. However, marsh restoration is not as simple as planting a few seeds. Engineers and biologists must consider water levels, soil conditions, and nearby development. A healthy marsh depends on the right balance of many small factors working together.\nAs used in the passage, the word “productive” most nearly means",
+    "choices": {
+      "A": "able to support much life and activity",
+      "B": "growing taller every year",
+      "C": "easy for people to build on",
+      "D": "completely free of pollution"
+    },
+    "correct": "A",
+    "explanation": "In context, “productive” refers to the marsh’s ability to support many organisms and ecological processes. The main trap is choice D, because the passage never says marshes are free of pollution."
+  },
+  {
+    "id": "EN4-020",
+    "prompt": "Read the passage and answer the question.\nCoastal salt marshes may appear still and simple from a distance, but they are among the most productive ecosystems on Earth. Twice each day, tides bring in seawater and then pull it back out, carrying nutrients through a maze of grasses and channels. Small fish and crabs shelter there, birds feed there, and the roots of marsh plants help trap sediment that might otherwise wash away. In addition, marshes can reduce flooding by absorbing water during storms.\nBecause marshes provide so many benefits, some communities are working to restore ones that were filled, polluted, or cut off from natural tides in the past. Restoration can involve removing barriers, replanting native grasses, and allowing water to move more naturally again. However, marsh restoration is not as simple as planting a few seeds. Engineers and biologists must consider water levels, soil conditions, and nearby development. A healthy marsh depends on the right balance of many small factors working together.\nA coastal town wants to restore a damaged marsh. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "replant grasses quickly without studying water flow or soil",
+      "B": "allow natural water movement to return while considering conditions such as soil and nearby development",
+      "C": "replace the marsh with a concrete wall because marshes are not useful in storms",
+      "D": "focus only on attracting birds and ignore all other marsh functions"
+    },
+    "correct": "B",
+    "explanation": "This answer reflects the passage’s emphasis on restoring natural function through careful planning. The main trap is choice A, which ignores the need for study and balance."
+  },
+  {
+    "id": "EN4-021",
+    "prompt": "Read the passage and answer the question.\nBen thought helping at his aunt’s used-book store would mean carrying boxes or arranging front-window displays. Instead, she seated him at a worktable with a stack of thin paper jackets that had slipped off their books. Some were torn. Some were bent. One had a coffee-ring stain pale as a moon.\n“These matter,” Aunt Elise said when she saw his face. “People read covers before they read pages.”\nBen began by smoothing the jackets flat and sliding them back onto the books. The task felt fussy and unimportant. But as the afternoon passed, he noticed how each cover changed the book beneath it. A faded mystery novel suddenly looked sharp once its jacket was straightened. A cookbook with a repaired tear seemed less abandoned, more ready to be chosen. Customers browsing nearby kept reaching first for the books whose jackets sat square and bright.\nNear closing time, an older man picked up a travel book Ben had just finished covering and said, “This one looks like it still has miles left in it.” Ben smiled. He had not written a word of the book, and yet he had helped it speak. By the time the last light clicked off, the table no longer seemed to him like the edge of the store. It felt more like a doorway.\nWhich statement best expresses the main idea of the passage?",
+    "choices": {
+      "A": "Repairing book jackets can influence how readers respond to books.",
+      "B": "Used-book stores should sell only books with perfect covers.",
+      "C": "Ben enjoys travel books more than mysteries or cookbooks.",
+      "D": "Customers care more about paper quality than about stories."
+    },
+    "correct": "A",
+    "explanation": "Ben learns that improving the jackets changes how customers notice and choose books. The main trap is choice B, which turns the passage into an extreme rule the author never states."
+  },
+  {
+    "id": "EN4-022",
+    "prompt": "Read the passage and answer the question.\nBen thought helping at his aunt’s used-book store would mean carrying boxes or arranging front-window displays. Instead, she seated him at a worktable with a stack of thin paper jackets that had slipped off their books. Some were torn. Some were bent. One had a coffee-ring stain pale as a moon.\n“These matter,” Aunt Elise said when she saw his face. “People read covers before they read pages.”\nBen began by smoothing the jackets flat and sliding them back onto the books. The task felt fussy and unimportant. But as the afternoon passed, he noticed how each cover changed the book beneath it. A faded mystery novel suddenly looked sharp once its jacket was straightened. A cookbook with a repaired tear seemed less abandoned, more ready to be chosen. Customers browsing nearby kept reaching first for the books whose jackets sat square and bright.\nNear closing time, an older man picked up a travel book Ben had just finished covering and said, “This one looks like it still has miles left in it.” Ben smiled. He had not written a word of the book, and yet he had helped it speak. By the time the last light clicked off, the table no longer seemed to him like the edge of the store. It felt more like a doorway.\nWhat can the reader most reasonably infer about Aunt Elise?",
+    "choices": {
+      "A": "She believes presentation can shape a customer’s interest in a book.",
+      "B": "She wants Ben to avoid talking to customers.",
+      "C": "She is trying to keep Ben away from the front of the store.",
+      "D": "She cares only about old travel books."
+    },
+    "correct": "A",
+    "explanation": "Aunt Elise’s comment that “People read covers before they read pages” makes this idea explicit. The main trap is choice C, because the passage gives no sign that she is trying to hide Ben from customers."
+  },
+  {
+    "id": "EN4-023",
+    "prompt": "Read the passage and answer the question.\nBen thought helping at his aunt’s used-book store would mean carrying boxes or arranging front-window displays. Instead, she seated him at a worktable with a stack of thin paper jackets that had slipped off their books. Some were torn. Some were bent. One had a coffee-ring stain pale as a moon.\n“These matter,” Aunt Elise said when she saw his face. “People read covers before they read pages.”\nBen began by smoothing the jackets flat and sliding them back onto the books. The task felt fussy and unimportant. But as the afternoon passed, he noticed how each cover changed the book beneath it. A faded mystery novel suddenly looked sharp once its jacket was straightened. A cookbook with a repaired tear seemed less abandoned, more ready to be chosen. Customers browsing nearby kept reaching first for the books whose jackets sat square and bright.\nNear closing time, an older man picked up a travel book Ben had just finished covering and said, “This one looks like it still has miles left in it.” Ben smiled. He had not written a word of the book, and yet he had helped it speak. By the time the last light clicked off, the table no longer seemed to him like the edge of the store. It felt more like a doorway.\nHow does Ben’s attitude change over the course of the passage?",
+    "choices": {
+      "A": "from confused to annoyed",
+      "B": "from dismissive to engaged",
+      "C": "from proud to embarrassed",
+      "D": "from cheerful to worried"
+    },
+    "correct": "B",
+    "explanation": "Ben begins by seeing the task as unimportant but ends by feeling that his table work matters. The main trap is choice A, because he is never really annoyed."
+  },
+  {
+    "id": "EN4-024",
+    "prompt": "Read the passage and answer the question.\nBen thought helping at his aunt’s used-book store would mean carrying boxes or arranging front-window displays. Instead, she seated him at a worktable with a stack of thin paper jackets that had slipped off their books. Some were torn. Some were bent. One had a coffee-ring stain pale as a moon.\n“These matter,” Aunt Elise said when she saw his face. “People read covers before they read pages.”\nBen began by smoothing the jackets flat and sliding them back onto the books. The task felt fussy and unimportant. But as the afternoon passed, he noticed how each cover changed the book beneath it. A faded mystery novel suddenly looked sharp once its jacket was straightened. A cookbook with a repaired tear seemed less abandoned, more ready to be chosen. Customers browsing nearby kept reaching first for the books whose jackets sat square and bright.\nNear closing time, an older man picked up a travel book Ben had just finished covering and said, “This one looks like it still has miles left in it.” Ben smiled. He had not written a word of the book, and yet he had helped it speak. By the time the last light clicked off, the table no longer seemed to him like the edge of the store. It felt more like a doorway.\nAs used in the passage, the word “fussy” most nearly means",
+    "choices": {
+      "A": "overly careful in a minor way",
+      "B": "covered with dust",
+      "C": "difficult to lift",
+      "D": "brightly decorated"
+    },
+    "correct": "A",
+    "explanation": "Ben initially sees the task as small, tedious detail work. The main trap is choice C, because “fussy” is about the kind of work, not its weight."
+  },
+  {
+    "id": "EN4-025",
+    "prompt": "Read the passage and answer the question.\nBen thought helping at his aunt’s used-book store would mean carrying boxes or arranging front-window displays. Instead, she seated him at a worktable with a stack of thin paper jackets that had slipped off their books. Some were torn. Some were bent. One had a coffee-ring stain pale as a moon.\n“These matter,” Aunt Elise said when she saw his face. “People read covers before they read pages.”\nBen began by smoothing the jackets flat and sliding them back onto the books. The task felt fussy and unimportant. But as the afternoon passed, he noticed how each cover changed the book beneath it. A faded mystery novel suddenly looked sharp once its jacket was straightened. A cookbook with a repaired tear seemed less abandoned, more ready to be chosen. Customers browsing nearby kept reaching first for the books whose jackets sat square and bright.\nNear closing time, an older man picked up a travel book Ben had just finished covering and said, “This one looks like it still has miles left in it.” Ben smiled. He had not written a word of the book, and yet he had helped it speak. By the time the last light clicked off, the table no longer seemed to him like the edge of the store. It felt more like a doorway.\nWhich detail best supports the idea that the repaired jackets affect customers?",
+    "choices": {
+      "A": "One had a coffee-ring stain pale as a moon.",
+      "B": "A cookbook with a repaired tear seemed less abandoned, more ready to be chosen.",
+      "C": "Ben thought helping at the store would mean carrying boxes.",
+      "D": "The last light clicked off."
+    },
+    "correct": "B",
+    "explanation": "This detail shows the repair affecting how a customer might view the book. The main trap is choice A, which describes damage but not the effect of fixing it."
+  },
+  {
+    "id": "EN4-026",
+    "prompt": "Read the passage and answer the question.\nOn hot days, railroad tracks can expand enough to bend slightly out of line, a problem sometimes called sun kink. Steel expands when heated, and because tracks are long pieces connected together, even small changes in length can create strong pressure. If that pressure has nowhere to go, the rails may push sideways. For this reason, railway crews monitor track temperature, inspect rails for signs of stress, and plan maintenance carefully.\nModern railroads use several strategies to reduce risk. Some tracks are anchored tightly to hold them in place, while crews may also adjust the tension in rails during installation so the steel is better prepared for expected temperatures. Paint, shade, and reduced train speeds can help in certain situations as well. No single solution works everywhere, because weather, track design, and local conditions all matter. What seems like a simple pair of metal lines requires constant attention to remain safely straight.\nWhich statement best summarizes the passage?",
+    "choices": {
+      "A": "Railroad tracks bend in heat because trains are usually too heavy.",
+      "B": "Hot weather can affect railroad tracks, so rail systems use several methods to reduce that risk.",
+      "C": "Painting railroad tracks is the only effective protection against heat.",
+      "D": "Railroad maintenance matters only in desert climates."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the problem of expansion and the variety of solutions railroads use. The main trap is choice C, because painting is presented as just one possible measure."
+  },
+  {
+    "id": "EN4-027",
+    "prompt": "Read the passage and answer the question.\nOn hot days, railroad tracks can expand enough to bend slightly out of line, a problem sometimes called sun kink. Steel expands when heated, and because tracks are long pieces connected together, even small changes in length can create strong pressure. If that pressure has nowhere to go, the rails may push sideways. For this reason, railway crews monitor track temperature, inspect rails for signs of stress, and plan maintenance carefully.\nModern railroads use several strategies to reduce risk. Some tracks are anchored tightly to hold them in place, while crews may also adjust the tension in rails during installation so the steel is better prepared for expected temperatures. Paint, shade, and reduced train speeds can help in certain situations as well. No single solution works everywhere, because weather, track design, and local conditions all matter. What seems like a simple pair of metal lines requires constant attention to remain safely straight.\nWhat is the author’s primary purpose in the passage?",
+    "choices": {
+      "A": "to explain why heat can affect railroad tracks and how railroads respond",
+      "B": "to persuade readers never to travel by train in summer",
+      "C": "to compare passenger trains with freight trains",
+      "D": "to describe the invention of the railroad"
+    },
+    "correct": "A",
+    "explanation": "The author describes the science of expansion and the practical maintenance steps that follow from it. The main trap is choice B, because the passage does not argue against summer train travel."
+  },
+  {
+    "id": "EN4-028",
+    "prompt": "Read the passage and answer the question.\nOn hot days, railroad tracks can expand enough to bend slightly out of line, a problem sometimes called sun kink. Steel expands when heated, and because tracks are long pieces connected together, even small changes in length can create strong pressure. If that pressure has nowhere to go, the rails may push sideways. For this reason, railway crews monitor track temperature, inspect rails for signs of stress, and plan maintenance carefully.\nModern railroads use several strategies to reduce risk. Some tracks are anchored tightly to hold them in place, while crews may also adjust the tension in rails during installation so the steel is better prepared for expected temperatures. Paint, shade, and reduced train speeds can help in certain situations as well. No single solution works everywhere, because weather, track design, and local conditions all matter. What seems like a simple pair of metal lines requires constant attention to remain safely straight.\nWhich sentence from the passage best supports the idea that railroads need different safety approaches in different places?",
+    "choices": {
+      "A": "Steel expands when heated.",
+      "B": "If that pressure has nowhere to go, the rails may push sideways.",
+      "C": "No single solution works everywhere, because weather, track design, and local conditions all matter.",
+      "D": "What seems like a simple pair of metal lines requires constant attention to remain safely straight."
+    },
+    "correct": "C",
+    "explanation": "This sentence directly states that safety measures must vary by situation. The main trap is choice D, which is true but more general."
+  },
+  {
+    "id": "EN4-029",
+    "prompt": "Read the passage and answer the question.\nOn hot days, railroad tracks can expand enough to bend slightly out of line, a problem sometimes called sun kink. Steel expands when heated, and because tracks are long pieces connected together, even small changes in length can create strong pressure. If that pressure has nowhere to go, the rails may push sideways. For this reason, railway crews monitor track temperature, inspect rails for signs of stress, and plan maintenance carefully.\nModern railroads use several strategies to reduce risk. Some tracks are anchored tightly to hold them in place, while crews may also adjust the tension in rails during installation so the steel is better prepared for expected temperatures. Paint, shade, and reduced train speeds can help in certain situations as well. No single solution works everywhere, because weather, track design, and local conditions all matter. What seems like a simple pair of metal lines requires constant attention to remain safely straight.\nAs used in the passage, the word “anchored” most nearly means",
+    "choices": {
+      "A": "tied down securely",
+      "B": "dropped into water",
+      "C": "covered with oil",
+      "D": "measured precisely"
+    },
+    "correct": "A",
+    "explanation": "“Anchored” means held firmly in place to reduce movement. The main trap is choice B, which uses an unrelated meaning of anchor."
+  },
+  {
+    "id": "EN4-030",
+    "prompt": "Read the passage and answer the question.\nOn hot days, railroad tracks can expand enough to bend slightly out of line, a problem sometimes called sun kink. Steel expands when heated, and because tracks are long pieces connected together, even small changes in length can create strong pressure. If that pressure has nowhere to go, the rails may push sideways. For this reason, railway crews monitor track temperature, inspect rails for signs of stress, and plan maintenance carefully.\nModern railroads use several strategies to reduce risk. Some tracks are anchored tightly to hold them in place, while crews may also adjust the tension in rails during installation so the steel is better prepared for expected temperatures. Paint, shade, and reduced train speeds can help in certain situations as well. No single solution works everywhere, because weather, track design, and local conditions all matter. What seems like a simple pair of metal lines requires constant attention to remain safely straight.\nA rail company is preparing for a summer heat wave. Based on the passage, which plan would best fit the author’s ideas?",
+    "choices": {
+      "A": "ignore temperature changes because steel rails do not expand much",
+      "B": "inspect tracks, monitor heat, and use safety measures such as speed reductions where needed",
+      "C": "replace all steel rails with wooden ones",
+      "D": "focus only on painting the tracks and ignore all other maintenance"
+    },
+    "correct": "B",
+    "explanation": "This choice combines the passage’s main recommendations into a sensible plan. The main trap is choice D, which incorrectly treats one measure as sufficient by itself."
+  },
+  {
+    "id": "EN4-031",
+    "prompt": "Read the passage and answer the question.\nThe student council wants to create a “welcome week” for new students. The members gathered ideas from teachers and eighth graders they also asked recent transfers what would have helped them feel comfortable sooner.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "The members gathered ideas from teachers and eighth graders, they also asked recent transfers what would have helped them feel comfortable sooner.",
+      "B": "The members gathered ideas from teachers and eighth graders and also asked recent transfers what would have helped them feel comfortable sooner.",
+      "C": "The members gathered ideas from teachers and eighth graders; also asking recent transfers what would have helped them feel comfortable sooner.",
+      "D": "The members gathered ideas from teachers and eighth graders because also asking recent transfers what would have helped them feel comfortable sooner."
+    },
+    "correct": "B",
+    "explanation": "This revision fixes the comma splice by creating a correct compound predicate. The main trap is choice A, which leaves two complete thoughts joined only by a comma."
+  },
+  {
+    "id": "EN4-032",
+    "prompt": "Read the passage and answer the question.\nBefore the final plan was approved, each adviser and student leaders were asked to review the schedule.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "each adviser and student leaders was asked to review the schedule",
+      "B": "each adviser and student leaders were being asked to review the schedule",
+      "C": "each adviser and student leaders were asked to review the schedule",
+      "D": "each adviser and student leaders ask to review the schedule"
+    },
+    "correct": "C",
+    "explanation": "Because the compound subject joins “adviser” and “student leaders,” the plural verb “were” is correct. The main trap is choice A, which incorrectly uses a singular verb with a compound subject."
+  },
+  {
+    "id": "EN4-033",
+    "prompt": "Read the passage and answer the question.\nAt first, some council members worried that the week would be too difficult to organize. However, after the group divided the work into smaller tasks, the schedule came together quickly.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "However",
+      "B": "For instance",
+      "C": "Likewise",
+      "D": "Meanwhile"
+    },
+    "correct": "A",
+    "explanation": "The second sentence contrasts the early worry with the later success in organizing the week. The main trap is choice B, which introduces an example rather than a contrast."
+  },
+  {
+    "id": "EN4-034",
+    "prompt": "Read the passage and answer the question.\nThe student council wants to create a “welcome week” for new students. The members gathered ideas from teachers and eighth graders and also asked recent transfers what would have helped them feel comfortable sooner. Before the final plan was approved, each adviser and student leaders were asked to review the schedule. At first, some council members worried that the week would be too difficult to organize. However, after the group divided the work into smaller tasks, the schedule came together quickly. [Which sentence would best conclude this paragraph?]",
+    "choices": {
+      "A": "Many schools hold assemblies during the year for different reasons.",
+      "B": "Now the council feels more confident that the week will help new students feel included from the start.",
+      "C": "Schedules can be printed in different colors and sizes.",
+      "D": "New students often come from many different neighborhoods."
+    },
+    "correct": "B",
+    "explanation": "This sentence logically concludes the paragraph by connecting the planning process to the goal of the project. The main trap is choice D, which is relevant to students generally but does not conclude the paragraph’s main point."
+  },
+  {
+    "id": "EN4-035",
+    "prompt": "Read the passage and answer the question.\nThe marching band practiced on the field after school. Carrying a silver trumpet, the formation was led by Maya toward the fifty-yard line.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "Carrying a silver trumpet, Maya led the formation toward the fifty-yard line.",
+      "B": "The formation, carrying a silver trumpet, was led by Maya toward the fifty-yard line.",
+      "C": "Carrying a silver trumpet, the fifty-yard line was approached by Maya and the formation.",
+      "D": "Maya, the formation was led toward the fifty-yard line carrying a silver trumpet."
+    },
+    "correct": "A",
+    "explanation": "The revision places the modifier next to Maya, the one actually carrying the trumpet. The main trap is choice B, which incorrectly suggests the formation is carrying the instrument."
+  },
+  {
+    "id": "EN4-036",
+    "prompt": "Read the passage and answer the question.\nFamilies attending the concert should arrive early to find their seats. They should also silence phones and unwrap snacks before the music begins.\nWhich revision best clarifies the underlined sentence?",
+    "choices": {
+      "A": "Families attending the concert should also silence phones and unwrap snacks before the music begins.",
+      "B": "Phones and snacks should also silence before the music begins.",
+      "C": "It should also silence phones and unwrap snacks before the music begins.",
+      "D": "They should also do it before the music begins."
+    },
+    "correct": "A",
+    "explanation": "This version clearly names who should take the action. The main trap is choice D, which uses vague pronouns and unclear wording."
+  },
+  {
+    "id": "EN4-037",
+    "prompt": "Read the passage and answer the question.\n(1) The community garden will host a free workshop on growing herbs in containers. (2) Participants will learn how to choose pots, mix soil, and trim plants for steady growth. (3) The workshop begins at 10:00 a.m. beside the greenhouse. (4) Space is limited, so advance sign-up is recommended.\nThe writer wants to add the following sentence:\nNo previous gardening experience is necessary.\nWhere should this sentence be placed to make the paragraph most effective?",
+    "choices": {
+      "A": "After sentence 1.",
+      "B": "After sentence 2.",
+      "C": "After sentence 3.",
+      "D": "After sentence 4."
+    },
+    "correct": "A",
+    "explanation": "The new sentence reassures beginners right after the workshop is introduced, which is the most helpful placement. The main trap is choice D, which delays that important reassurance until after most of the logistics."
+  },
+  {
+    "id": "EN4-038",
+    "prompt": "Read the passage and answer the question.\nPlease bring three items garden gloves, a notebook, and a water bottle to the workshop.\nWhich revision best corrects the punctuation in the underlined portion?",
+    "choices": {
+      "A": "items, garden gloves, a notebook, and a water bottle",
+      "B": "items: garden gloves, a notebook, and a water bottle",
+      "C": "items; garden gloves, a notebook, and a water bottle",
+      "D": "items garden gloves, a notebook, and a water bottle"
+    },
+    "correct": "B",
+    "explanation": "A colon correctly introduces the list after the complete thought. The main trap is choice A, which uses only a comma and creates faulty punctuation."
+  },
+  {
+    "id": "EN4-039",
+    "prompt": "Read the passage and answer the question.\nYesterday our class visited the city courthouse. One guide explain how judges, clerks, and lawyers each play a different role during a trial.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "explains",
+      "B": "explained",
+      "C": "explaining",
+      "D": "has explain"
+    },
+    "correct": "B",
+    "explanation": "“Yesterday” places the action in the past, so the verb must be past tense. The main trap is choice A, which shifts the sentence incorrectly into present tense."
+  },
+  {
+    "id": "EN4-040",
+    "prompt": "Read the passage and answer the question.\nThe peregrine falcon a swift hunter of city skies can dive at remarkable speed.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "The peregrine falcon, a swift hunter of city skies, can dive at remarkable speed.",
+      "B": "The peregrine falcon a swift hunter of city skies can dive at remarkable speed.",
+      "C": "The peregrine falcon, a swift hunter of city skies can dive, at remarkable speed.",
+      "D": "The peregrine falcon a swift hunter of city skies, can dive at remarkable speed."
+    },
+    "correct": "A",
+    "explanation": "The phrase “a swift hunter of city skies” is nonessential and should be set off by commas. The main trap is choice B, which leaves out necessary punctuation."
+  },
+  {
+    "id": "EN4-041",
+    "prompt": "Read the passage and answer the question.\nDuring the dry season, camels can do water in their bodies longer than many other animals can.\nWhich word best replaces the underlined word?",
+    "choices": {
+      "A": "store",
+      "B": "invent",
+      "C": "flatten",
+      "D": "spill"
+    },
+    "correct": "A",
+    "explanation": "Camels can store water for longer periods than many other animals. The main trap is choice D, which makes no sense in context."
+  },
+  {
+    "id": "EN4-042",
+    "prompt": "Read the passage and answer the question.\nOriginal sentences:\nThe rain began suddenly. The soccer game continued for another ten minutes.\nWhich revision combines the sentences most effectively?",
+    "choices": {
+      "A": "Although the rain began suddenly, the soccer game continued for another ten minutes.",
+      "B": "The rain began suddenly, the soccer game continued for another ten minutes.",
+      "C": "The soccer game continued for another ten minutes, the rain began suddenly.",
+      "D": "Began suddenly, the rain and the soccer game continued for another ten minutes."
+    },
+    "correct": "A",
+    "explanation": "This version clearly shows the contrast between the sudden rain and the game continuing. The main trap is choice B, which creates a comma splice."
+  },
+  {
+    "id": "EN4-043",
+    "prompt": "Read the passage and answer the question.\nThe makerspace lets students build simple robots, designing posters, and to record short videos.\nWhich revision best corrects the underlined portion?",
+    "choices": {
+      "A": "build simple robots, design posters, and record short videos",
+      "B": "build simple robots, designing posters, and recording short videos",
+      "C": "to build simple robots, design posters, and recording short videos",
+      "D": "build simple robots, to design posters, and record short videos"
+    },
+    "correct": "A",
+    "explanation": "The items in the series need matching verb forms for parallel structure. The main trap is choice B, which mixes verb forms."
+  },
+  {
+    "id": "EN4-044",
+    "prompt": "Read the passage and answer the question.\nSome people assume that mapmaking is outdated because phones provide directions automatically. In fact, cartographers still create maps for weather forecasts, disaster planning, and scientific research.\nWhich revision of the underlined transition best fits the relationship between the two sentences?",
+    "choices": {
+      "A": "In fact",
+      "B": "Meanwhile",
+      "C": "Otherwise",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "The second sentence corrects the mistaken assumption in the first sentence, so “In fact” fits best. The main trap is choice D, which signals similarity rather than correction."
+  },
+  {
+    "id": "EN4-045",
+    "prompt": "Read the passage and answer the question.\nAfter studying student suggestions for several weeks, a revised recess plan was proposed by the principal and teachers.\nWhich revision best corrects the misplaced modifier in the underlined portion?",
+    "choices": {
+      "A": "the principal and teachers proposed a revised recess plan",
+      "B": "a revised recess plan, proposed by the principal and teachers",
+      "C": "the proposal of a revised recess plan by the principal and teachers",
+      "D": "a revised recess plan was being proposed by the principal and teachers"
+    },
+    "correct": "A",
+    "explanation": "This revision fixes the misplaced modifier by putting the doers of the action immediately after the introductory phrase. The main trap is choice B, which is only a fragment."
+  },
+  {
+    "id": "EN4-046",
+    "prompt": "Read the passage and answer the question.\nA student is ending a speech that argues for longer library hours after school. The final sentence currently reads: “Longer hours would be helpful.”\nWhich revision would be most effective for persuading the audience?",
+    "choices": {
+      "A": "Some libraries stay open later than others.",
+      "B": "Longer library hours would give students more time to finish homework, use resources, and study in a quiet space after classes end.",
+      "C": "The library contains books, tables, and computers.",
+      "D": "Longer hours would happen after school."
+    },
+    "correct": "B",
+    "explanation": "This sentence is persuasive because it names specific benefits for students. The main trap is choice C, which describes the library without making an argument for longer hours."
+  },
+  {
+    "id": "EN4-047",
+    "prompt": "Read the passage and answer the question.\nCoach Ramirez handed the practice schedule to Zoe and I before the track meet.\nWhich revision best corrects the underlined word?",
+    "choices": {
+      "A": "me",
+      "B": "mine",
+      "C": "myself",
+      "D": "we"
+    },
+    "correct": "A",
+    "explanation": "The pronoun follows the preposition “to,” so the objective case “me” is correct. The main trap is choice C, a common but incorrect overcorrection."
+  },
+  {
+    "id": "EN4-048",
+    "prompt": "Read the passage and answer the question.\nNiko shouted \"Duck!\" when the volleyball flew toward the bench.\nWhich revision best punctuates the underlined portion?",
+    "choices": {
+      "A": "shouted, \"Duck!\"",
+      "B": "shouted \"Duck\"!",
+      "C": "shouted; \"Duck!\"",
+      "D": "shouted: \"Duck\","
+    },
+    "correct": "A",
+    "explanation": "A comma should introduce the quotation, and the exclamation point belongs inside the quotation marks. The main trap is choice B, which places the exclamation point outside the quotation."
+  },
+  {
+    "id": "EN4-049",
+    "prompt": "Read the passage and answer the question.\nWe searched the costume rack for several minutes. At last, Elena found the missing hat tucked inside a boot box.\nWhich transition best replaces the underlined words?",
+    "choices": {
+      "A": "At last",
+      "B": "For example",
+      "C": "Instead",
+      "D": "Similarly"
+    },
+    "correct": "A",
+    "explanation": "This transition shows that Elena found the hat after some time spent searching. The main trap is choice C, which suggests contrast rather than sequence."
+  },
+  {
+    "id": "EN4-050",
+    "prompt": "Read the passage and answer the question.\nBy the end of the service day, the playground fence had been repainted, the benches had been washed, and the flower beds had been cleared of weeds.\nWhich sentence would best conclude the paragraph?",
+    "choices": {
+      "A": "Fences are usually painted with weather-resistant materials.",
+      "B": "The park sits near the corner of Maple Street and Third Avenue.",
+      "C": "As the volunteers rolled up the last drop cloth, the whole playground looked ready to welcome children again.",
+      "D": "Flower beds often need care in every season."
+    },
+    "correct": "C",
+    "explanation": "This sentence provides a natural conclusion by reflecting on the result of the day’s work. The main trap is choice A, which gives a general fact instead of closing the scene."
+  }
+]
